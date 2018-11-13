@@ -1,0 +1,6 @@
+A.  Why GRU is better than LSTM?
+Ans- The core concept of LSTM’s are the cell state/ like memory, and it’s various gates. To review, the Forget gate decides what is relevant to keep from prior steps. The input gate decides what information is relevant to add from the current step. The output gate determines what the next hidden state should be. 
+GRU’s got rid of the cell state and used the hidden state to transfer information. It also only has two gates, a reset gate and update gate.The update gate acts similar to the forget and input gate of an LSTM. It decides what information to throw away and what new information to add. The reset gate is another gate is used to decide how much past information to forget.
+And that’s a GRU. GRU’s has fewer tensor operations; therefore, they are a little speedier to train then LSTM’s.
+
+Reference- https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21

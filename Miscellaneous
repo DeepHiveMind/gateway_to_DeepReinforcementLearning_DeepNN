@@ -1,0 +1,1 @@
+Autoencoder- encoding and decoding input file to get an output which is close to input one. So loss function is minimised. Main utility is to remove noise

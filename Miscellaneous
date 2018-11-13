@@ -1,2 +1,3 @@
 Autoencoder- encoding and decoding input file to get an output which is close to input one. So loss function is minimised. Main utility is to remove noise
+
 Flattening in CNN- It’s actually very simple: the fully connected layer expects a vector as input. Convolution outputs a series of filters, which each are a grid shape. Flattening specifies a function mapping from these filters to a vector, so you can backpropagate errors back through the convolutional layers.

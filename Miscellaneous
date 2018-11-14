@@ -1,3 +1,16 @@
 Autoencoder- encoding and decoding input file to get an output which is close to input one. So loss function is minimised. Main utility is to remove noise
 
 Flattening in CNN- It’s actually very simple: the fully connected layer expects a vector as input. Convolution outputs a series of filters, which each are a grid shape. Flattening specifies a function mapping from these filters to a vector, so you can backpropagate errors back through the convolutional layers.
+
+Verbose in Keras Model.fit
+By setting verbose 0, 1 or 2 you just say how do you want to 'see' the training progress for each epoch.
+
+verbose=0 will show you nothing (silent)
+
+verbose=1 will show you an animated progress bar like this:
+
+progres_bar
+
+verbose=2 will just mention the number of epoch like this:
+
+enter image description here

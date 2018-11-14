@@ -1,0 +1,10 @@
+9. Model.save() 
+   Model.tojson()
+   Model.save_weights()
+   
+   Sequential
+   compile
+   fit- fit_generator in CNN
+   predict- predict_generator
+   
+13. Fine Tuning

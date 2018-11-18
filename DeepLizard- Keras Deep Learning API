@@ -1,6 +1,26 @@
-9. Model.save() 
-   Model.tojson()
+3. Random- randint
+sklearn.preprocessing- MinMaxScaler
+                        fit_transform
+                        
+4. keras.models- Sequential([Dense(16, input_shape=(1,0), activation= 'relu'),
+                              Dense(32, activation='relu'),
+                              Dense(2, activation= 'softmax')])
+                              
+                  model.summary()
+                  
+5.  model.compile(Adam(lr=.0001), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+    model.fit(scaled_train_samples, train_labels, validation_split=0.1, batch_size=10, epochs=20, shuffle=True, verbose=2)
+
+
+9.  model.save('medical_trial_model.h5')
+    load_model
+    get_weights
+    optimiser
+    
+   json_string= Model.tojson()- saves only architecture
    Model.save_weights()
+   Model.load_weights()
+   model_from_json- reconstructing model from json string
    
    Sequential
    compile
@@ -8,3 +28,23 @@
    predict- predict_generator
    
 13. Fine Tuning
+
+
+31. MobileNet is of 31 mb and 4.2 mn parameters while VGG16 is of 553 mb and 138 mn parameters
+   Keras.preprocessing - Image- Load_img, imag_to array
+   np= expand_dims(axis=0)
+   keras.applications- mobilenet.preprocess_input
+                       Imagenet_utils.decode_predictions
+                    
+32. ImageDataGenerator- flow_from_directory
+    
+    keras.layers.core- Dense constructor, fn- trainable
+    
+    keras.model- Models constructor
+                
+                 model.fit_generator
+                 model.predict_generator  
+                 
+    sklearn.metrics - confusion_matrix
+                      plotconfusion_matrix
+    

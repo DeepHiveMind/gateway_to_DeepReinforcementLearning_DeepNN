@@ -26,8 +26,8 @@ sklearn.preprocessing- MinMaxScaler(feature_range=(0,1))
    
   ImageDataGenerator().flow_from_directory(train_path, target_size=(224,224), classes=['dog', 'cat'], batch_size=10) 
     Sequential([
-        Conv2D(32, (3, 3), activation='relu', input_shape=(224,224,3)),
-        Flatten(),
+        Conv2D(32, (3, 3), activation='relu', input_shape=(224,224,3)), #3 is channel in RGB layer
+        Flatten(), #flattening to 1D tensor
         Dense(2, activation='softmax'),
    .compile(Adam(lr=.0001), loss='categorical_crossentropy', metrics=['accuracy'])
    .fit_generator(train_batches, steps_per_epoch=4, 
@@ -39,9 +39,20 @@ sklearn.preprocessing- MinMaxScaler(feature_range=(0,1))
    model = Sequential()
 for layer in vgg16_model.layers:
     model.add(layer)
+    model.layers.pop()
+     layer.trainable = False
+     model.add(Dense(2, activation='softmax'))
 13. Fine Tuning
 
-
+DATA AUGMENTAION
+ImageDataGenerator(rotation_range=10, width_shift_range=0.1, 
+       height_shift_range=0.1, shear_range=0.15, zoom_range=0.1, 
+       channel_shift_range=10., horizontal_flip=True)
+       
+     image = np.expand_dims(ndimage.imread(image_path),0)
+     
+     gen.flow(image)
+       
 31. MobileNet is of 31 mb and 4.2 mn parameters while VGG16 is of 553 mb and 138 mn parameters
    Keras.preprocessing - Image- Load_img, imag_to array
    np= expand_dims(axis=0)

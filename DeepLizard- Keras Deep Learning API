@@ -26,7 +26,8 @@ sklearn.preprocessing- MinMaxScaler(feature_range=(0,1))
    
   ImageDataGenerator().flow_from_directory(train_path, target_size=(224,224), classes=['dog', 'cat'], batch_size=10) 
     Sequential([
-        Conv2D(32, (3, 3), activation='relu', input_shape=(224,224,3)), #3 is channel in RGB layer
+        Conv2D(32, (3, 3), activation='relu', input_shape=(224,224,3), use_bias=True, bias_initializer='zeros',padding='same'), #3 is channel in RGB layer
+        MaxPooling2D(pool_size=(2,2), strides=2)
         Flatten(), #flattening to 1D tensor
         Dense(2, activation='softmax'),
    .compile(Adam(lr=.0001), loss='categorical_crossentropy', metrics=['accuracy'])
@@ -53,6 +54,12 @@ ImageDataGenerator(rotation_range=10, width_shift_range=0.1,
      
      gen.flow(image)
        
+       os.environ['PYTHONHASSEED']='0'
+       rn.seed(1234)
+       from keras import backend as K
+       tf.set_random_seed(89)
+       K.set_session(sess)
+       
 31. MobileNet is of 31 mb and 4.2 mn parameters while VGG16 is of 553 mb and 138 mn parameters
    Keras.preprocessing - Image- Load_img, imag_to array
    np= expand_dims(axis=0)
@@ -71,3 +78,21 @@ ImageDataGenerator(rotation_range=10, width_shift_range=0.1,
     sklearn.metrics - confusion_matrix
                       plotconfusion_matrix
     
+    
+    FLASK
+    from flask import request
+from flask import jsonify
+from flask import Flask
+
+app = Flask(__name__) #creating an instance of flask class #name of application #__ bcz we are using a single module
+#export FLASH_APP= hello_app.py
+#flask run --host=0.0.0.0
+
+@app.route('/hello',methods=['POST']) #method- what kind of http request is allowed
+def hello():
+    message = request.get_json(force=True) #always parse json even if it is unsure of data type
+    name = message['name']
+    response = {
+        'greeting': 'Hello, ' + name + '!'
+    }
+    return jsonify(response) #convert python dictionary into json

@@ -96,3 +96,10 @@ def hello():
         'greeting': 'Hello, ' + name + '!'
     }
     return jsonify(response) #convert python dictionary into json
+    
+    Image.open(io.BytesIO(decoded))
+    
+    To show the values from data to visual- 
+    head- d3-data visualization api,crossfileter- ways to interact with and explore dataset in browser(cf.dimensions),  dc- rowchart, piechart 
+
+Instead of data flowing towards model, we can have model transferred towards data for privacy of data

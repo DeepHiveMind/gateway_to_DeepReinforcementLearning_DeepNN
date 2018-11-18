@@ -1,1 +1,6 @@
 Xavier Initialization- weight* sqrt(1/n)
+scikitlearn CountVectoriser- Convert a collection of text documents to a matrix of token counts
+scaler = MinMaxScaler(feature_range=(0,1))
+scaled_train_samples = scaler.fit_transform((train_samples).reshape(-1,1))
+
+Batch Normalization

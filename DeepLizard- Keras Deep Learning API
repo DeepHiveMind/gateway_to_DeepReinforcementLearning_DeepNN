@@ -1,6 +1,6 @@
 3. Random- randint
-sklearn.preprocessing- MinMaxScaler
-                        fit_transform
+sklearn.preprocessing- MinMaxScaler(feature_range=(0,1))
+                        scaler.fit_transform((train_samples).reshape(-1,1))
                         
 4. keras.models- Sequential([Dense(16, input_shape=(1,0), activation= 'relu'),
                               Dense(32, activation='relu'),
@@ -21,12 +21,24 @@ sklearn.preprocessing- MinMaxScaler
    Model.save_weights()
    Model.load_weights()
    model_from_json- reconstructing model from json string
+   model.predict_classes(scaled_test_samples, batch_size=10, verbose=0
+   plot_confusion_matrix 
    
-   Sequential
-   compile
-   fit- fit_generator in CNN
-   predict- predict_generator
+  ImageDataGenerator().flow_from_directory(train_path, target_size=(224,224), classes=['dog', 'cat'], batch_size=10) 
+    Sequential([
+        Conv2D(32, (3, 3), activation='relu', input_shape=(224,224,3)),
+        Flatten(),
+        Dense(2, activation='softmax'),
+   .compile(Adam(lr=.0001), loss='categorical_crossentropy', metrics=['accuracy'])
+   .fit_generator(train_batches, steps_per_epoch=4, 
+                    validation_data=valid_batches, validation_steps=4, epochs=5, verbose=2)
+   predict- model.predict_generator(test_batches, steps=1, verbose=0)
    
+   
+   keras.applications.vgg16.VGG16()
+   model = Sequential()
+for layer in vgg16_model.layers:
+    model.add(layer)
 13. Fine Tuning
 
 

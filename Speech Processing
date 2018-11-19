@@ -1,1 +1,14 @@
 Speech Recognition has seen a tremendous improvement in the last 5 years. People who have been accessing OK GOOGLE feature from the beginning would have lived the improvement in the last 5 years. Thanks to Deep Learning.
+
+We use .wav file to read audio as mp3 cannot be read as .txt file. 
+.wav is read using library librosa in python.
+
+Sampling Rate- 
+
+Mono Audio- 1 source of signal
+we convert stereo audio to mono audio using Librosa library
+
+Fourier Transform is a tool which allows us to convert our time domain signal into the frequency domain. A signal in the frequency domain requires much less computational space for storage.
+
+Mel-frequency cepstral coefficients (MFCCs)
+Our voice/sound is dependent on the shape of our vocal tract including tongue, teeth etc. If we can determine this shape accurately, we can recognize the word/character being said. MFCC is a representation of the short-term power spectrum of a sound, which in simple terms represents the shape of the vocal tract. 

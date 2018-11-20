@@ -22,3 +22,25 @@ The idea is, if the model is at local minima where a slight change in parameters
 
 Snapshot Ensembling
 It is a technique used along with SGDR. The basic idea of ensembling is to train more than one model for a specific task and average out their predictions. Most of the models give different predictions for the same input. So if one model gives the wrong prediction, another model gives the correct prediction.
+
+
+CODE IS AS FOLLOWS
+import torch
+from torchvision import models
+import matplotlib.pyplot as plt
+from data_loaders import data_loader
+from trainer import train
+
+train_dl, valid_dl, test_dl = data_loader.get_data_loaders(train_path=train_path, valid_path=valid_path, test_path=test_path,
+                                                          batch_size=64, num_workers=8)
+model = models.resnet34(pretrained=True)                                                          
+criterion = torch.nn.CrossEntropyLoss()                                                          
+ trainer = train.ModelTrainer(model=model, train_dl=train_dl, valid_dl=valid_dl, test_dl=test_dl, criterion=criterion)
+ dummy_sgdr is a function which plots changing learning rate at every iteration in sgdr considering the passed parameters
+trainer.dummy_sgdr(learning_rate=1e-2, n_cycles=3, cycle_len=1, cycle_mult=2)
+trainer.fit(n_cycles=3, learning_rate=1e-2)
+trainer.unfreeze()
+ 
+ 
+ 
+ 

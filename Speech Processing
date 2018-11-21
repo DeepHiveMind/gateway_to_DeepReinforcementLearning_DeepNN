@@ -40,7 +40,21 @@ criterion = torch.nn.CrossEntropyLoss()
 trainer.dummy_sgdr(learning_rate=1e-2, n_cycles=3, cycle_len=1, cycle_mult=2)
 trainer.fit(n_cycles=3, learning_rate=1e-2)
 trainer.unfreeze()
+
+torch.load
+trainer.test_epoch()
  
+ Only the model training is done on GPU. 
+ On Google Colab, it takes around 1-1.5 seconds to train 1 batch (of size 64) on GPU. 
+ The rest of time is spent on loading the batches
+ With num_workers=8, pytorch uses python multiprocessing to load batches and keep it ready when required
  
- 
- 
+ What problem does ResNet solve?
+Problem:
+When deeper networks starts converging, a degradation problem has been exposed: with the network depth increasing, accuracy gets saturated and then degrades rapidly.
+ ModelTrainer modifies the fc layer so that last layer output corressponds to number of classes in training data
+ModelTrainer freezes all the layers except the fc layer. We can prevent this by passing freeze=False while creating ModelTrainer
+dummy_sgdr is a function which plots changing learning rate at every iteration in sgdr considering the passed parameters
+
+
+

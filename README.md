@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJ
 4. 8 Nov- 10 Nov
 
 5. 10 Nov- 
+
+23- 30 Nov- Repository Directory Structure - https://docs.python-guide.org/writing/structure/
+            Densenet- https://towardsdatascience.com/densenet-2810936aeebb

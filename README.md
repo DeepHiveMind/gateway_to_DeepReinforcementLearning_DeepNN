@@ -27,3 +27,4 @@ https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJ
 
 23- 30 Nov- Repository Directory Structure - https://docs.python-guide.org/writing/structure/
             Densenet- https://towardsdatascience.com/densenet-2810936aeebb
+            OCR- https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8

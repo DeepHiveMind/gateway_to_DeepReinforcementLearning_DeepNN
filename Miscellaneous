@@ -14,3 +14,6 @@ progres_bar
 verbose=2 will just mention the number of epoch like this:
 
 enter image description here
+
+
+Log Loss- measures the performance of a classification model where the prediction input is a probability value between 0 and 1

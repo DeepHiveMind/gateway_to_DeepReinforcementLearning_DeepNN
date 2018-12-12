@@ -4,3 +4,16 @@ GRU’s got rid of the cell state and used the hidden state to transfer informat
 And that’s a GRU. GRU’s has fewer tensor operations; therefore, they are a little speedier to train then LSTM’s.
 
 Reference- https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+
+Memory
+
+The main benefits of using NumPy arrays should be smaller memory consumption and better runtime behavior. 
+
+For Python Lists -  We can conclude from this that for every new element, we need another eight bytes for the reference to the new object. The new integer object itself consumes 28 bytes. The size of a list "lst" without the size of the elements can be calculated with:
+
+64 + 8 * len(lst) + + len(lst) * 28
+
+NumPy takes up less space. This means that an arbitrary integer array of length "n" in numpy needs
+
+96 + n * 8 Bytes

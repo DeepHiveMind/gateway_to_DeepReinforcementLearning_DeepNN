@@ -17,3 +17,9 @@ For Python Lists -  We can conclude from this that for every new element, we nee
 NumPy takes up less space. This means that an arbitrary integer array of length "n" in numpy needs
 
 96 + n * 8 Bytes
+
+3. 
+The difference between the two TensorFlow codes run for getting the results relies in the way the matrices are generated. In the fastest one, I asked TensorFlow to generate the curves, and so this happens in the GPU; in the slowest one I passed to TensorFlow already existing matrices.
+
+So here we loose lots of time: in the copy of the matrices from the system memory to the GPU one.
+https://towardsdatascience.com/numpy-vs-tensorflow-speed-on-matrix-calculations-9cbff6b3ce04

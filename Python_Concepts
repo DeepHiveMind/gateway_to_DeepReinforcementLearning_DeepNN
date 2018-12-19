@@ -32,3 +32,13 @@ print person2.age
 
 # print the result 
 print Person.isAdult(22) 
+
+
+2.
+python -m pip tells python to run with the pip module as the main module.
+
+python pip isn't understood, because pip isn't a command line argument that python understands (i.e., pip is a module).
+
+DOUBT___---!pip install -q gTTS DOUBT
+
+3.

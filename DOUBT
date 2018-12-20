@@ -1,2 +1,6 @@
 # Note: Argument destructuring is not available in Python 3.
 dataset3 = dataset3.filter(lambda x, (y, z): ...)
+
+for i in range(100):
+  value = sess.run(next_element)
+  assert i == value

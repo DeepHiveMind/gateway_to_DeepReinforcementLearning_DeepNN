@@ -1,0 +1,4 @@
+1. tf.initializers.global_variables
+Defined in tensorflow/python/ops/variables.py.
+
+Returns an Op that initializes global variables.

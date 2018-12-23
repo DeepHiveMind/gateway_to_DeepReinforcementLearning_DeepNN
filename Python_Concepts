@@ -41,4 +41,7 @@ python pip isn't understood, because pip isn't a command line argument that pyth
 
 DOUBT___---!pip install -q gTTS DOUBT
 
-3.
+3.Enumerate() in Python
+A lot of times when dealing with iterators, we also get a need to keep a count of iterations. 
+Python eases the programmers’ task by providing a built-in function enumerate() for this task.
+Enumerate() method adds a counter to an iterable and returns it in a form of enumerate object. This enumerate object can then be used directly in for loops or be converted into a list of tuples using list() method.

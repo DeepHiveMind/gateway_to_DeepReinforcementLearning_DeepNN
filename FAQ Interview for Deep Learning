@@ -37,6 +37,12 @@ values to Python without requiring a Session.run(). For example, to multiply two
 
 Here, the use of the tf.constant(12) Tensor object will promote all math operations to tensor operations, and as such all return values with be tensors.
 
+We all know that we shouldn’t set the initial weights to zeros, but under what circumstances, we can set them to zeros?
+What’s the mathematical priciple of momentum, RMSprop, and Adam?
+What’s the difference between those imagenet winner models?
+Would you eager to implement the technique from papers? And if you do, do you think your math level can handle that?
+What’s the usage of embedding layer? And why we need this layer?
+
 
 *** No good source for OpenCV Python questions, Reinforcement Learning and Deep Reinforcement Questions
 ****Most of the questions are repetitive in blogs of each section

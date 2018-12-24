@@ -45,3 +45,16 @@ DOUBT___---!pip install -q gTTS DOUBT
 A lot of times when dealing with iterators, we also get a need to keep a count of iterations. 
 Python eases the programmers’ task by providing a built-in function enumerate() for this task.
 Enumerate() method adds a counter to an iterable and returns it in a form of enumerate object. This enumerate object can then be used directly in for loops or be converted into a list of tuples using list() method.
+
+266
+
+With __future__ module's inclusion, you can slowly be accustomed to incompatible changes or to such ones introducing new keywords.
+
+E.g., for using context managers, you had to do from __future__ import with_statement in 2.5, as the with keyword was new and shouldn't be used as variable names any longer. In order to be able to use a program which uses variables named with, the above import statement is needed.
+
+Another example is
+
+from __future__ import division
+print 8/7  # prints 1.1428571428571428
+print 8//7 # prints 1
+Without the __future__ stuff, both print statements would print 1.

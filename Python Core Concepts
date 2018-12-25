@@ -1,0 +1,6 @@
+Decorators- It helps us generalize the use of functions in functions very easily
+            Gen 2 or 3 functions are wrapped
+            
+Generator- Yield
+Useful when there is memory and time issue. And we don't need to view the results all at one then
+we can generate the result in parts using the yield fucntion

@@ -1,7 +1,7 @@
 # 80-days-study-guide-to-Deep-Learning-Reinforced-Learning-and-Deep-Reinforced-Learning
-In this repository I will pen down my strategy for career transition to DL,RL,DRL. Since the most difficult thing in self preparation is to time schedule, so I will share mine one.
+In this repository I will pen down my strategy for career transition to DL,RL,DRL. Since the most difficult thing in self preparation is to time schedule, so I will one
 
-My schedule of study (in terms of days) 
+Schedule to study (in terms of days) 
 1. 23 Oct- 30 Oct ( 1 week)- Purpose was to get a theoretical basics of Deep Learning, Reinforced Learning and Deep Reinforced Learning 
 https://skymind.ai/wiki/deep-reinforcement-learning
 https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8

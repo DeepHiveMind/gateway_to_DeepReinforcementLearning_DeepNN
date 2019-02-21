@@ -1,7 +1,7 @@
 #Tesseract
 https://github.com/madmaze/pytesseract --
 https://askubuntu.com/questions/943980/how-can-i-get-tesseract-ocr-to-recognise-the-large-digits-of-an-electricity-mete
-Meduium
+Meduium - https://medium.freecodecamp.org/getting-started-with-tesseract-part-i-2a6a6b1cf75e
 
 #OpenCV - KNN
 https://www.mkompf.com/cplus/emeocv.html
@@ -15,3 +15,6 @@ https://unix.stackexchange.com/questions/377359/how-to-use-ocr-from-the-command-
   $ wc -w scanned.txt
   
  #Deep Learning- HITL- OCR engine
+ 
+ 
+ 

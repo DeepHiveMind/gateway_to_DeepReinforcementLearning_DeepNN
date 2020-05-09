@@ -4,18 +4,21 @@ https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautif
 
 
 ## Python Web crawling Psuedo code
+
 '''
-import urllib2
-from bs4 import BeautifulSoup
 
-quote_page = ‘http://www.bloomberg.com/quote/SPX:IND'
-page = urllib2.urlopen(quote_page)   #query the website and return the html to the variable ‘page’
+  import urllib2
+  from bs4 import BeautifulSoup
 
-soup = BeautifulSoup(page, ‘html.parser’) # parse the html using beautiful soup and store in variable `soup'
-name_box = soup.find(‘h1’, attrs={‘class’: ‘name’}) 
-name = name_box.text.strip() # strip() is used to remove starting and trailing spaces
+  quote_page = ‘http://www.bloomberg.com/quote/SPX:IND'
+  page = urllib2.urlopen(quote_page)   #query the website and return the html to the variable ‘page’
 
-price_box = soup.find(‘div’, attrs={‘class’:’price’}) # get the index price
-price = price_box.text
-print price
+  soup = BeautifulSoup(page, ‘html.parser’) # parse the html using beautiful soup and store in variable `soup'
+  name_box = soup.find(‘h1’, attrs={‘class’: ‘name’}) 
+  name = name_box.text.strip() # strip() is used to remove starting and trailing spaces
+
+  price_box = soup.find(‘div’, attrs={‘class’:’price’}) # get the index price
+  price = price_box.text
+  print price
+
 '''

@@ -4,6 +4,7 @@
                   
 ##  ConvNet Model build (Sequential api), compile, train, save weights, predict api 
 	'''
+	
     from keras import backend as K
     tf.set_random_seed(89)
     K.set_session(sess)
@@ -38,13 +39,14 @@
  from flask import Flask
  app = Flask(__name__) 
  @app.route('/hello',methods=['POST']) 
-'''
-'''
-def hello():
+ 
+ def hello():
     message = request.get_json(force=True) #always parse json even if it is unsure of data type
     name = message['name']
     response = {'greeting': 'Hello, ' + name + '!'}
     return jsonify(response) #convert python dictionary into json
+    
+
  ''' 
  
  #export FLASH_APP= hello_app.py

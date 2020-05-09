@@ -26,6 +26,9 @@ https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0
 
 https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm (Deep learning series for NLP )
 
+<a href="https://www.youtube.com/watch?v=2pWv7GOvuf0" " target="_blank"><img src="https://thumbs.gfycat.com/BrilliantImpressiveBoar-size_restricted.gif" 
+alt="David Silver- Introduction to RL" width="240" height="180" border="10" /></a>
+
 * DL
 
 https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/

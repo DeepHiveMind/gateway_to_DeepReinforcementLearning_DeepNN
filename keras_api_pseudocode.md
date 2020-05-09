@@ -21,7 +21,7 @@
 
 
 ## Model servable (binary) saving, loading, get weights for Model binary
-    '''
+     '''
     model.save('medical_trial_model.h5')
     json_string= model.tojson() #saves only architecture 
     '''
@@ -32,14 +32,14 @@
 
 ## Creating REST API with python FLASK micro web framework - pseudocode 
 
- '''
-from flask import request
-from flask import jsonify
-from flask import Flask
-
-app = Flask(__name__) 
-@app.route('/hello',methods=['POST']) 
-
+'''
+ from flask import request
+ from flask import jsonify
+ from flask import Flask
+ app = Flask(__name__) 
+ @app.route('/hello',methods=['POST']) 
+'''
+'''
 def hello():
     message = request.get_json(force=True) #always parse json even if it is unsure of data type
     name = message['name']

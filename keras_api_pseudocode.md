@@ -3,7 +3,7 @@
 
                   
 ##  ConvNet Model build (Sequential api), compile, train, save weights, predict api 
-	'''
+	''' python
     from keras import backend as K
     tf.set_random_seed(89)
     K.set_session(sess)
@@ -21,8 +21,10 @@
 
 
 ## Model servable (binary) saving, loading, get weights for Model binary
-    '''model.save('medical_trial_model.h5')
-       json_string= model.tojson() #saves only architecture '''
+    '''
+    model.save('medical_trial_model.h5')
+    json_string= model.tojson() #saves only architecture 
+    '''
     
    
 ## Importing pretrained model application (such as State of art VGG16 model)   
@@ -30,7 +32,7 @@
 
 ## Creating REST API with python FLASK micro web framework - pseudocode 
 
-'''
+'''python
 from flask import request
 from flask import jsonify
 from flask import Flask

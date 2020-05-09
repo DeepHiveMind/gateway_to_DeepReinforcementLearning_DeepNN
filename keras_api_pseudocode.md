@@ -3,7 +3,7 @@
 
                   
 ##  ConvNet Model build (Sequential api), compile, train, save weights, predict api 
-	''' python
+	'''
     from keras import backend as K
     tf.set_random_seed(89)
     K.set_session(sess)
@@ -32,25 +32,23 @@
 
 ## Creating REST API with python FLASK micro web framework - pseudocode 
 
-'''python
+ '''
 from flask import request
 from flask import jsonify
 from flask import Flask
 
-app = Flask(__name__) #creating an instance of flask class 
-@app.route('/hello',methods=['POST']) #method- what kind of http request is allowed
+app = Flask(__name__) 
+@app.route('/hello',methods=['POST']) 
 
 def hello():
     message = request.get_json(force=True) #always parse json even if it is unsure of data type
     name = message['name']
     response = {'greeting': 'Hello, ' + name + '!'}
     return jsonify(response) #convert python dictionary into json
- 
+ ''' 
  
  #export FLASH_APP= hello_app.py
  #flask run --host=0.0.0.0
-
-''' 
 
 # Autoencoder Model: 
  Encoding and decoding input file to get an output which is close to input one. So loss function is minimised. Main utility is to remove noise

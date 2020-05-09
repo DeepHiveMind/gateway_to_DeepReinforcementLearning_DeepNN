@@ -1,9 +1,10 @@
 # Reference for Deep-Learning | Reinforcement-Learning | Deep-Reinforcement-Learning
 In this repository, sharing 
- - certain good references for learning and career transition to DL,RL,DRL (Deep Reinforcement Learning)
- - pseudocode
+ - certain good references for learning and career transitioning to the world of 'DL,RL,DRL (Deep Reinforcement Learning)'
+ - Pseudocode
  - Jupyter notebook (interactive python notebook/ .ipynb) for code samples in Deep Learning & Deep Reinforcement Learning
  - FAQ on DL/ML/AI (Interview questions list)
+ - python advanced concepts (such as class/static methods, web crawling et al)
 
 ## Reference for learning RL/DRL/DL/ML -  
 

@@ -22,7 +22,7 @@ https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-wo
 
 https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d
 
-<a href="https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm"><img src="https://i.gifer.com/O0L2.gif" width="240" height="180" border="10"/></a> 'Click on the Iamge for Video Series on Deep learning series for NLP'
+<a href="https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm"><img src="https://sknadig.me/assets/posts/att_basics/att_basic.gif" width="240" height="180" border="10"/></a> 'Click on the Iamge for Video Series on Deep learning series for NLP'
 
  
 * DL

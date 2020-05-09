@@ -32,7 +32,7 @@ https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/
 
 https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/
 
-http://deeplearning.stanford.edu/tutorial/supervised/Pooling/
+http://deeplearning.stanford.edu/tutorial/
 
 * ML (Classical ML)
 

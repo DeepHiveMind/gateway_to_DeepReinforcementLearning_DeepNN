@@ -3,7 +3,10 @@ We can use a class method without making an object of a class(Person) using @cla
 While in staticmethod, neither class variable is passed nor self variable.
 
 # Python program to demonstrate use of class method and static method.
+
+
 ''' 
+
 from datetime import date 
 
 class Person: 

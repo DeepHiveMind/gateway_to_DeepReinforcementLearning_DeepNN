@@ -16,18 +16,14 @@ https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learn
 
 https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12
 
-https://www.youtube.com/watch?v=2pWv7GOvuf0 (Lecture by David Silver on Reinforcement-Learning)
-
-[![David Silver- Introduction to RL](https://thumbs.gfycat.com/BrilliantImpressiveBoar-size_restricted.gif)](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+<a href="https://www.youtube.com/watch?v=2pWv7GOvuf0"><img src="https://thumbs.gfycat.com/GreedyLeadingAnophelesmosquito-max-1mb.gif" width="240" height="180" border="10"/></a> (Video Lecture by David Silver on Reinforcement-Learning)
 
 * NLP
 
 https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d
 
-https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm (Deep learning series for NLP )
+<a href="https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm"><img src="https://i.gifer.com/O0L2.gif" width="240" height="180" border="10"/></a> 'Video Series on Deep learning series for NLP'
 
-<a href="https://www.youtube.com/watch?v=2pWv7GOvuf0"><img src="https://thumbs.gfycat.com/BrilliantImpressiveBoar-size_restricted.gif" 
- width="240" height="180" border="10" /></a>
  
 * DL
 
@@ -42,13 +38,6 @@ http://deeplearning.stanford.edu/tutorial/
 https://skymind.ai/wiki/machine-learning-algorithms
 
 https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
-
-
-<a href="https://www.youtube.com/watch?v=2pWv7GOvuf0"><img src="https://thumbs.gfycat.com/BrilliantImpressiveBoar-size_restricted.gif" width="240" height="180" border="10"/></a>
- 
-[![](https://thumbs.gfycat.com/BrilliantImpressiveBoar-size_restricted.gif)](https://www.youtube.com/watch?v=2pWv7GOvuf0) 'David Silver- Introduction to RL'
-
-[!["David Silver- Introduction to RL"](https://thumbs.gfycat.com/BrilliantImpressiveBoar-size_restricted.gif)](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
 
 

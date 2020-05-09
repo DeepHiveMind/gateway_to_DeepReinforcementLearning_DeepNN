@@ -18,11 +18,13 @@ https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-wo
 
 https://www.youtube.com/watch?v=2pWv7GOvuf0 (Lecture by David Silver on Reinforcement-Learning)
 
+[![David Silver- Introduction to RL](https://thumbs.gfycat.com/BrilliantImpressiveBoar-size_restricted.gif)](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+
 * NLP
 
 https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d
 
-https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm #(Deep learning series for NLP )
+https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm (Deep learning series for NLP )
 
 * DL
 

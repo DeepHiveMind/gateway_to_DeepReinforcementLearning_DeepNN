@@ -43,7 +43,7 @@ https://skymind.ai/wiki/machine-learning-algorithms
 
 https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 
-<a href="https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm"></a>
+[![]()](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
 
 

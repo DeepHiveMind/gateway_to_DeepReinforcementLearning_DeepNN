@@ -43,7 +43,12 @@ https://skymind.ai/wiki/machine-learning-algorithms
 
 https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 
-[![](https://thumbs.gfycat.com/BrilliantImpressiveBoar-size_restricted.gif)](https://www.youtube.com/watch?v=2pWv7GOvuf0) David Silver - Introduction to RL
+
+<a href="https://www.youtube.com/watch?v=2pWv7GOvuf0"><img src="https://thumbs.gfycat.com/BrilliantImpressiveBoar-size_restricted.gif" width="240" height="180" border="10"/></a>
+ 
+[![](https://thumbs.gfycat.com/BrilliantImpressiveBoar-size_restricted.gif)](https://www.youtube.com/watch?v=2pWv7GOvuf0) 'David Silver- Introduction to RL'
+
+[!["David Silver- Introduction to RL"](https://thumbs.gfycat.com/BrilliantImpressiveBoar-size_restricted.gif)](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
 
 

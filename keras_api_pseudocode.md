@@ -32,7 +32,8 @@
 
 ## Creating REST API with python FLASK micro web framework - pseudocode 
 
-'''python
+'''Python
+	
 	from flask import request
 	from flask import jsonify
 	from flask import Flask

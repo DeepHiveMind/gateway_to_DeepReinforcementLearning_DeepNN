@@ -24,6 +24,7 @@ You're going to need:
 - CUDA-capable GPU is required for training
 - Docker - Highly recommended
 
+**[Dockerfile, docker build, nvidia-docker run for anpr](anpr/docker)**
 
 # Reference for learning RL/DRL/DL/ML -  
 

@@ -1,1 +1,0 @@
-docker build -t tf-1.2-keras-2 .

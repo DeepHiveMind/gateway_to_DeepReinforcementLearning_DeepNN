@@ -7,6 +7,24 @@ In this repository, sharing
  - python advanced concepts (such as class/static methods, web crawling et al)
  - Taxonomy of Audio & Speech processing domain
 
+# Deep Learning application with latest architectures and models
+Deep Learning application that use latest architectures and models along with dataset preparation tool [Supervise.ly](https://supervise.ly).
+
+Deep Learning Applications
+---------
+- **[ANPR](anpr)** - Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
+- **[UNet](unet_training)** - Training road scene segmentation on Cityscapes with Tensorflow and UNet [(medium)](https://medium.com/p/1232314781a8)
+- **[SSD](ssd)** - Combining Cityscapes and Mapillary to train SSD using Supervise.ly (medium - coming soon)
+- **[anpr_ocr](anpr_ocr)** - Plane number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
+
+Prerequisites
+-------------
+You're going to need:
+- An account on [Supervise.ly](https://supervise.ly) for data annotation
+- CUDA-capable GPU is required for training
+- Docker - Highly recommended
+
+
 # Reference for learning RL/DRL/DL/ML -  
 
 

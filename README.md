@@ -22,9 +22,13 @@ Prerequisites
 - Docker - Highly recommended
 
 **[Dockerfile, docker build, nvidia-docker run for anpr](anpr/docker)**
+
 **[Dockerfile, docker build, nvidia-docker run for anpr_ocr](anpr_ocr/docker)**
+
 **[Dockerfile, docker build, nvidia-docker run for ssd](ssd/docker)**
+
 **[Dockerfile, docker build, nvidia-docker run for unet_training](unet_training/docker)**
+
 
 - CUDA-capable GPU is required for training
 - An account on [Supervise.ly](https://supervise.ly) for data annotation

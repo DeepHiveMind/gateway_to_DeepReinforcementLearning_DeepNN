@@ -8,6 +8,8 @@ In this repository, sharing
  - Taxonomy of Audio & Speech processing domain
 
 # Reference for learning RL/DRL/DL/ML -  
+
+
 ### RL/DRL
 
 https://skymind.ai/wiki/deep-reinforcement-learning
@@ -17,6 +19,8 @@ https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learn
 https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12
 
 <a href="https://www.youtube.com/watch?v=2pWv7GOvuf0"><img src="https://thumbs.gfycat.com/GreedyLeadingAnophelesmosquito-max-1mb.gif" width="240" height="180" border="10"/></a> (Click on the Image for Video Lecture by David Silver on Reinforcement-Learning)
+
+
 
 ### NLP
 
@@ -32,6 +36,8 @@ https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/
 https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/
 
 http://deeplearning.stanford.edu/tutorial/
+
+
 
 ### ML (Classical ML)
 

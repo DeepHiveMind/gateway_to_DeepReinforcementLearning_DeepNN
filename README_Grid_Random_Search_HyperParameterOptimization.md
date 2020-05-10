@@ -6,4 +6,7 @@
 |LinearRegression	| reg = LinearRegression().fit(X, y) |	parameters = {'fit_intercept':('True', 'False'), 'normalize':('True', 'False'), 'copy_X':('True', 'False')}|
 |KMeans |	kmeans = KMeans(n_clusters=2, random_state=0).fit(X) | param_grid = {"n_clusters": range(2, 11)} |
 |Hierarchical Clustering	clustering (AgglomerativeClustering) | ac = AgglomerativeClustering().fit(X) |	ac =AgglomerativeClustering(memory='mycachedir',  compute_full_tree=True)|
+|association_rules |	from mlxtend.frequent_patterns import association_rules |
+rules = association_rules(frequent_itemsets, metric="lift", min_threshold=1)
+	
 

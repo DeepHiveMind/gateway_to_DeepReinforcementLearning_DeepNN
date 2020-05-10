@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  ssd:
+    # build: ./docker
+    image: deepsystems/caffe-ssd
+    command: 'jupyter notebook --ip=* --no-browser --allow-root'
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./caffe:/opt/caffe
+      - ./data:/root/data/VOCdevkit

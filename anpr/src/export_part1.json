@@ -1,0 +1,76 @@
+[
+  {
+    "dst": "$sample01",
+    "src": [
+      "Anpr tutorial/artificial"
+    ],
+    "action": "data",
+    "settings": {
+      "classes_mapping": {
+        "Licence plate": "plate",
+        "Car": "__ignore__"
+      }
+    }
+  },
+  {
+    "dst": "$sample_bb",
+    "src": [
+      "$sample01"
+    ],
+    "action": "bbox",
+    "settings": {
+      "classes_mapping": {
+        "plate": "plate_bbox"
+      }
+    }
+  },
+  {
+    "dst": [
+      "$sample_train",
+      "$sample_test"
+    ],
+    "src": [
+      "$sample_bb"
+    ],
+    "action": "if",
+    "settings": {
+      "condition": {
+        "probability": 0.98
+      }
+    }
+  },
+  {
+    "dst": "$train_tagged",
+    "src": [
+      "$sample_train"
+    ],
+    "action": "tag",
+    "settings": {
+      "tag": "train",
+      "action": "add"
+    }
+  },
+  {
+    "dst": "$test_tagged",
+    "src": [
+      "$sample_test"
+    ],
+    "action": "tag",
+    "settings": {
+      "tag": "test",
+      "action": "add"
+    }
+  },
+  {
+    "dst": "artificial_samples",
+    "src": [
+      "$train_tagged",
+      "$test_tagged"
+    ],
+    "action": "save",
+    "settings": {
+      "images": true,
+      "annotations": true
+    }
+  }
+]

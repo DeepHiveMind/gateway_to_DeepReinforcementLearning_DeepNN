@@ -1,17 +1,23 @@
 
 Q. The most obvious differences between NumPy arrays and TensorFlow Tensors?
- (such as, Tensors can be backed by accelerator memory (like GPU, TPU).Tensors are immutable.)
+ Answer: such as, Tensors can be backed by accelerator memory (like GPU, TPU).Tensors are immutable.
+ 
 Q.We all know that we shouldn’t set the initial weights to zeros, but under what circumstances, we can set them to zeros?
+
 Q.What’s the mathematical priciple of momentum, RMSprop, and Adam?
+
 Q.What’s the difference between those imagenet winner models?
+
 Q.What’s the usage of embedding layer? And why we need this layer?
+
 Q.Why GRU is better than LSTM?
-(GRU’s has fewer tensor operations; therefore, they are a little speedier to train then LSTM’s.
+
+Answer: GRU’s has fewer tensor operations; therefore, they are a little speedier to train then LSTM’s.
 The core concept of LSTM’s are the cell state/ like memory, and it’s various gates. To review, the Forget gate decides what is relevant to keep from prior steps. The input gate decides what information is relevant to add from the current step. The output gate determines what the next hidden state should be. 
 GRU’s got rid of the cell state and used the hidden state to transfer information. It also only has two gates, a reset gate and update gate.The update gate acts similar to the forget and input gate of an LSTM. It decides what information to throw away and what new information to add. The reset gate is another gate is used to decide how much past information to forget.
 Reference- https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 
-*Q. You are given a data set. The data set contains many variables, some of which are highly correlated and you know about it. Your manager has asked you to run PCA. Would you remove correlated variables first? Why?
+Q. You are given a data set. The data set contains many variables, some of which are highly correlated and you know about it. Your manager has asked you to run PCA. Would you remove correlated variables first? Why?
 
 Answer: Chances are, you might be tempted to say No, but that would be incorrect. Discarding correlated variables have a substantial effect on PCA because, in presence of correlated variables, the variance explained by a particular component gets inflated.
 

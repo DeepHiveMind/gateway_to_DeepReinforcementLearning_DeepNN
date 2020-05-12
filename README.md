@@ -8,7 +8,7 @@ In this repository, sharing
     * **Microservice (rather micro web framework)** for deploying AI models as **AI-as-a-Service**
  - [FAQ on DL/ML/AI (Interview questions list)](README_FAQ_Interview_DL_ML_AI.md)
  - [Taxonomy of Audio & Speech processing domain](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
- - [python advanced concepts (such as class/static methods, web crawling et al)](README_CorePython_AdvancedOperations.md)
+ - [Python advanced concepts (such as Python_@class_@static_methods_WebCrawler_RESTfulAPI_TimeComplexity et al)](README_CorePython_AdvancedOperations.md)
  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
  - [Infographics as Cheatsheet](Infographics)
  - [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#refernce)

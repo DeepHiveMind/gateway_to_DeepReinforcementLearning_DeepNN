@@ -1,12 +1,16 @@
 # Technical Nuances of World of Deep-Learning | Reinforcement-Learning | Deep-Reinforcement-Learning
 In this repository, sharing 
 
- - Jupyter notebook (interactive python notebook/ .ipynb) for code samples in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. Please refer for real code as well as pseudocode "[AI Code Applications](#deepNN-apps)
+ - ["AI Code Applications"](#deepNN-apps) for 
+    * **Jupyter notebook (interactive python notebook/ .ipynb)** for code samples in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
+    * Real code as well as pseudocode
+    * **Docker**, dockerfiles, docker run
+    * **Microservice (rather micro web framework)** for deploying AI models as **AI-as-a-Service**
  - [FAQ on DL/ML/AI (Interview questions list)](README_FAQ_Interview_DL_ML_AI.md)
  - [Taxonomy of Audio & Speech processing domain](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
  - [python advanced concepts (such as class/static methods, web crawling et al)](README_CorePython_AdvancedOperations.md)
  - Infographics as Cheatsheet
- - certain good references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR (Deep Reinforcement Learning)'
+ - Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR (Deep Reinforcement Learning)'
  
 
 # Deep Learning application with latest architectures and models

@@ -12,23 +12,23 @@ python libraries to read/transform/process audio files such as .wav
 
 * **Sampling Rate** 
 
-* **Mono Channel Audio & Stereo Channel Audio ** 
+* **Mono Channel Audio & Stereo Channel Audio** 
 
   Mono channel audio - 1 source of signal. we convert stereo audio to mono audio using Librosa library.
 
-* **Fourier Transform **
+* **Fourier Transform**
 
 It is a tool which allows us to convert our time domain signal into the frequency domain. A signal in the frequency domain requires much less computational space for storage.
 
-* **Mel-frequency cepstral coefficients (MFCCs) **
+* **Mel-frequency cepstral coefficients (MFCCs)**
 
 MFCC is a representation of the short-term power spectrum of a sound, which in simple terms represents the shape of the vocal tract. Our voice/sound is dependent on the shape of our vocal tract including tongue, teeth etc. If we can determine this shape accurately, we can recognize the word/character being said.
 
-* **Spectrograms **
+* **Spectrograms**
 
 Spectrograms are another way of representing the audio signal. Spectrograms convey 3-dimensional information in 2 dimensions (2D spectrograms). On the x-axis is time and on the y-axis is frequency. The amplitude of a particular frequency at a particular time is represented as the color intensity at that point.
 
-* **Stochastic Gradient Descent with Restarts (SGDR) **
+* **Stochastic Gradient Descent with Restarts (SGDR)**
 
 SGDR uses CosineAnnealing as learning rate annealing technique to train the model. Learning rate is reduced at every iteration (not epoch) of gradient descent and after completion of a cycle, the learning rate is reset i.e set to the initial learning rate. This helps in achieving better generalization. The idea is, if the model is at local minima where a slight change in parameters changes the loss very much, then it is not a good local minimum. By resetting the learning rate, we allow the model to find better local minima in the search space.
 

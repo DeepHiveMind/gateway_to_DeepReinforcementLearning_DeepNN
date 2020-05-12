@@ -36,16 +36,15 @@
 
 ```Python
     ImageDataGenerator().flow_from_directory(train_path, target_size=(224,224), classes=['dog', 'cat'], batch_size=10)
-   
-'''
+```
 
-### Autoencoder Model: 
+## Autoencoder Model: 
  Encoding and decoding input file to get an output which is close to input one. So loss function is minimised. Main utility is to remove noise
 
-### Flattening in CNN:
+## Flattening in CNN:
  It’s actually very simple: the fully connected layer expects a vector as input. For example - Convolution outputs a series of filters, which each are a grid shape. Flattening specifies a function mapping from these filters to a vector, so you can backpropagate errors back through the convolutional layers.
 
-### verbose in Keras Model.fit
+## verbose in Keras Model.fit
 By setting verbose 0, 1 or 2 you just say how do you want to 'see' the training progress for each epoch.
 
 verbose=0 will show you nothing (silent)

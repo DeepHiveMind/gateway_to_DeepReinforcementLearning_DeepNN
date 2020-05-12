@@ -44,7 +44,7 @@ https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learn
 
 https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12
 
-<a href="https://www.youtube.com/watch?v=2pWv7GOvuf0"><img src="https://thumbs.gfycat.com/GreedyLeadingAnophelesmosquito-max-1mb.gif" width="240" height="180" border="10"/></a> (Click on the Image for Video Lecture by David Silver on Reinforcement-Learning)
+<a href="https://www.youtube.com/watch?v=2pWv7GOvuf0"><img src="https://thumbs.gfycat.com/GreedyLeadingAnophelesmosquito-max-1mb.gif" width="240" height="180" border="10"/></a> ([Click on the Image link](https://www.youtube.com/watch?v=2pWv7GOvuf0) for "Video Lecture by David Silver on Reinforcement-Learning")
 
 
 

@@ -2,7 +2,7 @@ Speech Recognition has seen a tremendous improvement in the last 5 years.
 
 
 # Taxonomy of Speech & Audio domain
-* **wav file ** 
+* **wav file** 
 
 Audio file container. We use .wav file to read audio as mp3 cannot be read as .txt file. 
 

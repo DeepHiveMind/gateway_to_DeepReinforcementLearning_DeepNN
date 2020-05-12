@@ -17,17 +17,17 @@ In this repository, sharing
 # Deep Learning application with latest architectures and models
 
 Deep Learning applications, leverage latest architectures and models, can be built for following technical domains -
-* Cognitive Service 
+* **Cognitive Service** 
    * Computer Visions (CV) - Image & Video Analytics
    * NLP/ NLU/ NLG - Natural Language Processing
    * Audio & Speech Analytics
    * Recommendation Engine
    * MultiModal service (fusion of 2 domains, such as Im2Txt -Image Captioning, Q&A from Image, et al) 
-* Structued Data Analytics (Predictive analytics on structured data)
+* **Structued Data Analytics (Predictive analytics on structured data)**
    * Classification
    * Regression
    * Time series forecasting
-* Generative Service
+* **Generative Services**
    * GAN (such as for fake face generation)
    * Text to Image generation
 

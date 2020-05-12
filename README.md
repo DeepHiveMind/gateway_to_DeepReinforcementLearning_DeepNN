@@ -1,16 +1,18 @@
 # Technical Nuances of World of Deep-Learning | Reinforcement-Learning | Deep-Reinforcement-Learning
 In this repository, sharing 
- - certain good references for learning and career transitioning to the world of 'DL,RL,DRL (Deep Reinforcement Learning)'
- - Pseudocode
- - Jupyter notebook (interactive python notebook/ .ipynb) for code samples in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine
+
+ - Jupyter notebook (interactive python notebook/ .ipynb) for code samples in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. Please refer for real code as well as pseudocode "[AI Code Applications](#deepNN-apps)
  - [FAQ on DL/ML/AI (Interview questions list)](README_FAQ_Interview_DL_ML_AI.md)
  - [Taxonomy of Audio & Speech processing domain](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
  - [python advanced concepts (such as class/static methods, web crawling et al)](README_CorePython_AdvancedOperations.md)
- -  Infographics as Cheatsheet
+ - Infographics as Cheatsheet
+ - certain good references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR (Deep Reinforcement Learning)'
+ 
 
 # Deep Learning application with latest architectures and models
 Deep Learning application that use latest architectures and models along with dataset preparation tool [Supervise.ly](https://supervise.ly).
 
+<a name="deepNN-apps"></a>
 Deep Learning Applications 
 ---------
 Please refer to following folders to go through the 

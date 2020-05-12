@@ -16,11 +16,13 @@ In this repository, sharing
 # Deep Learning application with latest architectures and models
 Deep Learning application that use latest architectures and models along with dataset preparation tool [Supervise.ly](https://supervise.ly).
 
-<a name="deepNN-apps"></a>
+
 Deep Learning Applications 
 ---------
+<a name="deepNN-apps"></a>
+
 Please refer to following folders to go through the 
-          **interatcive IPYNB** files for the following **Deep Learning Computer Vision AI Models** , along with related **dockers & docker run time commands** for the models, and also detailed refernce blogs from MEDIUM.
+          **interatcive IPYNB** files for the following Deep Learning **Computer Vision AI Models** , along with related **dockers & docker run time commands** for the models, and also detailed refernce blogs from MEDIUM.
           
 - **[Automated Number Plate Detection- Computer Vision model](anpr)** - Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
 

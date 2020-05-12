@@ -9,12 +9,13 @@ In this repository, sharing
  - [FAQ on DL/ML/AI (Interview questions list)](README_FAQ_Interview_DL_ML_AI.md)
  - [Taxonomy of Audio & Speech processing domain](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
  - [python advanced concepts (such as class/static methods, web crawling et al)](README_CorePython_AdvancedOperations.md)
- - Infographics as Cheatsheet
- - Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR (Deep Reinforcement Learning)'
+ - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
+ - [Infographics as Cheatsheet](Infographics)
+ - [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#refernce)
  
 
 # Deep Learning application with latest architectures and models
-Deep Learning application that use latest architectures and models along with dataset preparation tool [Supervise.ly](https://supervise.ly).
+Deep Learning applications that leverage latest architectures and models 
 
 
 Deep Learning Applications 
@@ -47,7 +48,7 @@ Prerequisites for DL Applications
    *[Dockerfile, docker build, nvidia-docker run for unet_training](unet_training/docker)
 
 - **CUDA-capable GPU is required for training**
-- **An account on [Supervise.ly](https://supervise.ly) for data annotation**
+- An account on [Supervise.ly](https://supervise.ly) for data annotation
 - **Microservice for AI Model binary deployment as AI-as-a-Service**
     [flask_apps for creating AI-as-a-Service](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service) 
 
@@ -76,9 +77,10 @@ https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-wo
 
 <a href="https://www.youtube.com/watch?v=2pWv7GOvuf0"><img src="https://thumbs.gfycat.com/GreedyLeadingAnophelesmosquito-max-1mb.gif" width="240" height="180" border="10"/></a> ([Click on the Image link](https://www.youtube.com/watch?v=2pWv7GOvuf0) for "Video Lecture by David Silver on Reinforcement-Learning")
 
+<a name= "refernce"></a>
+# Additional Reference for NLP/Classical ML/OCR etc
 
-
-# NLP application reference with latest architectures and models  
+### NLP application reference
 
 https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d
 
@@ -86,7 +88,7 @@ https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0
 
 
 
-# ML (Classical ML)
+### Classical ML application reference
 
 https://skymind.ai/wiki/machine-learning-algorithms
 

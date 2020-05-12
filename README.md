@@ -16,6 +16,7 @@ Deep Learning Applications
 - **[UNet](unet_training)** - Training road scene segmentation on Cityscapes with Tensorflow and UNet [(medium)](https://medium.com/p/1232314781a8)
 - **[SSD](ssd)** - Combining Cityscapes and Mapillary to train SSD using Supervise.ly (medium - coming soon)
 - **[anpr_ocr](anpr_ocr)** - Plane number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
+- **[flask_apps for creating AI-as-a-Service](flask_apps)** - Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service) 
 
 Prerequisites
 -------------

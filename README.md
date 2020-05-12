@@ -1,4 +1,4 @@
-# Technical Nuances of World of Deep-Learning | Reinforcement-Learning | Deep-Reinforcement-Learning
+# Technical Nuances of World of Deep-Learning | Deep-Reinforcement-Learning | 
 In this repository, sharing 
 
  - ["AI Code Applications"](#deepNN-apps) for 

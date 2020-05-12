@@ -3,7 +3,7 @@
 
                   
 ##  ConvNet Model build (Sequential api), compile, train, save weights, predict api 
-	'''
+```Python
     from keras import backend as K
     tf.set_random_seed(89)
     K.set_session(sess)
@@ -17,44 +17,27 @@
     model.save('medical_trial_model.h5')
     model.predict(test_batches, steps=1, verbose=0)
 	
-   '''
+  ```
 
 
    
 ## Importing pretrained model application (such as State of art VGG16 model)   
-   keras.applications.vgg16.VGG16()
 
-## Creating REST API with python FLASK micro web framework - pseudocode 
-
-'''
-	
-	from flask import request
-	from flask import jsonify
-	from flask import Flask
-	app = Flask(__name__) 
-	@app.route('/hello',methods=['POST']) 
-	
-	def hello():
-		message = request.get_json(force=True)  #always parse json even if it is unsure of data type
-		name = message['name']
-		response = {'greeting': 'Hello, ' + name + '!'}
-		return jsonify(response)    #convert python dictionary into json
- 
-''' 
-
- 
- #export FLASH_APP= hello_app.py
- #flask run --host=0.0.0.0
+```Python
+  keras.applications.vgg16.VGG16()
+```
 
 ## ImageDataGenerator (Data augmentation) preprocessing api 
-'''
+
+```Python
 
     ImageDataGenerator(rotation_range=10, width_shift_range=0.1, height_shift_range=0.1, shear_range=0.15, zoom_range=0.1, channel_shift_range=10., horizontal_flip=True)
+```
+
+```Python
     ImageDataGenerator().flow_from_directory(train_path, target_size=(224,224), classes=['dog', 'cat'], batch_size=10)
    
 '''
-
-
 
 ### Autoencoder Model: 
  Encoding and decoding input file to get an output which is close to input one. So loss function is minimised. Main utility is to remove noise

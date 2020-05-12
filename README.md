@@ -77,6 +77,7 @@ https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beg
 
 http://deeplearning.stanford.edu/tutorial/
 
+https://www.youtube.com/watch?v=8j3mmr2coQ8&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL (I'm big fan of this group)
 
 
 # Deep REINFORCEMENT Learning application Reference with latest architectures and models  

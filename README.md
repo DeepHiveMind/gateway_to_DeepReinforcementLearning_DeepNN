@@ -1,11 +1,12 @@
 # Technical Nuances of World of Deep-Learning | Reinforcement-Learning | Deep-Reinforcement-Learning
 In this repository, sharing 
  - certain good references for learning and career transitioning to the world of 'DL,RL,DRL (Deep Reinforcement Learning)'
- - Pseudocode & Cheatsheet
+ - Pseudocode
  - Jupyter notebook (interactive python notebook/ .ipynb) for code samples in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine
- - FAQ on DL/ML/AI (Interview questions list)
- - python advanced concepts (such as class/static methods, web crawling et al)
- - Taxonomy of Audio & Speech processing domain
+ - [FAQ on DL/ML/AI (Interview questions list)](README_FAQ_Interview_DL_ML_AI.md)
+ - [Taxonomy of Audio & Speech processing domain](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
+ - [python advanced concepts (such as class/static methods, web crawling et al)](README_CorePython_AdvancedOperations.md)
+ -  Infographics as Cheatsheet
 
 # Deep Learning application with latest architectures and models
 Deep Learning application that use latest architectures and models along with dataset preparation tool [Supervise.ly](https://supervise.ly).
@@ -52,8 +53,9 @@ https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beg
 
 http://deeplearning.stanford.edu/tutorial/
 
-# Deep REINFORCEMENT Learning application Reference with latest architectures and models  
 
+
+# Deep REINFORCEMENT Learning application Reference with latest architectures and models  
 
 **RL/DRL**
 -----------
@@ -68,7 +70,7 @@ https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-wo
 
 
 
-### NLP application reference with latest architectures and models  
+# NLP application reference with latest architectures and models  
 
 https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d
 
@@ -76,7 +78,7 @@ https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0
 
 
 
-### ML (Classical ML)
+# ML (Classical ML)
 
 https://skymind.ai/wiki/machine-learning-algorithms
 

@@ -1,7 +1,10 @@
 A quick rundown of Pseudocodes for certain advanced Pythonic operations
 ========================================================================
+Python_@class_@static_methods_WebCrawler_RESTfulAPI_TimeComplexity
+
 * ClassMethod vs Static Method pseudocode
 * Python Web crawling pseudocode
+* RESTful API creation pseudocode
 * Time Complexity order of variuos operation on Pythonic arrays data structure
 
 # ClassMethod vs Static Method - 
@@ -64,6 +67,25 @@ print Person.isAdult(22)
 
 [advanced tutorial for web scrapping](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
 
+# Creating REST API with python FLASK micro web framework - pseudocode 
+
+```Python	
+	from flask import request
+	from flask import jsonify
+	from flask import Flask
+	app = Flask(__name__) 
+	@app.route('/hello',methods=['POST']) 
+	
+	def hello():
+		message = request.get_json(force=True)  #always parse json even if it is unsure of data type
+		name = message['name']
+		response = {'greeting': 'Hello, ' + name + '!'}
+		return jsonify(response)    #convert python dictionary into json
+  
+ #export FLASH_APP= hello_app.py
+ #flask run --host=0.0.0.0
+ 
+ ```
 
 # Time Complexity order of variuos operation on Pythonic arrays data structure
 

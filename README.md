@@ -12,10 +12,17 @@ Deep Learning application that use latest architectures and models along with da
 
 Deep Learning Applications
 ---------
-- **[ANPR](anpr)** - Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
-- **[UNet](unet_training)** - Training road scene segmentation on Cityscapes with Tensorflow and UNet [(medium)](https://medium.com/p/1232314781a8)
-- **[SSD](ssd)** - Combining Cityscapes and Mapillary to train SSD using Supervise.ly (medium - coming soon)
-- **[anpr_ocr](anpr_ocr)** - Plane number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
+Please refer to following folders to go through the 
+          **interatcive IPYNB** files for the following **AI Models** , along with related **dockers & docker run time commands** for the models, and also detailed refernce blogs from MEDIUM.
+          
+- **[Automated Number Plate Detection- Computer Vision model](anpr)** - Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
+
+- **[Image Segmentation- Computer Vision model](unet_training)** - Training road scene segmentation on Cityscapes with Tensorflow and UNet [(medium)](https://medium.com/p/1232314781a8)
+
+- **[Object Detection- Computer Vision model](ssd)** - Combining Cityscapes and Mapillary to train SSD using Supervise.ly 
+
+- **[Custom OCR Engine/Model- Computer Vision model](anpr_ocr)** - Plane number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
+
 - **[flask_apps for creating AI-as-a-Service](flask_apps)** - Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service) 
 
 Prerequisites

@@ -13,7 +13,7 @@ Deep Learning application that use latest architectures and models along with da
 Deep Learning Applications 
 ---------
 Please refer to following folders to go through the 
-          **interatcive IPYNB** files for the following **AI Models** , along with related **dockers & docker run time commands** for the models, and also detailed refernce blogs from MEDIUM.
+          **interatcive IPYNB** files for the following **Deep Learning Computer Vision AI Models** , along with related **dockers & docker run time commands** for the models, and also detailed refernce blogs from MEDIUM.
           
 - **[Automated Number Plate Detection- Computer Vision model](anpr)** - Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
 
@@ -39,6 +39,8 @@ Prerequisites for DL Applications
 
 - **CUDA-capable GPU is required for training**
 - **An account on [Supervise.ly](https://supervise.ly) for data annotation**
+- **Microservice for AI Model binary deployment as AI-as-a-Service**
+    [flask_apps for creating AI-as-a-Service](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service) 
 
 
 Additional reference for DL

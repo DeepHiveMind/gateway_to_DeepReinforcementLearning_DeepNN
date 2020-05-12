@@ -1,4 +1,4 @@
-# Reference for Deep-Learning | Reinforcement-Learning | Deep-Reinforcement-Learning
+# Technical Nuances of World of Deep-Learning | Reinforcement-Learning | Deep-Reinforcement-Learning
 In this repository, sharing 
  - certain good references for learning and career transitioning to the world of 'DL,RL,DRL (Deep Reinforcement Learning)'
  - Pseudocode & Cheatsheet

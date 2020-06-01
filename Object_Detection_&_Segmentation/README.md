@@ -7,14 +7,13 @@
 [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) 
 
 ### Robotic Surgery with HITL  | Detection and Segmentation for Surgery Robots | Mechatronics Lab - Surgery simulation
-<img src="https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation/raw/master/assets/video.gif" width="600" height="400" border="10">
+<img src="https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation/raw/master/assets/video.gif" width="700" height="400" border="10">
 
 [Detection and Segmentation for Surgery Robots](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation) by the NUS Control & Mechatronics Lab.
 
 
 ### Microscopy Medical Healthcare | Neucleus Segmentation (Segmenting Nuclei in Microscopy Images) | Label-Free Cell Tracking in Microscopy
-
-![Nucleus Segmentation](assets/nucleus_segmentation.png)
+<img src="assets/nucleus_segmentation.png" width="700" height="400" border="10">
 
 [Segmenting Nuclei in Microscopy Images](samples/nucleus). 
 
@@ -28,28 +27,30 @@ A project from Japan to automatically track cells in a microfluidics platform.
 
 
 ### Reconstructing 3D buildings from aerial LiDAR
-![3D Building Reconstruction](assets/project_3dbuildings.png)
+<img src="assets/project_3dbuildings.png" width="700" height="400" border="10">
+
 [Reconstructing 3D buildings from aerial LiDAR](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0)
 A proof of concept project by [Esri](https://www.esri.com/), in collaboration with Nvidia and Miami-Dade County.
 
 
 ### Improve OpenStreetMap (OSM) by adding baseball, soccer, tennis, football, and basketball fields.
+<img src="assets/images_to_osm.png" width="700" height="400" border="10">
 
-![Identify sport fields in satellite images](assets/images_to_osm.png)
 [Images to OSM](https://github.com/jremillard/images-to-osm)
 
 
-### [Mapping Challenge](https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn): Convert satellite imagery to maps for use by humanitarian organisations.
-![Mapping Challenge](assets/mapping_challenge.png)
+### Convert satellite imagery to maps for use by humanitarian organisations.
+<img src="assets/mapping_challenge.png" width="700" height="400" border="10">
+
+[Mapping Challenge](https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn):
 
 ### Color pop effect on people with beautiful results | Spalsh of Color | Setting the background in VideoConference 
-
-![](assets/project_shiny1.jpg)
+<img src="assets/project_shiny1.png" width="700" height="400" border="10">
 
 [Mask-RCNN Shiny](https://github.com/huuuuusy/Mask-RCNN-Shiny)
 A computer vision class project to apply the color pop effect on people with beautiful results.
 
-![Balloon Color Splash](assets/balloon_color_splash.gif)
+<img src="assets/balloon_color_splash.gif" width="700" height="400" border="10">
 
 [Splash of Color](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46). Implement a color splash effect.
 
@@ -58,6 +59,9 @@ A computer vision class project to apply the color pop effect on people with bea
 
 
 # Family of RCNN Model (Region based CNN Family of Models)
+
+<img src="assets/rcnn-evolution-summary" width="800" height="450" border="10">
+
 ![Family of RCNN](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Object_Detection_%26_Segmentation/assets/rcnn-evolution-summary)
 
 

@@ -5,14 +5,15 @@
 [![Mask RCNN on 4K Video](assets/4k_video.gif)](https://www.youtube.com/watch?v=OOT3UIXZztE)
 [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) 
 
-### Color pop effect on people with beautiful results 
+### Color pop effect on people with beautiful results | Spalsh of Color | Setting the background in VideoConference 
 
 ![](assets/project_shiny1.jpg)
+
 [Mask-RCNN Shiny](https://github.com/huuuuusy/Mask-RCNN-Shiny)
 A computer vision class project to apply the color pop effect on people with beautiful results.
 
-### Spalsh of Color | Setting the background in VideoConference
 ![Balloon Color Splash](assets/balloon_color_splash.gif)
+
 [Splash of Color](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46). A blog post explaining how to train this model from scratch and use it to implement a color splash effect.
 
 

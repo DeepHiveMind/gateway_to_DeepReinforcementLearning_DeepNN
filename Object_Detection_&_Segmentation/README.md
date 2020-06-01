@@ -6,8 +6,8 @@
 
 [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) 
 
-### Detection and Segmentation for Surgery Robots | Mechatronics Lab 
-![Surgery Robot Detection and Segmentation](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation/raw/master/assets/video.gif)
+### Robotic Surgery with HITL  | Detection and Segmentation for Surgery Robots | Mechatronics Lab - Surgery simulation
+<img src="https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation/raw/master/assets/video.gif" width="600" height="400" border="10">
 
 [Detection and Segmentation for Surgery Robots](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation) by the NUS Control & Mechatronics Lab.
 

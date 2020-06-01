@@ -2,7 +2,7 @@
 
 
 ### Traffic Object Identification & Segmentation |  Taffic Surveillance, Autonomous Car | Instance segmentation  
-[![Mask RCNN on 4K Video](assets/4k_video.gif)](https://www.youtube.com/watch?v=OOT3UIXZztE)
+<img src="assets/4k_video.gif" width="400" height="180" border="10">
 
 [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) 
 

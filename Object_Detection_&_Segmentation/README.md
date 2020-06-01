@@ -43,6 +43,7 @@ A proof of concept project by [Esri](https://www.esri.com/), in collaboration wi
 [Mapping Challenge](https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn):
 
 ### -- Color pop effect on people with beautiful results | Spalsh of Color | Setting the background in VideoConference 
+
 <img src="assets/project_shiny1.png" width="700" height="400" border="10">
 
 [Mask-RCNN Shiny](https://github.com/huuuuusy/Mask-RCNN-Shiny)

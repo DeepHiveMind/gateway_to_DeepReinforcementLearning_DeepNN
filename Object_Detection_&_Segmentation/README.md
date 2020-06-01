@@ -44,7 +44,7 @@ A proof of concept project by [Esri](https://www.esri.com/), in collaboration wi
 
 ### -- Color pop effect on people with beautiful results | Spalsh of Color | Setting the background in VideoConference 
 
-<img src="assets/project_shiny1.png" width="700" height="400" border="10">
+<img src="assets/project_shiny1.jpg" width="700" height="400" border="10">
 
 [Mask-RCNN Shiny](https://github.com/huuuuusy/Mask-RCNN-Shiny)
 A computer vision class project to apply the color pop effect on people with beautiful results.
@@ -59,10 +59,12 @@ A computer vision class project to apply the color pop effect on people with bea
 
 # Family of RCNN Model (Region based CNN Family of Models)
  
- **Region Based CovNets have evolved over the time -- 
+ **Region Based CovNets have evolved over the time --** 
+ 
 <img src="assets/rcnn-evolution-summary" width="900" height="450" border="10">
 
-**Image Segmentation & Detection SOTA Models & mAP_metrics --
+**Image Segmentation & Detection SOTA Models & mAP_metrics --**
+
 <img src="assets/img_segmentation_detection_SOTA_model_mAP_metrics.png" width="900" height="450" border="10">
 
 

@@ -1,7 +1,7 @@
 # Application of 'Object Detection and Segmentation' 
 
 
-### ---- Traffic Object Identification & Segmentation |  Taffic Surveillance, Autonomous Car | Instance segmentation  
+### -- Traffic Object Identification & Segmentation |  Taffic Surveillance, Autonomous Car | Instance segmentation  
 <img src="assets/4k_video.gif" width="700" height="400" border="10">
 
 [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) 

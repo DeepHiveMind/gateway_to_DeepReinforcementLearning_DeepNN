@@ -38,6 +38,10 @@ A proof of concept project by [Esri](https://www.esri.com/), in collaboration wi
 ![Identify sport fields in satellite images](assets/images_to_osm.png)
 [Images to OSM](https://github.com/jremillard/images-to-osm)
 
+
+### [Mapping Challenge](https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn): Convert satellite imagery to maps for use by humanitarian organisations.
+![Mapping Challenge](assets/mapping_challenge.png)
+
 ### Color pop effect on people with beautiful results | Spalsh of Color | Setting the background in VideoConference 
 
 ![](assets/project_shiny1.jpg)
@@ -50,18 +54,7 @@ A computer vision class project to apply the color pop effect on people with bea
 [Splash of Color](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46). Implement a color splash effect.
 
 
-### [Characterization of Arctic Ice-Wedge Polygons in Very High Spatial Resolution Aerial Imagery](http://www.mdpi.com/2072-4292/10/9/1487)
-Research project to understand the complex processes between degradations in the Arctic and climate change. By Weixing Zhang, Chandi Witharana, Anna Liljedahl, and Mikhail Kanevskiy.
-![image](assets/project_ice_wedge_polygons.png)
-
-
-
-### [Mapping Challenge](https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn): Convert satellite imagery to maps for use by humanitarian organisations.
-![Mapping Challenge](assets/mapping_challenge.png)
-
-### [GRASS GIS Addon](https://github.com/ctu-geoforall-lab/i.ann.maskrcnn) to generate vector masks from geospatial imagery. Based on a [Master's thesis](https://github.com/ctu-geoforall-lab-projects/dp-pesek-2018) by Ondřej Pešek.
-![GRASS GIS Image](assets/project_grass_gis.png)
-
+**& Many More..**
 
 
 # Family of RCNN Model (Region based CNN Family of Models)

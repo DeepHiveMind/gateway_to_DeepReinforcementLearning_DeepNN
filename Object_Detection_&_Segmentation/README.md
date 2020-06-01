@@ -1,7 +1,7 @@
 # Application of 'Object Detection and Segmentation' 
 
 
-### Traffic Object Identification & Segmentation |  Taffic Surveillance, Autonomous Car | Instance segmentation  
+### ---- Traffic Object Identification & Segmentation |  Taffic Surveillance, Autonomous Car | Instance segmentation  
 <img src="assets/4k_video.gif" width="700" height="400" border="10">
 
 [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) 
@@ -60,10 +60,7 @@ A computer vision class project to apply the color pop effect on people with bea
 
 # Family of RCNN Model (Region based CNN Family of Models)
 
-<img src="assets/rcnn-evolution-summary" width="800" height="450" border="10">
-
-![Family of RCNN](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Object_Detection_%26_Segmentation/assets/rcnn-evolution-summary)
-
+<img src="assets/rcnn-evolution-summary" width="900" height="450" border="10">
 
 
 # Mask R-CNN for Object Detection and Segmentation

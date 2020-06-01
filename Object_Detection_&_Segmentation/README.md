@@ -3,23 +3,28 @@
 
 ### Traffic Object Identification & Segmentation |  Taffic Surveillance, Autonomous Car | Instance segmentation  
 [![Mask RCNN on 4K Video](assets/4k_video.gif)](https://www.youtube.com/watch?v=OOT3UIXZztE)
+
 [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) 
-
-
-### [Segmenting Nuclei in Microscopy Images](samples/nucleus). Built for the [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
-Code is in the `samples/nucleus` directory.
-
-![Nucleus Segmentation](assets/nucleus_segmentation.png)
 
 ### Detection and Segmentation for Surgery Robots | Mechatronics Lab 
 ![Surgery Robot Detection and Segmentation](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation/raw/master/assets/video.gif)
+
 [Detection and Segmentation for Surgery Robots](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation) by the NUS Control & Mechatronics Lab.
 
-### Label-Free Cell Tracking in Microscopy
+
+### Microscopy Medical Healthcare | Neucleus Segmentation (Segmenting Nuclei in Microscopy Images) | Label-Free Cell Tracking in Microscopy
+
+![Nucleus Segmentation](assets/nucleus_segmentation.png)
+
+[Segmenting Nuclei in Microscopy Images](samples/nucleus). 
+
+Built for the [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018).
 
 ![](assets/project_usiigaci1.gif) ![](assets/project_usiigaci2.gif)
+
 [Usiigaci: Label-free Cell Tracking in Phase Contrast Microscopy](https://github.com/oist/usiigaci)
-A project from Japan to automatically track cells in a microfluidics platform. Paper is pending, but the source code is released.
+A project from Japan to automatically track cells in a microfluidics platform.
+
 
 
 ### Reconstructing 3D buildings from aerial LiDAR

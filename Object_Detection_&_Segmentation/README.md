@@ -6,45 +6,43 @@
 
 [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) 
 
-### Robotic Surgery with HITL  | Detection and Segmentation for Surgery Robots | Mechatronics Lab - Surgery simulation
+### -- Robotic Surgery with HITL  | Detection and Segmentation for Surgery Robots | Mechatronics Lab - Surgery simulation
 <img src="https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation/raw/master/assets/video.gif" width="700" height="400" border="10">
 
 [Detection and Segmentation for Surgery Robots](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation) by the NUS Control & Mechatronics Lab.
 
 
-### Microscopy Medical Healthcare | Neucleus Segmentation (Segmenting Nuclei in Microscopy Images) | Label-Free Cell Tracking in Microscopy
+### -- Microscopy Medical Healthcare | Neucleus Segmentation (Segmenting Nuclei in Microscopy Images) | Label-Free Cell Tracking in Microscopy
 <img src="assets/nucleus_segmentation.png" width="700" height="400" border="10">
 
 [Segmenting Nuclei in Microscopy Images](samples/nucleus). 
 
-Built for the [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018).
+<img src="assets/project_usiigaci1.gif" width="700" height="400" border="10">
 
-![](assets/project_usiigaci1.gif) ![](assets/project_usiigaci2.gif)
-
-[Usiigaci: Label-free Cell Tracking in Phase Contrast Microscopy](https://github.com/oist/usiigaci)
-A project from Japan to automatically track cells in a microfluidics platform.
+[Label-free Cell Tracking in Phase Contrast Microscopy](https://github.com/oist/usiigaci)
 
 
 
-### Reconstructing 3D buildings from aerial LiDAR
+
+### -- Reconstructing 3D buildings from aerial LiDAR
 <img src="assets/project_3dbuildings.png" width="700" height="400" border="10">
 
 [Reconstructing 3D buildings from aerial LiDAR](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0)
 A proof of concept project by [Esri](https://www.esri.com/), in collaboration with Nvidia and Miami-Dade County.
 
 
-### Improve OpenStreetMap (OSM) by adding baseball, soccer, tennis, football, and basketball fields.
+### -- Improve OpenStreetMap (OSM) by adding baseball, soccer, tennis, football, and basketball fields.
 <img src="assets/images_to_osm.png" width="700" height="400" border="10">
 
 [Images to OSM](https://github.com/jremillard/images-to-osm)
 
 
-### Convert satellite imagery to maps for use by humanitarian organisations.
+### -- Convert satellite imagery to maps for use by humanitarian organisations.
 <img src="assets/mapping_challenge.png" width="700" height="400" border="10">
 
 [Mapping Challenge](https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn):
 
-### Color pop effect on people with beautiful results | Spalsh of Color | Setting the background in VideoConference 
+### -- Color pop effect on people with beautiful results | Spalsh of Color | Setting the background in VideoConference 
 <img src="assets/project_shiny1.png" width="700" height="400" border="10">
 
 [Mask-RCNN Shiny](https://github.com/huuuuusy/Mask-RCNN-Shiny)
@@ -59,8 +57,13 @@ A computer vision class project to apply the color pop effect on people with bea
 
 
 # Family of RCNN Model (Region based CNN Family of Models)
-
+ 
+ **Region Based CovNets have evolved over the time -- 
 <img src="assets/rcnn-evolution-summary" width="900" height="450" border="10">
+
+**Image Segmentation & Detection SOTA Models & mAP_metrics --
+<img src="assets/img_segmentation_detection_SOTA_model_mAP_metrics.png" width="900" height="450" border="10">
+
 
 
 # Mask R-CNN for Object Detection and Segmentation

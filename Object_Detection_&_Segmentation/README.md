@@ -73,7 +73,8 @@ A computer vision class project to apply the color pop effect on people with bea
 
 The Mask R-CNN was published March 2017, by the Facebook AI Research (FAIR).
 
-This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
+This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) for object detection and instance segmentation on Python 3, Keras, and TensorFlow.  The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
+ * A quick note: [U-Net vs FPN](https://forums.fast.ai/t/differences-between-u-net-and-feature-pyramid-networks-fpn/33166/3)
 
 ![Instance Segmentation Sample](assets/street.png)
 
@@ -82,7 +83,7 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
 # Getting Started
 
 The repository includes:
-* Source code of Mask R-CNN built on FPN and ResNet101.
+* Source code of Mask R-CNN built on FPN (Feature Pyramid Networks) and ResNet101.     
 * Training code for MS COCO
 * Pre-trained weights for MS COCO
 * Jupyter notebooks to visualize the detection pipeline at every step

@@ -5,6 +5,34 @@
 [![Mask RCNN on 4K Video](assets/4k_video.gif)](https://www.youtube.com/watch?v=OOT3UIXZztE)
 [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) 
 
+
+### [Segmenting Nuclei in Microscopy Images](samples/nucleus). Built for the [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
+Code is in the `samples/nucleus` directory.
+
+![Nucleus Segmentation](assets/nucleus_segmentation.png)
+
+### Detection and Segmentation for Surgery Robots | Mechatronics Lab 
+![Surgery Robot Detection and Segmentation](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation/raw/master/assets/video.gif)
+[Detection and Segmentation for Surgery Robots](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation) by the NUS Control & Mechatronics Lab.
+
+### Label-Free Cell Tracking in Microscopy
+
+![](assets/project_usiigaci1.gif) ![](assets/project_usiigaci2.gif)
+[Usiigaci: Label-free Cell Tracking in Phase Contrast Microscopy](https://github.com/oist/usiigaci)
+A project from Japan to automatically track cells in a microfluidics platform. Paper is pending, but the source code is released.
+
+
+### Reconstructing 3D buildings from aerial LiDAR
+![3D Building Reconstruction](assets/project_3dbuildings.png)
+[Reconstructing 3D buildings from aerial LiDAR](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0)
+A proof of concept project by [Esri](https://www.esri.com/), in collaboration with Nvidia and Miami-Dade County.
+
+
+### Improve OpenStreetMap (OSM) by adding baseball, soccer, tennis, football, and basketball fields.
+
+![Identify sport fields in satellite images](assets/images_to_osm.png)
+[Images to OSM](https://github.com/jremillard/images-to-osm)
+
 ### Color pop effect on people with beautiful results | Spalsh of Color | Setting the background in VideoConference 
 
 ![](assets/project_shiny1.jpg)
@@ -14,31 +42,8 @@ A computer vision class project to apply the color pop effect on people with bea
 
 ![Balloon Color Splash](assets/balloon_color_splash.gif)
 
-[Splash of Color](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46). A blog post explaining how to train this model from scratch and use it to implement a color splash effect.
+[Splash of Color](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46). Implement a color splash effect.
 
-
-### [Segmenting Nuclei in Microscopy Images](samples/nucleus). Built for the [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
-Code is in the `samples/nucleus` directory.
-
-![Nucleus Segmentation](assets/nucleus_segmentation.png)
-
-### [Detection and Segmentation for Surgery Robots](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation) by the NUS Control & Mechatronics Lab.
-![Surgery Robot Detection and Segmentation](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation/raw/master/assets/video.gif)
-
-### [Reconstructing 3D buildings from aerial LiDAR](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0)
-A proof of concept project by [Esri](https://www.esri.com/), in collaboration with Nvidia and Miami-Dade County. Along with a great write up and code by Dmitry Kudinov, Daniel Hedges, and Omar Maher.
-![3D Building Reconstruction](assets/project_3dbuildings.png)
-
-### Improve OpenStreetMap (OSM) by adding baseball, soccer, tennis, football, and basketball fields.
-
-![Identify sport fields in satellite images](assets/images_to_osm.png)
-[Images to OSM](https://github.com/jremillard/images-to-osm)
-
-### Label-Free Cell Tracking in Microscopy
-
-![](assets/project_usiigaci1.gif) ![](assets/project_usiigaci2.gif)
-[Usiigaci: Label-free Cell Tracking in Phase Contrast Microscopy](https://github.com/oist/usiigaci)
-A project from Japan to automatically track cells in a microfluidics platform. Paper is pending, but the source code is released.
 
 ### [Characterization of Arctic Ice-Wedge Polygons in Very High Spatial Resolution Aerial Imagery](http://www.mdpi.com/2072-4292/10/9/1487)
 Research project to understand the complex processes between degradations in the Arctic and climate change. By Weixing Zhang, Chandi Witharana, Anna Liljedahl, and Mikhail Kanevskiy.

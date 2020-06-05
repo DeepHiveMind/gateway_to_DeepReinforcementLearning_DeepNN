@@ -1,7 +1,7 @@
 # Technical Nuances of World of Deep-Learning | Deep-Reinforcement-Learning | 
 In this repository, sharing 
 
- - ["AI Code Applications"](#deepNN-apps) for 
+ - ["AI Code Applications"](#deepNN-apps)  
     * **Jupyter notebook (interactive python notebook/ .ipynb)** for code samples in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
     * Real code as well as pseudocode
     * **Docker**, dockerfiles, docker run

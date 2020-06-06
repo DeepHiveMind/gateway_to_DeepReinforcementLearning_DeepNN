@@ -17,7 +17,8 @@ Every destination of this tour is delicately curated to make your AI experience 
 		
 		- **Cognitive AI** , powered by Deep Neural networks, such as 
 			- Computer vision, 
-			- Natural Language Proessing, Understanding,  natural language generataion (which is termed as, NLP-NLU-NLG), 				- Audio & Speech analytics, 
+			- Natural Language Proessing, Understanding,  Generataion (NLP-NLU-NLG), 				
+			- Audio & Speech analytics, 
 			- Multimodal analytics
 		
 		- **Knowledge Graph**,

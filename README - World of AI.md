@@ -39,9 +39,10 @@ Therefore, my endeavour is to introduce you the **wonderland of AI** through the
 
 Well, now Letz get cracking on *the evolution of AI over the time..*!!
  
-- first thing first, The field of AI is not new, rather it dates back to 1950s. Infact, Artificial intelligence was founded as an **academic discipline in 1955**. & since then, AI has experienced **several waves of improvement**, marked by new approaches and new advancements. It is also worth noting that the field of AI had its fair share of waves of disappointments -  which is  called as  **AI winter**. & AI winter phses were  marked by dismal academic interest and loss of industrial funding in AI. But, today AI is ubiquitous. Today AI is no more novelty, rather it is a necessity. We all very well know It's pretty much part of our day today life.
+First thing first, The field of AI is not new, rather it dates back to 1950s. Infact, Artificial intelligence was founded as an **academic discipline in 1955**. & since then, AI has experienced **several waves of improvement**, marked by new approaches and new advancements. It is also worth noting that the field of AI had its fair share of waves of disappointments -  which is  called as  **AI winter**. & AI winter phses were  marked by dismal academic interest and loss of industrial funding in AI. But, today AI is ubiquitous. Today AI is no more novelty, rather it is a necessity. We all very well know It's pretty much part of our day today life.
 
 so Lets have a look at some of the milestones in AI reserach & development.
+
 •	**Turbochamp in 1950**. Alan Turing Created a Chess Computer Program, called Turbochamp. Alan turing who is widely considered to be the father of AI. back then, Turbochamp logic was based on just a few of the *most basic rules of chess, and it was only able to “think” two moves in advance*.  
 A fun fact & Just a quick reminder - *Fast forward to 1997*, **Deep Blue** (a chess-playing system developed by IBM) could beat **Garry Kasparov** who was then a world chess champion.But, nevertheless, Turbochamp certainly marks the begining of evolution of AI.
 

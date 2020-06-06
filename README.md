@@ -57,10 +57,19 @@ In this repository, sharing with you
 ## AI Applications Codesets
 Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)** || **Python Codeset as well as pseudocode** || related **Dockers, Dockerfile, docker build, nvidia-docker run time commands** ||  **refernce blogs from MEDIUM**  || **Microservice for AI Model binary deployment as AI-as-a-Service** for the models in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
 
-- **[Deep Dive 'Object Detection and Segmentation'](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation)** 
   
 - **[Automated Number Plate Detection- Computer Vision model](anpr)** 
 	Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
+
+- **[Custom OCR Engine/Model](anpr_ocr)** 
+	Plate number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
+
+
+- **[Skin Cancer Lesion detection from dermoscopic images](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Skin_Cancer_Lesion_Segmentation_%26_Detection)**
+
+- **[Automated_Brain_Tumour_Segmentation](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Automated_Brain_Tumour_Segmentation)**
+
+- **[Deep Dive 'Object Detection and Segmentation'](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation)** 
 
 - **[Image Segmentation- Computer Vision model](unet_training)** 
 	Training road scene segmentation on Cityscapes with Tensorflow and UNet [(medium)](https://medium.com/p/1232314781a8)
@@ -68,10 +77,10 @@ Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)
 - **[Object Detection- Computer Vision model](ssd)** 
 	Combining Cityscapes and Mapillary to train SSD using Supervise.ly 
 
-- **[Custom OCR Engine/Model- Computer Vision model](anpr_ocr)** 
-	Plate number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
+- **[Chinese Character detection from Natural Images using CTPN](https://github.com/DeepHiveMind/CTPN-using-Keras-and-Tensorflow-)**
 
 - [Microservice Microweb framework for AIaaS](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service
+
 
 ## Real World ML System Powered by MLOPS
 Please refer to [Real World ML System "MLOPS"](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README.md)

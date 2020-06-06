@@ -3,7 +3,7 @@
 
 This repository is my humble endeavour to take a you through **The Best of AI** by introducing you to very many constructs, design elements, real applications, codesets, FAQs from the beautiful landscape of AI.  Bon Vaoyage!
 
-*A commitment*: I, The Captain of the Cruise- DeepHiveMind, would continue to enrich this repository in my relentless persuit of democratizing the field of AI. 
+*A commitment*:    I, The Captain of the Cruise- DeepHiveMind, would continue to enrich this repository in my relentless persuit of democratizing the field of AI. 
 
 Welcome Onboard! 
 

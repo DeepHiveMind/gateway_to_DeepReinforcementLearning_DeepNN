@@ -3,29 +3,30 @@
 
 This repository is my humble endeavour to take a you through **The Best of AI** by introducing you to very many constructs, design elements, real applications, codesets, FAQs from the beautiful landscape of AI.  Bon Vaoyage!
 
-*A commitment*: I (The Captain of the Cruise- DeepHiveMind) would continue to enrich this repository in my relentless persuit of democratizing the field of AI. 
+*A commitment*: I, The Captain of the Cruise- DeepHiveMind, would continue to enrich this repository in my relentless persuit of democratizing the field of AI. 
 
 Welcome Onboard! 
-Your journey begins with **The wonderland of AI** wherein you get to relish the gigantic-yet-so-beautiful landscape of AI. Herein, you will be pampered with Infographic panoramic view of the design, and the sweeping constructs of AI. You'll relish the AI wonderland! 
 
-Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of *actual codesets* from varied flavour will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets!
+Your journey begins with **The wonderland of AI** wherein you get to relish the gigantic-yet-so-beautiful landscape of AI. Herein, you will be pampered with Infographic panoramic view of the design, and the sweeping constructs of AI. I'm sure, You'll relish the AI wonderland! 
 
-Every destination of this tour is delicately curated to make your AI experience wonderful. This carefully-curated AI itinerary is planned by me (The Captain of the Cruise- DeepHiveMind) based on my 10 dedicated years of *rich, deep hands-on engagement* with various streams of "Enterprise AI, ML, DL & DRL" - be it    	
+Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of ***actual codesets*** from varied flavour will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets!
+
+Every destination of this tour is delicately curated to make your AI experience wonderful. This carefully-curated AI itinerary is planned by me (The Captain of the Cruise- DeepHiveMind) based on my 10 dedicated years of *rich, deep hands-on engagement* with various streams of "Enterprise AI, ML, DL & DRL" - be it   	
 		- **classical Predictive machine learning**, 
 		- **Cognitive AI** , powered by Deep Neural networks, such as **Computer vision, Natural Language Proessing, Understanding,  natural language generataion (which is termed as, NLP-NLU-NLG), Audio & Speech analytics, Multimodal analytics,
 		- **Knowledge Graph**,
 		- **Distributed machine learning**,  
 		- **Custom MLOps** (the next-gen MLOPS), 
 		- **AI-as-a-Service**,
-		- **Deep reinforcement-learning** (self learning autonomous systems), and so on so forth for variuos industries such as  *Banking & FS, Insurance, Halthcare, Retail , Energy and utility.*
+		- **Deep reinforcement-learning** (self learning autonomous systems), and so on so forth for variuos industries such as  ***Banking & FS, Insurance, Halthcare, Retail, Energy and utility.***
 
 
 
  
 **Please note:** 
- - *This page serve as the Index page.*
+ - ***This page serve as the Index page.***
  - Please click on hyperlinks of the respective items to delve deep into it.
- - Please keep checking your compass (this index page) for to seamlessly steer your way to the next mile of this wonderful journey.
+ - Please keep checking your **compass (this index page)** for to seamlessly steer your way to the next mile of this wonderful journey.
 
 
 In this repository, sharing with you

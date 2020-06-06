@@ -1,9 +1,11 @@
 # Technical Nuances of World of Deep-Learning | Deep-Reinforcement-Learning | 
 
 
-This repository is my humble endeavour to take a you through **The Best of AI** by introducing you to very many constructs, design elements, real applications, codesets, FAQs from the beautiful landscape of AI. Bon Vaoyage!
-I (The Captain of the Cruise- DeepHiveMind) would continue to enrich this repository in my relentless persuit of democratizing the field of AI. 
+This repository is my humble endeavour to take a you through **The Best of AI** by introducing you to very many constructs, design elements, real applications, codesets, FAQs from the beautiful landscape of AI.  Bon Vaoyage!
 
+*A commitment*: I (The Captain of the Cruise- DeepHiveMind) would continue to enrich this repository in my relentless persuit of democratizing the field of AI. 
+
+Welcome Onboard! 
 Your journey begins with **The wonderland of AI** wherein you get to relish the gigantic-yet-so-beautiful landscape of AI. Herein, you will be pampered with Infographic panoramic view of the design, and the sweeping constructs of AI. You'll relish the AI wonderland! 
 
 Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of *actual codesets* from varied flavour will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets!

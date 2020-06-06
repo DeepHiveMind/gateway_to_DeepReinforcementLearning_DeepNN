@@ -2,9 +2,9 @@
 
 - [AI Generations](#The-Generations-of-AI)
 - [Standard Definition of AI & ML](#Standard-Definition-of-AI-and-ML)
+- [AI ML Applications in Real world](#AI-ML-Applications-in-Real-world)
 - [The Evolution of AI ML in the Industry](#The-Evolution-of-AI-ML-in-the-Industry)
 - [AI through Inforgraphics](#AI-through-Inforgraphics)
-- [AI ML Applications in Real world](#AI-ML-Applications-in-Real-world)
 - [The world of Deep Learning application with latest architectures and models](#The-world-of-Deep-Learning-application-with-latest-architectures-and-models)
 
 **Please note:** 
@@ -26,13 +26,45 @@
 		- Q) What do you mean by the so-called “brittleness” of AI solutions?
 		- A) Deep neural network training and inference heavily depend on literal, deterministic views of events that lack context and commonsense understanding. 
 
+## Standard Definition of AI and ML
 
-## AI through Inforgraphics
+Simply put across, 
+**AI** is described as as *any task performed by a program or a machine that requires application of human like intelligence to accomplish the task*. Emulate human cognition | Simulation of humane intelligence . **It 's technical simulation.i.e,- tecnology which uses complex algorithmic techniques to simulate the way neurons works in human brain.** *Neurons are the basic unit of our nervous system.*  
 
-***"A picture is worth a thousand words." //  "One look is worth a thousand words."*** _*Frederick R. Barnard*
+AI is superset of **Machine learning, Cognitive learning and deep learning, Reinforcement Learning**.
 
-Therefore, my endeavour is to introduce you the **wonderland of AI** through the infographics! Please relish the wonderland! 
+**ML** is  *algorithmic & satistical approach* to **approximate conclusions, predictions  without direct human input**. Without being Explicitly programmed. Does Patten finding. Data driven decisions.
 
+## AI ML Applications in Real world
+
+This section offers just a sneak peek for couple of domains/sectors for to help you get the intution into AI ML Applications in Real world. The detailed curated list is present in the main repository.
+
+#### Sneak peek into AI in Healthcare  
+Most of the medical and healthcare-related advancements  are powered by AI such as 
+	o		Enhanced the precision of robot-assisted surgery
+	o		Clinical research and developmets - such as Clinical trials
+	o		Automated analysis of cardiac MRI scans/ CT scan/ MRI scans /X rays for assisting radiologists 
+	o		Automated, Sensitive,, Cost-effective Intervention and personalize treatment
+
+
+Interesting tidbit - 	**AI is better than many dermatologists at diagnosing skin cancer.**  
+In a study published in the leading cancer journal  - **Annals of Oncology, Y2018** -
+- Dermatologists were only **86.6% accurate at diagnosing skin cancer**, 
+- while the computer was able to diagnose issues with a **95% accuracy**. It was also quoted in **Fortune magazine published in Y2018**. 
+ 
+ 
+#### AI in Finance 
+•	Risk Assessment
+•	Fraud Detection And Management
+•	Financial Advisory Services
+•	Trading
+
+#### Advanced application Brain Models and Simulation 
+Can you imagine a brain and its workings being replicated on a computer? That is what the Brain Simulation Platform (BSP) aims to do. The BSP is available to researchers worldwide, so that they can compare their experimental results with model predictions and conduct investigations that are not possible experimentally.
+
+Simulation also aims to replicate work on animal models, such as the mouse. In addition, the computing environment used for simulation offers the possibility of studying disease processes electronically.
+
+However, the challenge is a complex one, as the human brain contains 86 billion brain cells (known as neurons) each with an average of 7,000 connections to other neurons (known as synapses). Current computer power is insufficient to model a entire human brain at this level of interconnectedness.
 
 
 ## The Evolution of AI ML in the Industry
@@ -76,6 +108,14 @@ Well, an interesting tidbit for you all -
 - Geff Hinton is working for Google.
 
 
+## AI through Inforgraphics
+
+***"A picture is worth a thousand words." //  "One look is worth a thousand words."*** _*Frederick R. Barnard*
+
+Therefore, my endeavour is to introduce you the **wonderland of AI** through the infographics! Please relish the wonderland!
+
+
+
 
 
 ## The world of Deep Learning application with latest architectures and models
@@ -95,40 +135,3 @@ Deep Learning applications, leverage latest architectures and models, can be bui
    * GAN (such as for fake face generation)
    * Text to Image generation
 
-## Standard Definition of AI and ML
-
-Simply put across, 
-**AI** is described as as *any task performed by a program or a machine that requires application of human like intelligence to accomplish the task*. Emulate human cognition | Simulation of humane intelligence . **It 's technical simulation.i.e,- tecnology which uses complex algorithmic techniques to simulate the way neurons works in human brain.** *Neurons are the basic unit of our nervous system.*  
-
-AI is superset of **Machine learning, Cognitive learning and deep learning, Reinforcement Learning**.
-
-**ML** is  *algorithmic & satistical approach* to **approximate conclusions, predictions  without direct human input**. Without being Explicitly programmed. Does Patten finding. Data driven decisions.
-
-## AI ML Applications in Real world
-
-#### Sneak peek into AI in Healthcare  
-Most of the medical and healthcare-related advancements  are powered by AI such as 
-	o		Enhanced the precision of robot-assisted surgery
-	o		Clinical research and developmets - such as Clinical trials
-	o		Automated analysis of cardiac MRI scans/ CT scan/ MRI scans /X rays for assisting radiologists 
-	o		Automated, Sensitive,, Cost-effective Intervention and personalize treatment
-
-
-Interesting tidbit - 	**AI is better than many dermatologists at diagnosing skin cancer.**  
-In a study published in the leading cancer journal  - **Annals of Oncology, Y2018** -
-- Dermatologists were only **86.6% accurate at diagnosing skin cancer**, 
-- while the computer was able to diagnose issues with a **95% accuracy**. It was also quoted in **Fortune magazine published in Y2018**. 
- 
- 
-#### AI in Finance 
-•	Risk Assessment
-•	Fraud Detection And Management
-•	Financial Advisory Services
-•	Trading
-
-#### Advanced application Brain Models and Simulation 
-Can you imagine a brain and its workings being replicated on a computer? That is what the Brain Simulation Platform (BSP) aims to do. The BSP is available to researchers worldwide, so that they can compare their experimental results with model predictions and conduct investigations that are not possible experimentally.
-
-Simulation also aims to replicate work on animal models, such as the mouse. In addition, the computing environment used for simulation offers the possibility of studying disease processes electronically.
-
-However, the challenge is a complex one, as the human brain contains 86 billion brain cells (known as neurons) each with an average of 7,000 connections to other neurons (known as synapses). Current computer power is insufficient to model a entire human brain at this level of interconnectedness.

@@ -1,115 +1,65 @@
 # Technical Nuances of World of Deep-Learning | Deep-Reinforcement-Learning | 
-In this repository, sharing 
 
- - ["AI Code Applications"](#deepNN-apps)  
-    * **Jupyter notebook (interactive python notebook/ .ipynb)** for code samples in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
-    * Real code as well as pseudocode
-    * **Docker**, dockerfiles, docker run
-    * **Microservice (rather micro web framework)** for deploying AI models as **AI-as-a-Service**
- - [FAQ on DL/ML/AI (Interview questions list)](README_FAQ_Interview_DL_ML_AI.md)
- - [Taxonomy of Audio & Speech processing domain](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
- - [Python advanced concepts (such as Python_@class_@static_methods_WebCrawler_RESTfulAPI_TimeComplexity et al)](README_CorePython_AdvancedOperations.md)
- - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
- - [Infographics as Cheatsheet](Infographics)
- - [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#refernce)
+
+This repository is my humble endeavour to take a you through **The Best of AI** by introducing you to very many constructs, design elements, real applications, codesets, FAQs from the beautiful landscape of AI. Bon Vaoyage!
+I (The Captain of the Cruise- DeepHiveMind) would continue to enrich this repository in my relentless persuit of democratizing the field of AI. 
+
+Your journey begins with **The wonderland of AI** wherein you get to relish the gigantic-yet-so-beautiful landscape of AI. Herein, you will be pampered with Infographic panoramic view of the design, and the sweeping constructs of AI. You'll relish the AI wonderland! 
+
+Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of *actual codesets* from varied flavour will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets!
+
+Every destination of this tour is delicately curated to make your AI experience wonderful. This carefully-curated AI itinerary is planned by me (The Captain of the Cruise- DeepHiveMind) based on my 10 dedicated years of *rich, deep hands-on engagement* with various streams of "Enterprise AI, ML, DL & DRL" - be it    	
+		- **classical Predictive machine learning**, 
+		- **Cognitive AI** , powered by Deep Neural networks, such as **Computer vision, Natural Language Proessing, Understanding,  natural language generataion (which is termed as, NLP-NLU-NLG), Audio & Speech analytics, Multimodal analytics,
+		- **Knowledge Graph**,
+		- **Distributed machine learning**,  
+		- **Custom MLOps** (the next-gen MLOPS), 
+		- **AI-as-a-Service**,
+		- **Deep reinforcement-learning** (self learning autonomous systems), and so on so forth for variuos industries such as  *Banking & FS, Insurance, Halthcare, Retail , Energy and utility.*
+
+
+
  
-
-# Deep Learning application with latest architectures and models
-
-Deep Learning applications, leverage latest architectures and models, can be built for following technical domains -
-* **Cognitive Service** 
-   * Computer Visions (CV) - Image & Video Analytics
-   * NLP/ NLU/ NLG - Natural Language Processing
-   * Audio & Speech Analytics
-   * Recommendation Engine
-   * MultiModal service (fusion of 2 domains, such as Im2Txt -Image Captioning, Q&A from Image, et al) 
-* **Structued Data Analytics (Predictive analytics on structured data)**
-   * Classification
-   * Regression
-   * Time series forecasting
-* **Generative Services**
-   * GAN (such as for fake face generation)
-   * Text to Image generation
+**Please note:** 
+ - *This page serve as the Index page.*
+ - Please click on hyperlinks of the respective items to delve deep into it.
+ - Please keep checking your compass (this index page) for to seamlessly steer your way to the next mile of this wonderful journey.
 
 
+In this repository, sharing with you
+- The vantage view of
+	  - [World of AI](README_ .md)
+	  - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
+	  - [World of Audio & Speech processing](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
+	  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
+	  - [World of AutoKeras (Open Source AutoML)](README_ .md)
+	  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
+	  
+- "AI Applications- Code"(#deepNN-apps)  
+    Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)** || **Python Codeset as well as pseudocode** || related **Dockers, Dockerfile, docker build, nvidia-docker run time commands** & **refernce blogs from MEDIUM** for the models || **Microservice for AI Model binary deployment as AI-as-a-Service** in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
 
-Deep Learning Applications for Computer Vision Domain
----------
-<a name="deepNN-apps"></a>
+	  - Deep Learning Applications for Computer Vision Domain
+	  
+			- **[Automated Number Plate Detection- Computer Vision model](anpr)** - Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
 
-Please refer to following folders to go through the 
-          **interatcive IPYNB** files for the following Deep Learning **Computer Vision AI Models** , along with related **dockers & docker run time commands** for the models, and also detailed refernce blogs from MEDIUM.
-          
-- **[Automated Number Plate Detection- Computer Vision model](anpr)** - Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
+			- **[Image Segmentation- Computer Vision model](unet_training)** - Training road scene segmentation on Cityscapes with Tensorflow and UNet [(medium)](https://medium.com/p/1232314781a8)
 
-- **[Image Segmentation- Computer Vision model](unet_training)** - Training road scene segmentation on Cityscapes with Tensorflow and UNet [(medium)](https://medium.com/p/1232314781a8)
+			- **[Object Detection- Computer Vision model](ssd)** - Combining Cityscapes and Mapillary to train SSD using Supervise.ly 
 
-- **[Object Detection- Computer Vision model](ssd)** - Combining Cityscapes and Mapillary to train SSD using Supervise.ly 
+			- **[Custom OCR Engine/Model- Computer Vision model](anpr_ocr)** - Plane number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
+	  
+- [Real World ML System "MLOPS"](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README.md)
 
-- **[Custom OCR Engine/Model- Computer Vision model](anpr_ocr)** - Plane number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
+- [Deep Dive 'Object Detection and Segmentation'](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation)
 
-- **[flask_apps for creating AI-as-a-Service](flask_apps)** - Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service) 
+- [FAQ on DL/ML/AI (Interview questions list)](README_FAQ_Interview_DL_ML_AI.md)
 
-Prerequisites for above DL Applications
--------------
-- **Docker - Highly recommended** 
+- AI Utilities, such as	  
+	  - [Microservice Microweb framework for AIaaS](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service)
+	  - [Python advanced concepts (such as Python_@class_@static_methods_WebCrawler_RESTfulAPI_TimeComplexity et al)] (README_CorePython_AdvancedOperations.md)
 
-   *[Dockerfile, docker build, nvidia-docker run for anpr](anpr/docker)
-
-   *[Dockerfile, docker build, nvidia-docker run for anpr_ocr](anpr_ocr/docker)
-
-   *[Dockerfile, docker build, nvidia-docker run for ssd](ssd/docker)
-
-   *[Dockerfile, docker build, nvidia-docker run for unet_training](unet_training/docker)
-
-- **CUDA-capable GPU is required for training**
-- An account on [Supervise.ly](https://supervise.ly) for data annotation
-- **Microservice for AI Model binary deployment as AI-as-a-Service**
-    [flask_apps for creating AI-as-a-Service](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service) 
-
-
-Additional reference for DL
----------------------------
-
-https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/
-
-https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/
-
-http://deeplearning.stanford.edu/tutorial/
-
-https://www.youtube.com/watch?v=8j3mmr2coQ8&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL (I'm big fan of this group)
-
-
-# Deep REINFORCEMENT Learning application Reference with latest architectures and models  
-
-**RL/DRL**
------------
-
-https://skymind.ai/wiki/deep-reinforcement-learning
-
-https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/
-
-https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12
-
-<a href="https://www.youtube.com/watch?v=2pWv7GOvuf0"><img src="https://thumbs.gfycat.com/GreedyLeadingAnophelesmosquito-max-1mb.gif" width="240" height="180" border="10"/></a> ([Click on the Image link](https://www.youtube.com/watch?v=2pWv7GOvuf0) for "Video Lecture by David Silver on Reinforcement-Learning")
-
-<a name= "refernce"></a>
-# Additional Reference for NLP/Classical ML/OCR etc
-
-### NLP application reference
-
-https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d
-
-<a href="https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm"><img src="https://sknadig.me/assets/posts/att_basics/att_basic.gif" width="240" height="180" border="10"/></a> 'Click on the Iamge for Video Series on Deep learning series for NLP'
-
-
-
-### Classical ML application reference
-
-https://skymind.ai/wiki/machine-learning-algorithms
-
-https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
-
+- [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)
+ 
 
 
 

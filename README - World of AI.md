@@ -53,18 +53,18 @@ In a study published in the leading cancer journal  - **Annals of Oncology, Y201
 - while the computer was able to diagnose issues with a **95% accuracy**. It was also quoted in **Fortune magazine published in Y2018**. 
  
  
-#### AI in Finance 
-•	Risk Assessment
-•	Fraud Detection And Management
-•	Financial Advisory Services
-•	Trading
+#### Sneak peek intoAI in Finance 
+- Risk Assessment
+- Fraud Detection And Management
+- Financial Advisory Services
+- Trading
 
 #### Advanced application Brain Models and Simulation 
-Can you imagine a brain and its workings being replicated on a computer? That is what the Brain Simulation Platform (BSP) aims to do. The BSP is available to researchers worldwide, so that they can compare their experimental results with model predictions and conduct investigations that are not possible experimentally.
+Can you imagine a brain and its workings being replicated on a computer? That is what the **Brain Simulation Platform (BSP)** aims to do. The BSP is available to researchers worldwide, so that they can compare their experimental results with model predictions and conduct investigations that are not possible experimentally.
 
 Simulation also aims to replicate work on animal models, such as the mouse. In addition, the computing environment used for simulation offers the possibility of studying disease processes electronically.
 
-However, the challenge is a complex one, as the human brain contains 86 billion brain cells (known as neurons) each with an average of 7,000 connections to other neurons (known as synapses). Current computer power is insufficient to model a entire human brain at this level of interconnectedness.
+However, the challenge is a complex one, as the human brain contains **86 billion brain cells (known as neurons)** each with an average of **7,000 connections** to other neurons (known as **synapses**). Current computer power is insufficient to model a entire human brain at this level of interconnectedness. **Quantum Computing is now assisting BSP.**
 
 
 ## The Evolution of AI ML in the Industry

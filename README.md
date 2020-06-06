@@ -25,7 +25,9 @@ Every destination of this tour is delicately curated to make your AI experience 
 		
 		- **AI-as-a-Service**,
 		
-		- **Deep reinforcement-learning** (self learning autonomous systems), and so on so forth for variuos industries such as  ***Banking & FS, Insurance, Halthcare, Retail, Energy and utility.***
+		- **Deep reinforcement-learning** (self learning autonomous systems), 
+		
+		and so on so forth for variuos industries such as  ***Banking & FS, Insurance, Halthcare, Retail, Energy and utility.***
 
 
 
@@ -37,38 +39,48 @@ Every destination of this tour is delicately curated to make your AI experience 
 
 
 In this repository, sharing with you
-- The vantage view of
-	  - [World of AI](README_ .md)
-	  - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
-	  - [World of Audio & Speech processing](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
-	  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
-	  - [World of AutoKeras (Open Source AutoML)](README_ .md)
-	  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
+## The vantage view of
+  
+ - [World of AI](README_ .md)
+ - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
+ - [World of Audio & Speech processing](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
+ - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
+ - [World of AutoKeras (Open Source AutoML)](README_ .md)
+ - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
 	  
-- "AI Applications- Code"(#deepNN-apps)  
-    Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)** || **Python Codeset as well as pseudocode** || related **Dockers, Dockerfile, docker build, nvidia-docker run time commands** & **refernce blogs from MEDIUM** for the models || **Microservice for AI Model binary deployment as AI-as-a-Service** in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
+## AI Applications Codesets
+Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)** || **Python Codeset as well as pseudocode** || related **Dockers, Dockerfile, docker build, nvidia-docker run time commands** & **refernce blogs from MEDIUM** for the models || **Microservice for AI Model binary deployment as AI-as-a-Service** in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
 
-	  - Deep Learning Applications for Computer Vision Domain
+- Deep Learning Applications for Computer Vision Domain
 	  
-			- **[Automated Number Plate Detection- Computer Vision model](anpr)** - Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
+	- **[Automated Number Plate Detection- Computer Vision model](anpr)** 
+	Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
 
-			- **[Image Segmentation- Computer Vision model](unet_training)** - Training road scene segmentation on Cityscapes with Tensorflow and UNet [(medium)](https://medium.com/p/1232314781a8)
+	- **[Image Segmentation- Computer Vision model](unet_training)** 
+	Training road scene segmentation on Cityscapes with Tensorflow and UNet [(medium)](https://medium.com/p/1232314781a8)
 
-			- **[Object Detection- Computer Vision model](ssd)** - Combining Cityscapes and Mapillary to train SSD using Supervise.ly 
+	- **[Object Detection- Computer Vision model](ssd)** 
+	Combining Cityscapes and Mapillary to train SSD using Supervise.ly 
 
-			- **[Custom OCR Engine/Model- Computer Vision model](anpr_ocr)** - Plane number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
+	- **[Custom OCR Engine/Model- Computer Vision model](anpr_ocr)** 
+	Plate number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
 	  
-- [Real World ML System "MLOPS"](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README.md)
+## Real World ML System Powered by MLOPS
+Please refer to [Real World ML System "MLOPS"](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README.md)
 
-- [Deep Dive 'Object Detection and Segmentation'](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation)
+## Deep Dive 'Object Detection and Segmentation
+Please refer to  [Deep Dive 'Object Detection and Segmentation'](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation)
 
-- [FAQ on DL/ML/AI (Interview questions list)](README_FAQ_Interview_DL_ML_AI.md)
+## FAQ on DL/ML/AI 
+Please refer to [FAQ on DL/ML/AI](README_FAQ_Interview_DL_ML_AI.md) for * FAQs / Interview questions*.
 
-- AI Utilities, such as	  
-	  - [Microservice Microweb framework for AIaaS](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service)
-	  - [Python advanced concepts (such as Python_@class_@static_methods_WebCrawler_RESTfulAPI_TimeComplexity et al)] (README_CorePython_AdvancedOperations.md)
+## AI Utilities
+Please refer to AI Utilities, such as
+- [Microservice Microweb framework for AIaaS](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service
+- [Python advanced concepts (such as Python_@class_@static_methods_WebCrawler_RESTfulAPI_TimeComplexity et al)] (README_CorePython_AdvancedOperations.md)
 
-- [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)
+## Additional references to DL,RL,DRL,NLP,ML,OCR
+Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)
  
 
 

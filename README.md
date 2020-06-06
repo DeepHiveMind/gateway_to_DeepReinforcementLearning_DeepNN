@@ -57,6 +57,7 @@ In this repository, sharing with you
 ## AI Applications Codesets
 Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)** || **Python Codeset as well as pseudocode** || related **Dockers, Dockerfile, docker build, nvidia-docker run time commands** ||  **refernce blogs from MEDIUM**  || **Microservice for AI Model binary deployment as AI-as-a-Service** for the models in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
 
+- **[Deep Dive 'Object Detection and Segmentation'](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation)** 
   
 - **[Automated Number Plate Detection- Computer Vision model](anpr)** 
 	Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
@@ -69,20 +70,27 @@ Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)
 
 - **[Custom OCR Engine/Model- Computer Vision model](anpr_ocr)** 
 	Plate number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
-	  
+
+- [Microservice Microweb framework for AIaaS](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service
+
 ## Real World ML System Powered by MLOPS
 Please refer to [Real World ML System "MLOPS"](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README.md)
 
-## Deep Dive 'Object Detection and Segmentation
-Please refer to  [Deep Dive 'Object Detection and Segmentation'](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation)
 
 ## FAQ on DL/ML/AI 
 Please refer to [FAQ on DL/ML/AI](README_FAQ_Interview_DL_ML_AI.md) for * FAQs / Interview questions*.
 
-## AI Utilities
-Please refer to AI Utilities, such as
-- [Microservice Microweb framework for AIaaS](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service
-- [Python advanced concepts (such as Python_@class_@static_methods_WebCrawler_RESTfulAPI_TimeComplexity et al)] (README_CorePython_AdvancedOperations.md)
+
+## References to the Constructs and Tools of AI/ML
+
+| | | | |
+|-|-|-|-|
+| [🧵 Data pipelines & ETL](/README_Data%20Pipeline%20ETL%20Frameworks.md)| [💸 Data Stream Processing](/README_Data%20Stream%20Processing.md) |[🗞️ Data storage](/README_Data%20Storage%20Optimisation.md) |[🏷️ Data Labelling](/README_Data%20Labelling%20Tools%20and%20Frameworks.md)|
+| [🌀 Feature engineering](README_Feature%20Engineering%20Automation.md)| [🎁 Feature Stores](/README_Feature%20Stores.md)| [📓 Reproducible Notebooks](/README_Data%20Science%20Notebook%20Frameworks.md)|[🏁 Model Orchestration & Deployment Framework](/README_Model%20Orchestration%20%26%20Deployment%20Frameworks.md)|
+| [🗺️ ML Training Computation distribution]() | [📊 ML Training & Indutrial Visualisation frameworks](/README_ML%20Computation%20load%20distribution%20frameworks.md) |[⚔ Adversarial Robustness](README_Adversarial%20Robustness%20Libraries.md) |[📥 Model serialisation](/README_Model%20serialisation%20formats.md) |
+|[🔍 Explaining predictions & models](/README_Explaining%20Black%20Box%20Models.md) | [🔏 Privacy preserving ML](/README_Privacy%20Preserving%20Machine%20Learning.md) | [📜 Model & data versioning](/README_Model%20and%20Data%20Versioning.md)| [🧮 Optimized calculation frameworks](/README_Optimized%20calculation%20frameworks.md) |
+|[🤖 AutoML](/README_Neural%20Architecture%20Search.md)| [📡 Functions as a service](README_Function%20as%20a%20Service%20Frameworks.md) | [🔠 Industry-strength NLP](/README_Industrial%20Strength%20NLP.md) | [💰 Commercial Platforms](/README_Commercial%20Platforms.md) | 
+
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR
 Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)

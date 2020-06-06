@@ -12,12 +12,19 @@ Your journey begins with **The wonderland of AI** wherein you get to relish the 
 Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of ***actual codesets*** from varied flavour will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets!
 
 Every destination of this tour is delicately curated to make your AI experience wonderful. This carefully-curated AI itinerary is planned by me (The Captain of the Cruise- DeepHiveMind) based on my 10 dedicated years of *rich, deep hands-on engagement* with various streams of "Enterprise AI, ML, DL & DRL" - be it   	
-		- **classical Predictive machine learning**, 
+		
+		- **classical Predictive machine learning**,
+		
 		- **Cognitive AI** , powered by Deep Neural networks, such as **Computer vision, Natural Language Proessing, Understanding,  natural language generataion (which is termed as, NLP-NLU-NLG), Audio & Speech analytics, Multimodal analytics,
+		
 		- **Knowledge Graph**,
+		
 		- **Distributed machine learning**,  
+		
 		- **Custom MLOps** (the next-gen MLOPS), 
+		
 		- **AI-as-a-Service**,
+		
 		- **Deep reinforcement-learning** (self learning autonomous systems), and so on so forth for variuos industries such as  ***Banking & FS, Insurance, Halthcare, Retail, Energy and utility.***
 
 

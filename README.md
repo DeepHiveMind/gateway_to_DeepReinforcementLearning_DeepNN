@@ -49,20 +49,19 @@ In this repository, sharing with you
  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
 	  
 ## AI Applications Codesets
-Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)** || **Python Codeset as well as pseudocode** || related **Dockers, Dockerfile, docker build, nvidia-docker run time commands** & **refernce blogs from MEDIUM** for the models || **Microservice for AI Model binary deployment as AI-as-a-Service** in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
+Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)** || **Python Codeset as well as pseudocode** || related **Dockers, Dockerfile, docker build, nvidia-docker run time commands** ||  **refernce blogs from MEDIUM**  || **Microservice for AI Model binary deployment as AI-as-a-Service** for the models in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
 
-- Deep Learning Applications for Computer Vision Domain
-	  
-	- **[Automated Number Plate Detection- Computer Vision model](anpr)** 
+  
+- **[Automated Number Plate Detection- Computer Vision model](anpr)** 
 	Number plate detection with Supervisely and Tensorflow [(medium)](https://medium.com/p/e84c74d4382c)
 
-	- **[Image Segmentation- Computer Vision model](unet_training)** 
+- **[Image Segmentation- Computer Vision model](unet_training)** 
 	Training road scene segmentation on Cityscapes with Tensorflow and UNet [(medium)](https://medium.com/p/1232314781a8)
 
-	- **[Object Detection- Computer Vision model](ssd)** 
+- **[Object Detection- Computer Vision model](ssd)** 
 	Combining Cityscapes and Mapillary to train SSD using Supervise.ly 
 
-	- **[Custom OCR Engine/Model- Computer Vision model](anpr_ocr)** 
+- **[Custom OCR Engine/Model- Computer Vision model](anpr_ocr)** 
 	Plate number recognition with Keras [(medium)](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
 	  
 ## Real World ML System Powered by MLOPS

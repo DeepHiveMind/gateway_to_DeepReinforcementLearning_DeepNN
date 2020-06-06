@@ -77,7 +77,7 @@ Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)
 - **[Object Detection- Computer Vision model](ssd)** 
 	Combining Cityscapes and Mapillary to train SSD using Supervise.ly 
 
-- **[Chinese Character detection from Natural Images using CTPN](https://github.com/DeepHiveMind/CTPN-using-Keras-and-Tensorflow-)**
+- **[Text detection from wild Images IDCard using CTPN](https://github.com/DeepHiveMind/CTPN-using-Keras-and-Tensorflow-)**
 
 - [Microservice Microweb framework for AIaaS](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service
 

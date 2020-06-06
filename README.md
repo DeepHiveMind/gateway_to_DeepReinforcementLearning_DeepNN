@@ -41,7 +41,7 @@ Every destination of this tour is delicately curated to make your AI experience 
 In this repository, sharing with you
 ## The vantage view of
   
- - [World of AI](README_ .md)
+ - [World of AI](/README%20-%20World%20of%20AI.md)
  - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
  - [World of Audio & Speech processing](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)

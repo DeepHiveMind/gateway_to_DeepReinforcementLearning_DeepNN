@@ -41,16 +41,17 @@ This section offers just a sneak peek for couple of domains/sectors for to help 
 
 #### Sneak peek into AI in Healthcare  
 Most of the medical and healthcare-related advancements  are powered by AI such as 
-	o		Enhanced the precision of robot-assisted surgery
-	o		Clinical research and developmets - such as Clinical trials
-	o		Automated analysis of cardiac MRI scans/ CT scan/ MRI scans /X rays for assisting radiologists 
-	o		Automated, Sensitive,, Cost-effective Intervention and personalize treatment
+- Enhanced the precision of robot-assisted surgery
+- Clinical research and developmets - such as Clinical trials
+- Automated analysis of cardiac MRI scans/ CT scan/ MRI scans /X rays for assisting radiologists 
+- Automated, Sensitive,, Cost-effective Intervention and personalize treatment
 
 
-Interesting tidbit - 	**AI is better than many dermatologists at diagnosing skin cancer.**  
-In a study published in the leading cancer journal  - **Annals of Oncology, Y2018** -
-- Dermatologists were only **86.6% accurate at diagnosing skin cancer**, 
-- while the computer was able to diagnose issues with a **95% accuracy**. It was also quoted in **Fortune magazine published in Y2018**. 
+Interesting tidbit - 	
+- **AI is better than many dermatologists at diagnosing skin cancer.**  
+- In a study published in the leading cancer journal  - **Annals of Oncology, Y2018** -
+	- Dermatologists were only **86.6% accurate at diagnosing skin cancer**, 
+	- while the computer was able to diagnose issues with a **95% accuracy**. It was also quoted in **Fortune magazine published in Y2018**. 
  
  
 #### Sneak peek intoAI in Finance 

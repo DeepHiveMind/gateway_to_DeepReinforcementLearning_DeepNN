@@ -77,9 +77,15 @@ Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)
 - **[Object Detection- Computer Vision model](ssd)** 
 	Combining Cityscapes and Mapillary to train SSD using Supervise.ly 
 
-- **[Text detection from wild Images IDCard using CTPN](https://github.com/DeepHiveMind/CTPN-using-Keras-and-Tensorflow-)**
+- **[Text detection from wild Images IDCard using CTPN](https://github.com/DeepHiveMind/Text_Detection_Images_IDCard_CTPN)**
+		
+	- **[CTPN Model for Scene Text Detection](https://github.com/DeepHiveMind/Text_Detection_Images_IDCard_CTPN/tree/master/ctpn)**
+	
+	- **[DenseNet-OCR Model for Scene Text Detection](https://github.com/DeepHiveMind/Text_Detection_Images_IDCard_CTPN/tree/master/densent_ocr)**
+	
+	- **[CRNN Model for Scene Text Detection](https://github.com/DeepHiveMind/Text_Detection_Images_IDCard_CTPN/tree/master/CRNN)**
 
-- [Microservice Microweb framework for AIaaS](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service
+- **[Microservice Microweb framework for AIaaS](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service**
 
 
 ## Real World ML System Powered by MLOPS

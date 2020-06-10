@@ -46,6 +46,8 @@ Every destination of this tour is delicately curated to make your AI experience 
 
 In this repository, sharing with you
 ## The vantage view of
+
+*P.S.: Please click on the items, it would lead to respective Repo/info-file.*
   
  - [World of AI](/README%20-%20World%20of%20AI.md)
  - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
@@ -53,7 +55,13 @@ In this repository, sharing with you
  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
  - [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)
  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
-	  
+ 
+ Relish the [AI_Hub](https://aihub.cloud.google.com/) | **One Stop for Everything AI** 
+  - It's Google Cloud’s AI Hub is a hosted repository of 
+  	- plug-and-play AI components, 
+	- including end-to-end AI pipelines and
+	- out-of-the-box algorithms.
+ 
 ## AI Applications Codesets
 Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)** || **Python Codeset as well as pseudocode** || related **Dockers, Dockerfile, docker build, nvidia-docker run time commands** ||  **refernce blogs from MEDIUM**  || **Microservice for AI Model binary deployment as AI-as-a-Service** for the models in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
 

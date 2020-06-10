@@ -56,8 +56,9 @@ In this repository, sharing with you
  - [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)
  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
  
-Now, here is the turn for the toppings! Yes, gear up to relish the [**AI_Hub**](https://aihub.cloud.google.com/). Well.. AI_Hub, Who?
-- [**AI_Hub**](https://aihub.cloud.google.com/)| **One Stop for Everything AI** 
+Now, here is the turn for the toppings! Yes, gear up to relish the [[**AI_HUB](https://www.gstatic.com/aihub/lockup.svg)](https://aihub.cloud.google.com/). 
+Well.. AI_Hub, Who?
+[**AI_Hub**](https://aihub.cloud.google.com/)| **One Stop for Everything AI** 
   - It's Google Cloud’s AI Hub is a hosted repository of 
   	- plug-and-play AI components, 
 	- including end-to-end AI pipelines and

@@ -62,12 +62,11 @@ Now, here is the turn for the toppings! Yes, gear up to relish the [**AI_HUB**](
 
 [**AI_HUB**](https://aihub.cloud.google.com/)| **One Stop for Everything AI** | 
 
-<img src="https://www.gstatic.com/aihub/lockup.svg" width ="80" height="40" />
-
   - It's Google Cloud’s AI Hub is a hosted repository of 
   	- plug-and-play AI components, 
 	- including end-to-end AI pipelines and
 	- out-of-the-box algorithms.
+
  [[**AI_HUB**]<img src="https://www.gstatic.com/aihub/lockup.svg" width ="80" height="40" />](https://aihub.cloud.google.com/)
  
 ## AI Applications Codesets

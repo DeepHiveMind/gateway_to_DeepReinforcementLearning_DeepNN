@@ -56,13 +56,19 @@ In this repository, sharing with you
  - [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)
  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
  
-Now, here is the turn for the toppings! Yes, gear up to relish the [**AI_HUB**](https://aihub.cloud.google.com/). 
-Well.. AI_HUB, Who?
-[**AI_HUB**](https://aihub.cloud.google.com/)| **One Stop for Everything AI** | <img src="https://www.gstatic.com/aihub/lockup.svg" width ="80" height="40" />
+Now, here is the turn for the toppings! Yes, gear up to relish the [**AI_HUB**](https://aihub.cloud.google.com/).
+
+*Well.. AI_HUB, Who?*
+
+[**AI_HUB**](https://aihub.cloud.google.com/)| **One Stop for Everything AI** | 
+
+<img src="https://www.gstatic.com/aihub/lockup.svg" width ="80" height="40" />
+
   - It's Google Cloud’s AI Hub is a hosted repository of 
   	- plug-and-play AI components, 
 	- including end-to-end AI pipelines and
 	- out-of-the-box algorithms.
+ [[**AI_HUB**]<img src="https://www.gstatic.com/aihub/lockup.svg" width ="80" height="40" />](https://aihub.cloud.google.com/)
  
 ## AI Applications Codesets
 Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)** || **Python Codeset as well as pseudocode** || related **Dockers, Dockerfile, docker build, nvidia-docker run time commands** ||  **refernce blogs from MEDIUM**  || **Microservice for AI Model binary deployment as AI-as-a-Service** for the models in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 

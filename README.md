@@ -23,7 +23,7 @@ Every destination of this tour is delicately curated to make your AI experience 
 			- Multimodal analytics
 		
 		- **Knowledge Graph**,
-			- Ontology based on RDF/OWL subject-object-predicate tripltes 
+			- Ontology based on RDF/OWL subject-object-predicate semantic triples 
 					- Apache JENA/ AWS NEPTUNE with SPARQL
 					- GRAKN with GRAQL
 			

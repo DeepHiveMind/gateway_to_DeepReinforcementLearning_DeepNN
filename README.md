@@ -32,6 +32,7 @@ Every destination of this tour is delicately curated to make your AI experience 
 				- English language (used extensively by computational linguists and cognitive scientists - WordNet/ SynSet
 				- Law (legal ontologies for Law based knowledge formalization - JurWordNet/ DOLCE+)
 		
+		
 		- **AutoML**,
 			- AutoKeras (NAS with Bayesian Optimization)
 			- Google AutoML (NAS with Reinforcement Leaning)
@@ -40,13 +41,22 @@ Every destination of this tour is delicately curated to make your AI experience 
 		
 		- **Distributed & Parallel ML**,  
 		
-		- **Custom MLOps** (the Next-Gen MLOPS), 
-		
 		- **AI-as-a-Service**,
 			- RESTful API
 			- gRPC API
 			
 		- **Deep reinforcement-learning** (self learning autonomous systems), 
+		
+		- **Custom MLOps** (the Next-Gen MLOPS),
+		
+		- **Comprehensive AI GOVERNANCE**,
+			- 'AI TRUST' 
+   			- 'AI Collaboration, Sharing & Exchange' 
+             		- 'AI Security' 
+			- 'AI Scalability' 
+  			- 'AI Inference Model Update/ Roll out' Mechanism 
+			
+		- **SERVERLESS AI/ML**
 		
 		and so on so forth for variuos industries such as  ***Banking & FS, Insurance, Halthcare, Retail, Energy and utility.***
 

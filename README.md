@@ -3,7 +3,7 @@
 
 This repository is my humble endeavour to take a you through **The Best of AI** by introducing you to very many constructs, design elements, real applications, codesets, FAQs from the beautiful landscape of AI.  Bon Vaoyage!
 
-A commitment:   *I, The Captain of the Cruise- DeepHiveMind, would continue to enrich this repository in my relentless persuit of democratizing the field of AI.*
+A commitment:   *I, The Sailor of the Cruise- DeepHiveMind, would continue to enrich this repository in my relentless persuit of democratizing the field of AI.*
 
 Welcome Onboard! 
 
@@ -11,7 +11,7 @@ Your journey begins with **The wonderland of AI** wherein you get to relish the 
 
 Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of ***actual codesets*** from varied flavour will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets!
 
-Every destination of this tour is delicately curated to make your AI experience wonderful. This carefully-curated AI itinerary is planned by me (The Captain of the Cruise- DeepHiveMind) based on my 10 dedicated years of *rich, deep hands-on engagement* with various streams of "Enterprise AI, ML, DL & DRL" - be it   	
+Every destination of this tour is delicately curated to make your AI experience wonderful. This carefully-curated AI itinerary is planned by me based on my 10+ dedicated years of *rich, deep hands-on engagement* with various streams of **"Enterprise AI, ML, NLP-Generation, Knowlede Graph, Converstaional AI, DL(Deep Learning) & DRL(Deep Reinforcement Learning)"** - be it   	
 		
 		- **classical Predictive machine learning**,
 		
@@ -19,18 +19,33 @@ Every destination of this tour is delicately curated to make your AI experience 
 			- Computer vision, 
 			- Natural Language Proessing, Understanding,  Generataion (NLP-NLU-NLG), 				
 			- Audio & Speech analytics, 
+			- Conversational AI,
 			- Multimodal analytics
 		
 		- **Knowledge Graph**,
+			- Ontology based on RDF/OWL subject-object-predicate tripltes 
+					- Apache JENA/ AWS NEPTUNE with SPARQL
+					- GRAKN with GRAQL
+			
+			- Semantic lexicon for 
+				- BioMedical ontology (used for Precision Medicine & Disease Network - BioGrakn)
+				- English language (used extensively by computational linguists and cognitive scientists - WordNet/ SynSet
+				- Law (legal ontologies for Law based knowledge formalization - JurWordNet/ DOLCE+)
 		
 		- **AutoML**,
+			- AutoKeras (NAS with Bayesian Optimization)
+			- Google AutoML (NAS with Reinforcement Leaning)
+			- Hyper Parameter Optimization
+			- 
 		
-		- **Distributed ML**,  
+		- **Distributed & Parallel ML**,  
 		
-		- **Custom MLOps** (the next-gen MLOPS), 
+		- **Custom MLOps** (the Next-Gen MLOPS), 
 		
 		- **AI-as-a-Service**,
-		
+			- RESTful API
+			- gRPC API
+			
 		- **Deep reinforcement-learning** (self learning autonomous systems), 
 		
 		and so on so forth for variuos industries such as  ***Banking & FS, Insurance, Halthcare, Retail, Energy and utility.***

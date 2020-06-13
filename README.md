@@ -36,7 +36,7 @@ Every destination of this tour is delicately curated to make your AI experience 
 			- AutoKeras (NAS with Bayesian Optimization)
 			- Google AutoML (NAS with Reinforcement Leaning)
 			- Hyper Parameter Optimization
-			- 
+			- Randmoized/Grid Serach optimization
 		
 		- **Distributed & Parallel ML**,  
 		

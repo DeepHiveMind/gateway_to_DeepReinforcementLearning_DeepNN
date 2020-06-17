@@ -146,7 +146,7 @@ Deep RL is one of the key factor powering -
 
 <img src="https://raw.githubusercontent.com/simoninithomas/Deep_reinforcement_learning_Course/master/docs/assets/img/DRLC%20Environments.png" alt="Deep Reinforcement Learning with Tensorflow" style="width: 500px;"/>
 
-<p>  Deep Reinforcement Learning  is a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning, where you'll be introduced to <b>learn the main DeepRL algorithms, and how to implement them with Tensorflow.</b>
+<p>  [World of Deep Reinforcement Learning- Powering Self Evolving System](README_DeepRL.md)  is a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning, where you'll be introduced to <b>learn the main DeepRL algorithms, and how to implement them with Tensorflow.</b>
 
 
 ## FAQ on DL/ML/AI 

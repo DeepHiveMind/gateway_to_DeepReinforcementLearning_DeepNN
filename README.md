@@ -142,8 +142,10 @@ Now, here is the turn for the toppings! Yes, gear up to relish the **AI Hub**.
  
 ## World of Deep Reinforcement Learning Self evolving systems
 
-<p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. It's a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning. It includes -
+<p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. It's a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning. It includes
+
 - Introduction to the <b>main DeepRL algorithms</b> , and 
+
 - how to implement them with <b> Tensorflow.</b>
 
 
@@ -158,7 +160,8 @@ Deep RL is one of the key factor powering -
 -  Smart Deep Gaming
 -  Many more
 
-Cick on to get on with [World of Deep Reinforcement Learning- Powering Self Evolving System](README%20-DeepRL.md)
+Cick on to get on with [World of Deep Reinforcement Learning- Powering Self Evolving System!!](README%20-DeepRL.md)
+
 
 
 <img src="https://raw.githubusercontent.com/simoninithomas/Deep_reinforcement_learning_Course/master/docs/assets/img/DRLC%20Environments.png" alt="Deep Reinforcement Learning with Tensorflow" style="width: 500px;"/>

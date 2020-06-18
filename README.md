@@ -76,12 +76,19 @@ In this repository, sharing with you
   
  - [World of AI](/README%20-%20World%20of%20AI.md)
  - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
- - [World of Audio & Speech processing](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
+ - [World of Data for AI](#World-of-Data-for-AI)
  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
+ - [AI Applications Codesets](#AI-Applications-Codesets)
+ - [World of Audio & Speech processing](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
  - [World of Deep Reinforcement Learning Self evolving systems](#World-of-Deep-Reinforcement-Learning-Self-evolving-systems)
+ - [Real World ML System Powered by MLOPS](#Real-World-ML-System-Powered-by-MLOPS)
  - [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)
  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
- 
+ - [AI Hub](#AI-Hub)
+ - [FAQ on DL/ML/AI](#FAQ-on-DL-ML-AI)
+ - [References to the Constructs and Tools of AI/ML](#References-to-the-Constructs-and-Tools-of-AI-ML)
+
+## AI Hub
 Now, here is the turn for the toppings! Yes, gear up to relish the **AI Hub**.
 
 *Well!* **"AI Hub"**, *Who?*
@@ -151,11 +158,11 @@ Deep RL is one of the key factor powering -
 <p>  <b> World of Deep Reinforcement Learning- Powering Self Evolving System</b>  is a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning, where you'll be introduced to <b> the main DeepRL algorithms, and how to implement them with Tensorflow.</b>
 
 
-## FAQ on DL/ML/AI 
+## FAQ on DL ML AI 
 Please refer to [FAQ on DL/ML/AI](README_FAQ_Interview_DL_ML_AI.md) for * FAQs / Interview questions*.
 
 
-## References to the Constructs and Tools of AI/ML
+## References to the Constructs and Tools of AI ML
 
 | | | | |
 |-|-|-|-|
@@ -166,7 +173,7 @@ Please refer to [FAQ on DL/ML/AI](README_FAQ_Interview_DL_ML_AI.md) for * FAQs /
 |[🤖 AutoML](/README_Neural%20Architecture%20Search.md)| [📡 Functions as a service](README_Function%20as%20a%20Service%20Frameworks.md) | [🔠 Industry-strength NLP](/README_Industrial%20Strength%20NLP.md) | [💰 Commercial Platforms](/README_Commercial%20Platforms.md) | 
 
 
-## Data for AI
+## World of Data for AI
 
 ***"There is no knowledge without data. There is no AI without Datasets."***
 

@@ -23,7 +23,7 @@ Deep RL is one of the key factor powering -
 
 Please refer to the 📜:[ARTICLE](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) <br><br>
 
-## comparison of Reinforcement learning frameworks
+## Comparison of Reinforcement learning frameworks
  
  📜 **[ARTICLE](https://winderresearch.com/a-comparison-of-reinforcement-learning-frameworks-dopamine-rllib-keras-rl-coach-trfl-tensorforce-coach-and-more/)** for the comparison-of-Reinforcement-learning-frameworks, such as 
 ```
@@ -44,7 +44,21 @@ RLgraph
 Simple RL
 ```
 
+## Significant Deep RL models
 
+📜 **[ARTICLE](https://github.com/keras-rl/keras-rl)** for how to implement important following Agent Models using KERAS-RL, such as
+
+```
+ Deep Q Learning (DQN)
+ Double DQN 
+ Deep Deterministic Policy Gradient (DDPG) 
+ Continuous DQN (CDQN or NAF)
+ Cross-Entropy Method (CEM)
+ Dueling network DQN (Dueling DQN)
+ Deep SARSA
+ Asynchronous Advantage Actor-Critic (A3C)
+ Proximal Policy Optimization Algorithms (PPO)
+```
 
 ## Q-learning with FrozenLake
 

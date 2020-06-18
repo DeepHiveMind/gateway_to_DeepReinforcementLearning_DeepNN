@@ -142,10 +142,9 @@ Now, here is the turn for the toppings! Yes, gear up to relish the **AI Hub**.
  
 ## World of Deep Reinforcement Learning Self evolving systems
 
-<p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. It's a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning. It includes
+<p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. It's a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning. It primarily includes
 
 - Introduction to the <b>main DeepRL algorithms</b> , and 
-
 - how to implement them with <b> Tensorflow.</b>
 
 

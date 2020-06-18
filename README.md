@@ -163,7 +163,7 @@ Cick on to get on with [World of Deep Reinforcement Learning- Powering Self Evol
 
 
 
-<img src="https://github.com/DeepHiveMind/Deep_reinforcement_learning_Course/blob/master/docs/assets/img/DRLC%20Environments.jpg" alt="Deep Reinforcement Learning with Tensorflow" "width"=500 "height"=400; />
+<img src="https://github.com/DeepHiveMind/Deep_reinforcement_learning_Course/blob/master/docs/assets/img/DRLC%20Environments.jpg" alt="Deep Reinforcement Learning with Tensorflow" style="width: 500px;"/>
 
 
 

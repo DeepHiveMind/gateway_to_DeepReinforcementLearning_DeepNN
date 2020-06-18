@@ -1,20 +1,26 @@
 # Deep Reinforcement Learning Self evolving systems
 
+
+<p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. It's a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning. It primarily includes
+
+- Introduction to the <b>main DeepRL algorithms</b> , and 
+- how to implement them with <b> Tensorflow.</b>
+
+
+
 Deep RL is one of the key factor powering -
 -  Self Evolving System
 -  Hyperautomation
 -  Google AutoML (NAS + Deep RL)
 -  TRAX ([AI with Speed in Sequence Model](https://github.com/google/trax) )
+-  Autocorrection, autocompletion in Email/Typing/NLP (heady mix of dynamic programming, hidden Markov models, and word embeddings) 
 -  Autonomous Systems
 -  Smart Deep Gaming
 -  Many more
 
-<img src="https://raw.githubusercontent.com/simoninithomas/Deep_reinforcement_learning_Course/master/docs/assets/img/DRLC%20Environments.png" alt="Deep Reinforcement Learning with Tensorflow" style="width: 500px;"/>
-
-<p>  <b> World of Deep Reinforcement Learning- Powering Self Evolving System</b>  is a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning, where you'll be introduced to <b> the main DeepRL algorithms, and how to implement them with Tensorflow.</b>
 
 
-📹 The videos explain how to create the agent with Tensorflow </b></p>
+
 
 # <a href="https://simoninithomas.github.io/Deep_reinforcement_learning_Course/">Syllabus</a><br>
 ## 📜 Part 1: Introduction to Reinforcement Learning [ARTICLE](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) <br><br>

@@ -88,20 +88,7 @@ In this repository, sharing with you
  - [FAQ on DL/ML/AI](#FAQ-on-DL-ML-AI)
  - [References to the Constructs and Tools of AI/ML](#References-to-the-Constructs-and-Tools-of-AI-ML)
 
-## AI Hub
-Now, here is the turn for the toppings! Yes, gear up to relish the **AI Hub**.
 
-*Well!* **"AI Hub"**, *Who?*
-
-[**AI Hub**](https://aihub.cloud.google.com/)| **One Stop for Everything AI** | 
-
-  - It's Google Cloud’s AI Hub is a hosted repository of 
-  	- plug-and-play AI components, 
-	- including end-to-end AI pipelines and
-	- out-of-the-box algorithms.
-
- [<img src="https://www.gstatic.com/aihub/lockup.svg" width ="80" height="40" />](https://aihub.cloud.google.com/)
- 
 ## AI Applications Codesets
 Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)** || **Python Codeset as well as pseudocode** || related **Dockers, Dockerfile, docker build, nvidia-docker run time commands** ||  **refernce blogs from MEDIUM**  || **Microservice for AI Model binary deployment as AI-as-a-Service** for the models in Deep Learning/ Deep Reinforcement Learning/ Recommendation engine. 
 
@@ -139,6 +126,20 @@ Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)
 ## Real World ML System Powered by MLOPS
 Please refer to [Real World ML System "MLOPS"](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README.md)
 
+## AI Hub
+Now, here is the turn for the toppings! Yes, gear up to relish the **AI Hub**.
+
+*Well!* **"AI Hub"**, *Who?*
+
+[**AI Hub**](https://aihub.cloud.google.com/)| **One Stop for Everything AI** | 
+
+  - It's Google Cloud’s AI Hub is a hosted repository of 
+  	- plug-and-play AI components, 
+	- including end-to-end AI pipelines and
+	- out-of-the-box algorithms.
+
+ [<img src="https://www.gstatic.com/aihub/lockup.svg" width ="80" height="40" />](https://aihub.cloud.google.com/)
+ 
 ## World of Deep Reinforcement Learning Self evolving systems
 
 Cick on to get on with [World of Deep Reinforcement Learning- Powering Self Evolving System](README%20-DeepRL.md)

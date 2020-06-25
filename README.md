@@ -139,8 +139,9 @@ Sayonara!!
 Before, you take a leave, here is a quick recap of interesting journey through Infographics. No Words! Just the Visuals!
 
 
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "300" height ="200" alt="Starcraft"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide" width = "300" height ="200"/>
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "300" height ="200" alt="Starcraft"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide" width = "300" height ="200"/> <img src="img/starcraft.gif" width = "300" height ="200" alt="Starcraft"/>
 <br>
+
 <img alt="medical imaging" src="https://www.researchgate.net/profile/Nilanjan_Dey3/publication/312222298/figure/fig2/AS:476035763445761@1490507178297/Association-between-the-electromagnetic-spectrum-and-the-medical-modalities.png" width ="600" height="200"/>
 
 

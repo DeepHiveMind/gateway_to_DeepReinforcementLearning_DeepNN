@@ -139,15 +139,15 @@ Sayonara!!
 Before, you take a leave, here is a quick recap of interesting journey through Infographics. No Words! Just the Visuals!
 
 
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "200" height ="200" alt="Starcraft"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide" width = "200" height ="200"/>
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "300" height ="200" alt="Starcraft"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide" width = "300" height ="200"/>
 <br>
 
 
-<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "400" height ="200"/>
+<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "600" height ="200"/>
 
 <br>
 
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "400" height ="200" alt="Algorithms"/>
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="200" alt="Algorithms"/>
 
 <br>
 

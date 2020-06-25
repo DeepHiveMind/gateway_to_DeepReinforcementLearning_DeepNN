@@ -138,9 +138,8 @@ You are now Black belt Data Scientist.
 Sayonara!!
 Before, you take a leave, here is a quick recap of interesting journey through Infographics. No Words! Just the Visuals!
 
-<br>
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide"width = "200" height ="200"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "200" height ="200" alt="Starcraft"/>
 
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide"width = "200" height ="200"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "200" height ="200" alt="Starcraft"/>
 <br>
 
 

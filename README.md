@@ -159,7 +159,6 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 <br>
 <img alt="nlp IE pipeline" src="nlp_architect_logo_trans" width="200" height="200" />
 
-
 ## Additional references to DL,RL,DRL,NLP,ML,OCR
 Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)
  

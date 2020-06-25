@@ -4,7 +4,7 @@
 
 Here is the list of common Datasets used for SOTA AI models.
 
-#### Audio
+#### Audio SOTA Model Datasets
 ```
 common_voice
 crema_d
@@ -20,7 +20,7 @@ tedlium
 voxceleb
 voxforge nights_stay
 ```
-#### Image
+#### Image SOTA Model Datasets
 ```
 abstract_reasoning
 aflw2k3d
@@ -41,7 +41,10 @@ nyu_depth_v2 nights_stay
 scene_parse150
 shapes3d
 the300w_lp
-#### Image classification
+```
+
+#### Image Classification SOTA Model Datasets
+```
 beans
 bigearthnet
 binary_alpha_digits
@@ -108,8 +111,7 @@ uc_merced
 vgg_face2
 visual_domain_decathlon
 ```
-
-#### Object detection
+#### Image Object detection SOTA Model Datasets
 
 ```
 coco
@@ -119,7 +121,10 @@ open_images_v4
 voc
 waymo_open_dataset
 wider_face
-##### Question answering
+```
+
+##### Visual Question answering SOTA Model Datasets
+```
 cosmos_qa nights_stay
 mctaco nights_stay
 natural_questions
@@ -136,28 +141,8 @@ rock_you
 titanic
 ```
 
-#### Summarization
 
-```
-aeslc
-big_patent
-billsum
-cnn_dailymail
-covid19sum nights_stay
-gigaword
-multi_news
-newsroom
-opinion_abstracts nights_stay
-opinosis
-reddit
-reddit_tifu
-samsum
-scientific_papers
-wikihow
-xsum
-```
-
-#### Text
+#### NLP Text SOTA Model Datasets
 
 ```
 anli nights_stay
@@ -192,8 +177,28 @@ winogrande nights_stay
 xnli
 yelp_polarity_reviews
 ```
+#### NLP Text Summarization SOTA Model Datasets
 
-#### Translate
+```
+aeslc
+big_patent
+billsum
+cnn_dailymail
+covid19sum nights_stay
+gigaword
+multi_news
+newsroom
+opinion_abstracts nights_stay
+opinosis
+reddit
+reddit_tifu
+samsum
+scientific_papers
+wikihow
+xsum
+```
+
+#### NLP Translate NMT SOTA Model Datasets
 ```
 flores
 para_crawl
@@ -208,7 +213,7 @@ wmt19_translate
 wmt_t2t_translate
 ```
 
-#### Video
+#### Video SOTA Model Datasets
 ```
 bair_robot_pushing_small
 moving_mnist

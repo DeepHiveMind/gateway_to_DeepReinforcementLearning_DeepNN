@@ -79,7 +79,7 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 	- [AI ML Applications in Real world](/README%20-%20World%20of%20AI.md#AI-ML-Applications-in-Real-world)
 	- [The Evolution of AI ML in the Industry](/README%20-%20World%20of%20AI.md#The-Evolution-of-AI-ML-in-the-Industry)
 	- [AI through Inforgraphics](/README%20-%20World%20of%20AI.md#AI-through-Inforgraphics)
-- [The world of Deep Learning application with latest architectures and models](#The-world-of-Deep-Learning-application-with-latest-architectures-and-models)
+	- [The world of Deep Learning applications](#The-world-of-Deep-Learning-applications)
  - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
  - [World of Popular Datasets for AI SOTA Models](#World-of-Datasets-for-AI)
  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)

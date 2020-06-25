@@ -74,20 +74,21 @@ Please note:
 
 In this repository, sharing with you delicately hand crafted exquisite bouquet of offerings:
  - [World of AI](/README%20-%20World%20of%20AI.md)
- 	- [AI Generations](/README%20-%20World%20of%20AI.md#The-Generations-of-AI)
+ 	- [The 1st, 2nd & 3rd Generations of AI](/README%20-%20World%20of%20AI.md#The-Generations-of-AI)
 	- [Standard Definition of AI & ML](/README%20-%20World%20of%20AI.md#Standard-Definition-of-AI-and-ML)
 	- [AI ML Applications in Real world](/README%20-%20World%20of%20AI.md#AI-ML-Applications-in-Real-world)
 	- [The Evolution of AI ML in the Industry](/README%20-%20World%20of%20AI.md#The-Evolution-of-AI-ML-in-the-Industry)
 	- [AI through Inforgraphics](/README%20-%20World%20of%20AI.md#AI-through-Inforgraphics)
-	- [The world of Deep Learning applications](#The-world-of-Deep-Learning-applications)
+	- [The world of Deep Learning applications](/README%20-%20World%20of%20AI.md#The-world-of-Deep-Learning-applications)
  - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
- - [World of Popular Datasets for AI SOTA Models](#World-of-Datasets-for-AI)
+ - [World of Popular Datasets for AI SOTA Models](/README_World_of_Datasets_for_AI.md)
  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
- - [AI Applications Codesets](#AI-Applications-Codesets)
+ - [Deep NeuralNet AI Applications Codesets](/README_AI_Applications_Codesets.md)
  - [World of Audio & Speech processing](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
- - [World of Deep Reinforcement Learning Self evolving systems](#World-of-Deep-Reinforcement-Learning-Self-evolving-systems)
- 	- [Industry Implementation of Deep RL](#Industry-Implementation-of-Deep-RL)
-	- [Deep RL Solution Constructs](#Deep-RL-Solution-Constructs)
+ - [World of Deep Reinforcement Learning Self evolving systems](README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md)
+ 	- [Industry Implementation of Deep RL](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#Industry-Implementation-of-Deep-RL)
+	- [Deep RL Solution Constructs](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#Deep-RL-Solution-Constructs)
+	- [Deep RL Hands-on](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#deep-dive-into-deep-rl-hands-on)
  - [World of NLP IE Pipeline](#World-of-NLP-IE-Pipeline)
  - [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)
  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
@@ -102,21 +103,20 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 
 
 
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "281" height ="200" alt="Starcraft"/>
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "300" height ="200" alt="Starcraft"/>
+
 <br>
 
 
+<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "500" height ="200"/>
 
-<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" style="width: 500px;"/>
+<br>
 
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "500" height ="200" alt="Algorithms"/>
 
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="500" alt="Algorithms"/>
+<br>
 
-
-
-
-
- [<img src="https://www.gstatic.com/aihub/lockup.svg" width ="80" height="40" />](https://aihub.cloud.google.com/)
+[<img src="https://www.gstatic.com/aihub/lockup.svg" width ="100" height="100" />](https://aihub.cloud.google.com/)
 
 
 

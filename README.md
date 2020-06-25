@@ -148,7 +148,7 @@ Cick on to get on with [World of Deep Reinforcement Learning- Powering Self Evol
 
 
 
-<img src="https://github.com/DeepHiveMind/Deep_reinforcement_learning_Course/blob/master/docs/assets/img/DRLC%20Environments.jpg" alt="Deep Reinforcement Learning with Tensorflow" style="width: 500px;"/>
+<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Construct" style="width: 500px;"/>
 
 
 ## World of NLP IE Pipeline

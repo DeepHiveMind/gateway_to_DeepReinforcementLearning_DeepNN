@@ -154,8 +154,8 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 <img alt="Basic MRI Workflow" src="https://caraccidentsinorlando.com/wp-content/uploads/2017/12/ct-vs-mri.jpg" width ="600" height="200">
 
 <br>
-
-
+<img alt="CNN Network in action" src="https://www.researchgate.net/publication/314282902/figure/fig1/AS:469481303613440@1488944473917/Architecture-of-the-proposed-CNN-model-with-2-convolutional-layers.png" width="600" height="200"/>
+<br>
 <img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "600" height ="200"/>
 
 <br>
@@ -172,7 +172,5 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)
  
 [<img src="https://www.gstatic.com/aihub/lockup.svg" width ="200" height="200" />](https://aihub.cloud.google.com/)
-
-<br>
 
 

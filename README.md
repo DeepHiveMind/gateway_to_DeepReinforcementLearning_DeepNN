@@ -166,13 +166,13 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 
 <br>
 
-[<img src="https://www.gstatic.com/aihub/lockup.svg" width ="400" height="200" />](https://aihub.cloud.google.com/)
 
-<br>
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR
 Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)
  
+[<img src="https://www.gstatic.com/aihub/lockup.svg" width ="200" height="200" />](https://aihub.cloud.google.com/)
 
+<br>
 
 

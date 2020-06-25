@@ -1,6 +1,6 @@
 # World of AI
 
-- [AI Generations](#The-Generations-of-AI)
+- [The Generations of AI](#The-Generations-of-AI)
 - [Standard Definition of AI & ML](#Standard-Definition-of-AI-and-ML)
 - [AI ML Applications in Real world](#AI-ML-Applications-in-Real-world)
 - [The Evolution of AI ML in the Industry](#The-Evolution-of-AI-ML-in-the-Industry)

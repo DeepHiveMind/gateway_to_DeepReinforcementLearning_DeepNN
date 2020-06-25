@@ -141,6 +141,9 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 
 <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "300" height ="200" alt="Starcraft"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide" width = "300" height ="200"/>
 <br>
+<img alt="medical imaging" src="https://www.researchgate.net/profile/Nilanjan_Dey3/publication/312222298/figure/fig2/AS:476035763445761@1490507178297/Association-between-the-electromagnetic-spectrum-and-the-medical-modalities.png" width ="600" height="200"/>
+
+<br>
 
 
 <img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "600" height ="200"/>
@@ -151,16 +154,12 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 
 <br>
 
-<img alt="medical imaging" src="https://www.researchgate.net/profile/Nilanjan_Dey3/publication/312222298/figure/fig2/AS:476035763445761@1490507178297/Association-between-the-electromagnetic-spectrum-and-the-medical-modalities.png" width ="400" height="200"/>
+
+<img alt="Basic MRI Workflow" src="https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/images/MRI_workflow.png" width ="200" height="200"/> <img alt="3D rendering produced by T2 MRI scan" src="https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/images/t29_143.gif" width ="400" height="200"/>
 
 <br>
 
-<img alt="Basic MRI Workflow" src="https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/images/MRI_workflow.png" width ="200" height="200">
-<img alt="3D rendering produced by T2 MRI scan" src="https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/images/t29_143.gif" width ="200" height="200">
-
-<br>
-
-<img alt="Basic MRI Workflow" src="https://caraccidentsinorlando.com/wp-content/uploads/2017/12/ct-vs-mri.jpg" width ="400" height="200">
+<img alt="Basic MRI Workflow" src="https://caraccidentsinorlando.com/wp-content/uploads/2017/12/ct-vs-mri.jpg" width ="600" height="200">
 
 
 <br>

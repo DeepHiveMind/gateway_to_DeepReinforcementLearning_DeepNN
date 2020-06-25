@@ -155,6 +155,7 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 <br>
 
 <img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "300" height ="200"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="200" alt="Algorithms"/>
+
 <br>
 
 

@@ -73,7 +73,7 @@ Every destination of this tour is delicately curated to make your AI experience 
 In this repository, sharing with you delicately hand crafted exquisite bouquet of offerings:
  - [World of AI](/README%20-%20World%20of%20AI.md)
  - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
- - [World of Data for AI](#World-of-Data-for-AI)
+ - [World of Popular Datasets for AI SOTA Models](#World-of-Datasets-for-AI)
  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
  - [AI Applications Codesets](#AI-Applications-Codesets)
  - [World of Audio & Speech processing](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
@@ -267,7 +267,7 @@ Please refer to [FAQ on DL/ML/AI](README_FAQ_Interview_DL_ML_AI.md) for * FAQs /
 |[🤖 AutoML](/README_Neural%20Architecture%20Search.md)| [📡 Functions as a service](README_Function%20as%20a%20Service%20Frameworks.md) | [🔠 Industry-strength NLP](/README_Industrial%20Strength%20NLP.md) | [💰 Commercial Platforms](/README_Commercial%20Platforms.md) | 
 
 
-## World of Data for AI
+## World of Datasets for AI
 
 ***"There is no knowledge without data. There is no AI without Datasets."***
 

@@ -157,7 +157,7 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 <img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "400" height ="200"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "500" height ="200" alt="Algorithms"/>
 
 <br>
-<img alt="nlp IE pipeline" src="/Infographics/nlp_architect_logo_trans.png" width="200" height="200" />
+<img alt="nlp IE pipeline" src="/Infographics/nlp_architect_logo_trans.png" width="80" height="100" /> <img src="https://spacy.io/architecture-bcdfffe5c0b9f221a2f6607f96ca0e4a.svg" width="820" height="400" />
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR
 Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)

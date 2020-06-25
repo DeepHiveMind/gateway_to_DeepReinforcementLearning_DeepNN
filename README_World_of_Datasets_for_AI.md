@@ -4,7 +4,7 @@
 
 Here is the list of common Datasets used for SOTA AI models.
 
-#### Audio
+#### Audio SOTA Model Datasets
 ```
 common_voice
 crema_d
@@ -20,7 +20,7 @@ tedlium
 voxceleb
 voxforge nights_stay
 ```
-#### Image
+#### Image SOTA Model Datasets
 ```
 abstract_reasoning
 aflw2k3d
@@ -109,7 +109,7 @@ vgg_face2
 visual_domain_decathlon
 ```
 
-#### Object detection
+#### Object detection SOTA Model Datasets
 
 ```
 coco
@@ -136,7 +136,7 @@ rock_you
 titanic
 ```
 
-#### Summarization
+#### NLP Text Summarization SOTA Model Datasets
 
 ```
 aeslc
@@ -157,7 +157,7 @@ wikihow
 xsum
 ```
 
-#### Text
+#### NLP Text SOTA Model Datasets
 
 ```
 anli nights_stay
@@ -193,7 +193,7 @@ xnli
 yelp_polarity_reviews
 ```
 
-#### Translate
+#### NLP Translate NMT SOTA Model Datasets
 ```
 flores
 para_crawl
@@ -208,7 +208,7 @@ wmt19_translate
 wmt_t2t_translate
 ```
 
-#### Video
+#### Video SOTA Model Datasets
 ```
 bair_robot_pushing_small
 moving_mnist

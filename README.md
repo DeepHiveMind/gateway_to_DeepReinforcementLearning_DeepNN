@@ -9,7 +9,7 @@ Welcome Onboard!
 
 Your journey begins with **The wonderland of AI** wherein you get to relish the gigantic-yet-so-beautiful landscape of AI. Herein, you will be pampered with Infographic panoramic view of the design, and the sweeping constructs of AI. I'm sure, You'll relish the AI wonderland! 
 
-Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of ***actual codesets*** from varied flavour will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets!
+Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of ***actual codesets*** from varied flavour will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets! Please refer to the delicately hand crafted [exquisite bouquet of offerings](#The-vantage-view-of-Agenda). Hold on for a sec!!
 
 Every destination of this tour is delicately curated to make your AI experience wonderful. This carefully-curated AI itinerary is planned by me based on my 10+ dedicated years of *rich, deep hands-on engagement* with various streams of **"Enterprise AI, ML, NLP-Generation, Knowlede Graph, Converstaional AI, DL(Deep Learning) & DRL(Deep Reinforcement Learning)"** - be it   	
 		
@@ -63,17 +63,14 @@ Every destination of this tour is delicately curated to make your AI experience 
 
 
  
+
+## The vantage view of Agenda
 **Please note:** 
  - ***This page serve as the Index page.***
- - Please click on hyperlinks of the respective items to delve deep into it.
+ - Please click on hyperlinks of the respective items to delve deep into it. Please click on the items, it would lead to respective Repo/info-file.
  - Please keep checking your **compass (this index page)** for to seamlessly steer your way to the next mile of this wonderful journey.
 
-
-In this repository, sharing with you
-## The vantage view of
-
-*P.S.: Please click on the items, it would lead to respective Repo/info-file.*
-  
+In this repository, sharing with you delicately hand crafted exquisite bouquet of offerings:
  - [World of AI](/README%20-%20World%20of%20AI.md)
  - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
  - [World of Data for AI](#World-of-Data-for-AI)

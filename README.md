@@ -78,6 +78,8 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
  - [AI Applications Codesets](#AI-Applications-Codesets)
  - [World of Audio & Speech processing](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
  - [World of Deep Reinforcement Learning Self evolving systems](#World-of-Deep-Reinforcement-Learning-Self-evolving-systems)
+ 	- [Industry Implementation of Deep RL](#Industry-Implementation-of-Deep-RL)
+	- [Deep RL Solution Constructs](#Deep-RL-Solution-Constructs)
  - [World of NLP IE Pipeline](#World-of-NLP-IE-Pipeline)
  - [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)
  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
@@ -130,9 +132,11 @@ Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)
 <p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. It's a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning. It primarily includes
 
 - Introduction to the <b>main DeepRL algorithms</b> , and 
-- how to implement them with <b> Tensorflow.</b>
+- how to implement them with <b> Tensorflow</b> .
 
 
+
+#### Industry Implementation of Deep RL
 
 Deep RL is one of the key factor powering -
 -  Self Evolving System
@@ -144,12 +148,22 @@ Deep RL is one of the key factor powering -
 -  Smart Deep Gaming
 -  Many more
 
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "281" height ="200" alt="Starcraft"/>
+<br>
+
+#### Deep RL Solution Constructs
+
+- High Level Solution Constructs of Deep Reinforcement Learning through Infographics
+
+<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" style="width: 500px;"/>
+
+- Deep RL Algorithms overview through Infographics
+
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="500" alt="Algorithms"/>
+
+
+#### Deep dive into Deep RL hands-on
 Cick on to get on with [World of Deep Reinforcement Learning- Powering Self Evolving System!!](README%20-DeepRL.md)
-
-
-
-<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Construct" style="width: 500px;"/>
-
 
 ## World of NLP IE Pipeline
 Please refer to my another repo [NLP Information Extraction Optimized Pipeline - NLP IE Pipeline](https://github.com/DeepHiveMind/nlp-architect/blob/master/README.md) which refers to Intel Nervana (Intel's open source AI/ML Platform) NLP-Architect solution component for state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing. This repo is very enriching as to the vast landscape of NLP Architectural constructs with extensive detailing.

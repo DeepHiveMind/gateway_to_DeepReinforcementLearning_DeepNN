@@ -143,14 +143,6 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 <br>
 <img alt="medical imaging" src="https://www.researchgate.net/profile/Nilanjan_Dey3/publication/312222298/figure/fig2/AS:476035763445761@1490507178297/Association-between-the-electromagnetic-spectrum-and-the-medical-modalities.png" width ="600" height="200"/>
 
-<br>
-
-
-<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "600" height ="200"/>
-
-<br>
-
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="200" alt="Algorithms"/>
 
 <br>
 
@@ -160,6 +152,16 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 <br>
 
 <img alt="Basic MRI Workflow" src="https://caraccidentsinorlando.com/wp-content/uploads/2017/12/ct-vs-mri.jpg" width ="600" height="200">
+
+<br>
+
+
+<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "600" height ="200"/>
+
+<br>
+
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="200" alt="Algorithms"/>
+
 
 
 <br>

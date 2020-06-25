@@ -82,7 +82,7 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 	- [The world of Deep Learning applications](/README%20-%20World%20of%20AI.md#The-world-of-Deep-Learning-applications)
  - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
 	- [Medical Imaging overview](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_3D_Medical_Imaging.md)
-	- [LIDAR Imaging overview](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_3D_Lidar_data.md)
+	- [LIDAR Imaging & Point Cloud overview](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_3D_Lidar_data.md)
 	- [Seismic Geoscience Imaging overview](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_Seismic_3D_DataProcessing.md)
 	- [Satellite maging overview](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_Satellite_Imaging.md)
 	- [Thermal Imaging overview](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_Thermal_Imaging.md)
@@ -154,10 +154,10 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 
 <br>
 
-<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "300" height ="200"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="200" alt="Algorithms"/>
+<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "400" height ="200"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "500" height ="200" alt="Algorithms"/>
 
 <br>
-
+<img alt="nlp IE pipeline" src="nlp_architect_logo_trans" width="200" height="200" />
 
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR

@@ -65,10 +65,12 @@ Every destination of this tour is delicately curated to make your AI experience 
  
 
 ## The vantage view of Agenda
-**Please note:** 
+***
+Please note: 
  - ***This page serve as the Index page.***
- - Please click on hyperlinks of the respective items to delve deep into it. Please click on the items, it would lead to respective Repo/info-file.
- - Please keep checking your **compass (this index page)** for to seamlessly steer your way to the next mile of this wonderful journey.
+ - Please click on hyperlinks of the respective items to delve deep into it, i.e, land to respective Repo/info-file.
+ - Please keep checking your **compass (this index page)** for to seamlessly steer your way to the next milestone of this wonderful journey.
+***
 
 In this repository, sharing with you delicately hand crafted exquisite bouquet of offerings:
  - [World of AI](/README%20-%20World%20of%20AI.md)

@@ -81,42 +81,39 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 	- [AI through Inforgraphics](/README%20-%20World%20of%20AI.md#AI-through-Inforgraphics)
 	- [The world of Deep Learning applications](/README%20-%20World%20of%20AI.md#The-world-of-Deep-Learning-applications)
  - [World of 3D Imaging AI](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
+	- [Medical Imaging overview](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_3D_Medical_Imaging.md)
+	- [LIDAR Imaging overview](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_3D_Lidar_data.md)
+	- [Seismic Geoscience Imaging overview](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_Seismic_3D_DataProcessing.md)
+	- [Satellite maging overview](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_Satellite_Imaging.md)
+	- [Thermal Imaging overview](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_Thermal_Imaging.md)
+	-[Geometric, Photometric and Morphological - Image transformations](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning/blob/master/README_Geometric_Photometric_Morphological_Transformations.md)
  - [World of Popular Datasets for AI SOTA Models](/README_World_of_Datasets_for_AI.md)
+	- [Audio SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#audio-sota-model-datasets)
+	- [Image SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#image-sota-model-datasets)
+	- [Image Classification SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#image-classification-sota-model-datasets)
+	- [Image Object detection SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#image-object-detection-sota-model-datasets)
+	- [Visual Question answering SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#visual-question-answering-sota-model-datasets)
+	- [NLP Text SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#nlp-text-sota-model-datasets#nlp-text-sota-model-datasets)
+	- [NLP Text Summarization SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#nlp-text-summarization-sota-model-datasets)
+	- [NLP Text Translate NMT SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#nlp-translate-nmt-sota-model-datasets)
+	- [Video SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#video-sota-model-datasets)
  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
  - [Deep NeuralNet AI Applications Codesets](/README_AI_Applications_Codesets.md)
- - [World of Audio & Speech processing](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
- - [World of Deep Reinforcement Learning Self evolving systems](README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md)
+ - [World of Audio & Speech processing](/README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
+ - [World of Deep Reinforcement Learning Self evolving systems](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md)
  	- [Industry Implementation of Deep RL](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#Industry-Implementation-of-Deep-RL)
 	- [Deep RL Solution Constructs](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#Deep-RL-Solution-Constructs)
 	- [Deep RL Hands-on](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#deep-dive-into-deep-rl-hands-on)
- - [World of NLP IE Pipeline](#World-of-NLP-IE-Pipeline)
+ - [World of NLP IE Pipeline](/README_World_of_NLP_IE_Pipeline.md)
  - [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)
- - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
- - [Deep Dive into AI/ML SECURITY](#Deep-Dive-into-AI-SECURITY)
- 	- [Why AI/ML SECURITY is important](#Why-AI-SECURITY-is-important)
-	- [Real World AI/ML System Comprehensive SOC Solution](#Real-World-AI-Comprehensive-SOC-Solution)
- - [Real World ML System Powered by MLOPS](#Real-World-ML-System-Powered-by-MLOPS)
- - [AI Hub](#AI-Hub)
- - [FAQ on DL/ML/AI](#FAQ-on-DL-ML-AI)
+ - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](/README_Grid_Random_Search_HyperParameterOptimization.md)
+ - [Deep Dive into AI/ML SECURITY](/README_Deep_Dive_into_AI_SECURITY.md)
+ 	- [Why AI/ML SECURITY is important](/README_Deep_Dive_into_AI_SECURITY.md#Why-AI-SECURITY-is-important)
+	- [Real World AI/ML System Comprehensive SOC Solution](/README_Deep_Dive_into_AI_SECURITY.md#Real-World-AI-Comprehensive-SOC-Solution)
+ - [Real World ML System Powered by MLOPS](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps)
+ - [AI Hub](/README_AI_Hub.md)
+ - [FAQ Interview on DL/ML/AI](/README_FAQ_Interview_DL_ML_AI.md)
  - [References to the Constructs and Tools of AI/ML](#References-to-the-Constructs-and-Tools-of-AI-ML)
-
-
-
-
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "300" height ="200" alt="Starcraft"/>
-
-<br>
-
-
-<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "500" height ="200"/>
-
-<br>
-
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "500" height ="200" alt="Algorithms"/>
-
-<br>
-
-[<img src="https://www.gstatic.com/aihub/lockup.svg" width ="100" height="100" />](https://aihub.cloud.google.com/)
 
 
 
@@ -130,8 +127,51 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 |[🔍 Explaining predictions & models](/README_Explaining%20Black%20Box%20Models.md) | [🔏 Privacy preserving ML](/README_Privacy%20Preserving%20Machine%20Learning.md) | [📜 Model & data versioning](/README_Model%20and%20Data%20Versioning.md)| [🧮 Optimized calculation frameworks](/README_Optimized%20calculation%20frameworks.md) |
 |[🤖 AutoML](/README_Neural%20Architecture%20Search.md)| [📡 Functions as a service](README_Function%20as%20a%20Service%20Frameworks.md) | [🔠 Industry-strength NLP](/README_Industrial%20Strength%20NLP.md) | [💰 Commercial Platforms](/README_Commercial%20Platforms.md) | 
 
+## A Quick Recap through Infographics
+
+Hola! 
+You have arrived at your destination. Hope you chrished the journey. 
+
+Hurray!
+You are now Black belt Data Scientist.
+
+Sayonara!!
+Before, you take a leave, here is a quick recap of interesting journey through Infographics. No Words! Just the Visuals!
+
+<br>
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide"width = "300" height ="200"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "300" height ="200" alt="Starcraft"/>
+
+<br>
 
 
+<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "600" height ="200"/>
+
+<br>
+
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="200" alt="Algorithms"/>
+
+<br>
+
+<img alt="medical imaging" src="https://www.researchgate.net/profile/Nilanjan_Dey3/publication/312222298/figure/fig2/AS:476035763445761@1490507178297/Association-between-the-electromagnetic-spectrum-and-the-medical-modalities.png"width ="600" height="200" />
+
+<br>
+
+<img alt="Basic MRI Workflow" src="https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/images/MRI_workflow.png" width=450>
+<img alt="3D rendering produced by T2 MRI scan" src="https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/images/t29_143.gif" width=250>
+
+<br>
+
+<img alt="Basic MRI Workflow" src="https://caraccidentsinorlando.com/wp-content/uploads/2017/12/ct-vs-mri.jpg" width=450>
+
+<br>
+
+![picture alt](https://www.researchgate.net/publication/314282902/figure/fig1/AS:469481303613440@1488944473917/Architecture-of-the-proposed-CNN-model-with-2-convolutional-layers.png "Title is optional")
+
+<br>
+
+[<img src="https://www.gstatic.com/aihub/lockup.svg" width ="600" height="200" />](https://aihub.cloud.google.com/)
+
+<br>
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR
 Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)

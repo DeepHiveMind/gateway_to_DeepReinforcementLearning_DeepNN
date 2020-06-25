@@ -1,6 +1,6 @@
 # World of Deep Reinforcement Learning Self evolving systems
 
-<p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. It's a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning. It primarily includes
+<p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. This Repo primarily includes
 
 - Introduction to the <b>main DeepRL algorithms</b> , and 
 - how to implement them with <b> Tensorflow</b> .
@@ -35,6 +35,7 @@ Deep RL is one of the key factor powering -
 
 #### Deep dive into Deep RL hands-on
 Cick on to get on with [World of Deep Reinforcement Learning- Powering Self Evolving System!!](README%20-DeepRL.md)
+It's a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning. 
 
 
 

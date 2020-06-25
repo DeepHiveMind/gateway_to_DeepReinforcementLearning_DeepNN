@@ -81,12 +81,13 @@ In this repository, sharing with you
  - [AI Applications Codesets](#AI-Applications-Codesets)
  - [World of Audio & Speech processing](README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
  - [World of Deep Reinforcement Learning Self evolving systems](#World-of-Deep-Reinforcement-Learning-Self-evolving-systems)
- - [Real World ML System Powered by MLOPS](#Real-World-ML-System-Powered-by-MLOPS)
+ - [World of NLP IE Pipeline](#World-of-NLP-IE-Pipeline)
  - [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)
  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](README_Grid_Random_Search_HyperParameterOptimization.md)
  - [Deep Dive into AI/ML SECURITY](#Deep-Dive-into-AI-SECURITY)
  	- [Why AI/ML SECURITY is important](#Why-AI-SECURITY-is-important)
 	- [Real World AI/ML System Comprehensive SOC Solution](#Real-World-AI-Comprehensive-SOC-Solution)
+ - [Real World ML System Powered by MLOPS](#Real-World-ML-System-Powered-by-MLOPS)
  - [AI Hub](#AI-Hub)
  - [FAQ on DL/ML/AI](#FAQ-on-DL-ML-AI)
  - [References to the Constructs and Tools of AI/ML](#References-to-the-Constructs-and-Tools-of-AI-ML)
@@ -126,22 +127,6 @@ Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)
 - **[Microservice Microweb framework for AIaaS](flask_apps)  Using Flask Micro web framework to create Predict RESTful API service (AI-as-a-Service**
 
 
-## Real World ML System Powered by MLOPS
-Please refer to my another repo [Real World ML System "MLOPS"](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README.md). It will land you to the vast landscape of MLOPS with extensive detailing.
-
-## AI Hub
-Now, here is the turn for the toppings! Yes, gear up to relish the **AI Hub**.
-
-*Well!* **"AI Hub"**, *Who?*
-
-[**AI Hub**](https://aihub.cloud.google.com/)| **One Stop for Everything AI** | 
-
-  - It's Google Cloud’s AI Hub is a hosted repository of 
-  	- plug-and-play AI components, 
-	- including end-to-end AI pipelines and
-	- out-of-the-box algorithms.
-
- [<img src="https://www.gstatic.com/aihub/lockup.svg" width ="80" height="40" />](https://aihub.cloud.google.com/)
  
 ## World of Deep Reinforcement Learning Self evolving systems
 
@@ -167,6 +152,10 @@ Cick on to get on with [World of Deep Reinforcement Learning- Powering Self Evol
 
 
 <img src="https://github.com/DeepHiveMind/Deep_reinforcement_learning_Course/blob/master/docs/assets/img/DRLC%20Environments.jpg" alt="Deep Reinforcement Learning with Tensorflow" style="width: 500px;"/>
+
+
+## World of NLP IE Pipeline
+Please refer to my another repo [NLP Information Extraction Optimized Pipeline - NLP IE Pipeline](https://github.com/DeepHiveMind/nlp-architect/blob/master/README.md) which refers to Intel Nervana (Intel's open source AI/ML Platform) NLP-Architect solution component for state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing. This repo is very enriching as to the vast landscape of NLP Architectural constructs with extensive detailing.
 
 
 ## Deep Dive into AI SECURITY
@@ -204,7 +193,22 @@ Real World AI/ML SOC Plane is a custom solution, and is composed of following so
 - Implementation DevSecOps (Security-as-Code) pipeline for AI/ML Application development, deployment, monitoring, Threat detection and alerting, Threat remediation
 	- Please refer to my another repo [DevSecOps Sec-as-a-Code]() for delving deeper into the awesome world of DevSecOps.
      
+## Real World ML System Powered by MLOPS
+Please refer to my another repo [Real World ML System "MLOPS"](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README.md). It will land you to the vast landscape of MLOPS with extensive detailing.
 
+## AI Hub
+Now, here is the turn for the toppings! Yes, gear up to relish the **AI Hub**.
+
+*Well!* **"AI Hub"**, *Who?*
+
+[**AI Hub**](https://aihub.cloud.google.com/)| **One Stop for Everything AI** | 
+
+  - It's Google Cloud’s AI Hub is a hosted repository of 
+  	- plug-and-play AI components, 
+	- including end-to-end AI pipelines and
+	- out-of-the-box algorithms.
+
+ [<img src="https://www.gstatic.com/aihub/lockup.svg" width ="80" height="40" />](https://aihub.cloud.google.com/)
 
 ## FAQ on DL ML AI 
 Please refer to [FAQ on DL/ML/AI](README_FAQ_Interview_DL_ML_AI.md) for * FAQs / Interview questions*.

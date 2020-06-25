@@ -124,7 +124,7 @@ Following folders carry **Jupyter notebook (interactive python notebook/ .ipynb)
 
 
 ## Real World ML System Powered by MLOPS
-Please refer to [Real World ML System "MLOPS"](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README.md)
+Please refer to my another repo [Real World ML System "MLOPS"](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README.md). It will land you to the vast landscape of MLOPS with extensive detailing.
 
 ## AI Hub
 Now, here is the turn for the toppings! Yes, gear up to relish the **AI Hub**.

@@ -41,7 +41,10 @@ nyu_depth_v2 nights_stay
 scene_parse150
 shapes3d
 the300w_lp
-#### Image classification
+```
+
+#### Image Classification SOTA Model Datasets
+```
 beans
 bigearthnet
 binary_alpha_digits
@@ -108,8 +111,7 @@ uc_merced
 vgg_face2
 visual_domain_decathlon
 ```
-
-#### Object detection SOTA Model Datasets
+#### Image Object detection SOTA Model Datasets
 
 ```
 coco
@@ -119,7 +121,10 @@ open_images_v4
 voc
 waymo_open_dataset
 wider_face
-##### Question answering
+```
+
+##### Visual Question answering SOTA Model Datasets
+```
 cosmos_qa nights_stay
 mctaco nights_stay
 natural_questions
@@ -136,26 +141,6 @@ rock_you
 titanic
 ```
 
-#### NLP Text Summarization SOTA Model Datasets
-
-```
-aeslc
-big_patent
-billsum
-cnn_dailymail
-covid19sum nights_stay
-gigaword
-multi_news
-newsroom
-opinion_abstracts nights_stay
-opinosis
-reddit
-reddit_tifu
-samsum
-scientific_papers
-wikihow
-xsum
-```
 
 #### NLP Text SOTA Model Datasets
 
@@ -191,6 +176,26 @@ wikipedia
 winogrande nights_stay
 xnli
 yelp_polarity_reviews
+```
+#### NLP Text Summarization SOTA Model Datasets
+
+```
+aeslc
+big_patent
+billsum
+cnn_dailymail
+covid19sum nights_stay
+gigaword
+multi_news
+newsroom
+opinion_abstracts nights_stay
+opinosis
+reddit
+reddit_tifu
+samsum
+scientific_papers
+wikihow
+xsum
 ```
 
 #### NLP Translate NMT SOTA Model Datasets

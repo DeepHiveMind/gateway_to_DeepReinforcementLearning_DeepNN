@@ -5,7 +5,7 @@
 - [AI ML Applications in Real world](#AI-ML-Applications-in-Real-world)
 - [The Evolution of AI ML in the Industry](#The-Evolution-of-AI-ML-in-the-Industry)
 - [AI through Inforgraphics](#AI-through-Inforgraphics)
-- [The world of Deep Learning application with latest architectures and models](#The-world-of-Deep-Learning-application-with-latest-architectures-and-models)
+- [The world of Deep Learning applications](#The-world-of-Deep-Learning-applications)
 
 **Please note:** 
 - The world of *AI Coding* is also waiting to welcome you with its warmth and pleathora of *actual codesets* from **REAL WORLD of AI applications**.
@@ -119,20 +119,21 @@ Therefore, my endeavour is to introduce you the **wonderland of AI** through the
 
 
 
-## The world of Deep Learning application with latest architectures and models
-
+## The world of Deep Learning applications
+The world of Deep Learning application with latest architectures and models!
 Deep Learning applications, leverage latest architectures and models, can be built for following technical domains -
-* **Cognitive Service** 
+
+#### Cognitive Service 
    * Computer Visions (CV) - Image & Video Analytics
    * NLP/ NLU/ NLG - Natural Language Processing
    * Audio & Speech Analytics
    * Recommendation Engine
    * MultiModal service (fusion of 2 domains, such as Im2Txt -Image Captioning, Q&A from Image, et al) 
-* **Structued Data Analytics (Predictive analytics on structured data)**
+#### Predictive analytics on structured data
    * Classification
    * Regression
    * Time series forecasting
-* **Generative Services**
+#### Generative Services
    * GAN (such as for fake face generation)
    * Text to Image generation
 

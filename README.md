@@ -150,13 +150,9 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 <img alt="Basic MRI Workflow" src="https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/images/MRI_workflow.png" width ="200" height="200"/> <img alt="3D rendering produced by T2 MRI scan" src="https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/images/t29_143.gif" width ="400" height="200"/> <img alt="Basic MRI Workflow" src="https://caraccidentsinorlando.com/wp-content/uploads/2017/12/ct-vs-mri.jpg" width ="300" height="200">
 
 <br>
-<img alt="CNN Network in action" src="https://www.researchgate.net/publication/314282902/figure/fig1/AS:469481303613440@1488944473917/Architecture-of-the-proposed-CNN-model-with-2-convolutional-layers.png" width="600" height="200"/>
+<img alt="CNN Network in action" src="https://www.researchgate.net/publication/314282902/figure/fig1/AS:469481303613440@1488944473917/Architecture-of-the-proposed-CNN-model-with-2-convolutional-layers.png" width="900" height="200"/>
 <br>
-<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "600" height ="200"/>
-
-<br>
-
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="200" alt="Algorithms"/>
+<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "300" height ="200"/><img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="200" alt="Algorithms"/>
 
 
 

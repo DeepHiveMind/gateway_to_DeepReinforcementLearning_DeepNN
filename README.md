@@ -4,10 +4,10 @@
 
 This repository is my humble endeavour to take a you through **The Best of Enterprise AI** by introducing you to very many constructs, design elements, real applications, codesets, FAQs from the captivatingly beautiful landscape of AI.  Bon Vaoyage!
 
-A commitment:   
-
+A Solemn Commitment:   
+<br>
 *I, The Sailor of the Cruise- DeepHiveMind, would continue to enrich this repository in my relentless persuit of democratizing the field of AI.*
-
+<br>
 
 Welcome Onboard! 
 

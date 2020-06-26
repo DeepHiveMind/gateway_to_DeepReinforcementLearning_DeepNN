@@ -1,4 +1,4 @@
-# Technical Nuances of World of Deep-Learning | Deep-Reinforcement-Learning | 
+# Technical Nuances of World of Deep-Learning | Deep-Reinforcement-Learning | NLP-IE-Pipeline |
 
 
 This repository is my humble endeavour to take a you through **The Best of AI** by introducing you to very many constructs, design elements, real applications, codesets, FAQs from the beautiful landscape of AI.  Bon Vaoyage!

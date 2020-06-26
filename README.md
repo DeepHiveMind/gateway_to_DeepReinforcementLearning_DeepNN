@@ -1,4 +1,4 @@
-# Technical Nuances of The World of AI
+# Technical Nuances of The World of "Enterprise AI"
 ## Deep-Learning | Deep-Reinforcement-Learning | NLP-IE-Pipeline | MLOPS-Real-World-ML-System | Knowledge-Graph | AI-Security-&-Privacy | Serverless-AI/ML | AI-Datasets | AutoML-&-HPO |
 
 

@@ -103,7 +103,7 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
  
 	-[Computer Vision](https://github.com/DeepHiveMind/keras-io/tree/master/examples/vision)
       ```
-         -Image classification from scratch
+        -Image classification from scratch
 	-Simple MNIST convnet
 	-Image segmentation with a U-Net-like architecture
 	-Next-frame prediction with Conv-LSTM
@@ -116,6 +116,7 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 	```
 	- [Natural language processing](https://github.com/DeepHiveMind/keras-io/tree/master/examples/nlp)
       ```
+	
 	-Text classification from scratch
 	-Sequence to sequence learning for performing number addition
 	-Bidirectional LSTM on IMDB
@@ -126,16 +127,19 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 	```
 	-[Structured Data](https://github.com/DeepHiveMind/keras-io/tree/master/examples/structured_data)
       ```
+	
 	-Structured data classification from scratch
 	-Collaborative Filtering for Movie Recommendations
 	-Imbalanced classification: credit card fraud detection
 	```
 	-[Timeseries](https://github.com/DeepHiveMind/keras-io/tree/master/examples/timeseries)
       ```
+	
 	-Timeseries anomaly detection using an Autoencoder
 	```
 	-[Generative Deep Learning](https://github.com/DeepHiveMind/keras-io/tree/master/examples/generative)
       ```
+	
 	-Variational AutoEncoder
 	-GAN overriding Model.train_step
 	-WGAN-GP overriding Model.train_step

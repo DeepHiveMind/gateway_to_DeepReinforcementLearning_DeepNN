@@ -1,4 +1,4 @@
-# Technical Nuances of World of Deep-Learning | Deep-Reinforcement-Learning | NLP-IE-Pipeline |
+# Technical Nuances of World of Deep-Learning | Deep-Reinforcement-Learning | NLP-IE-Pipeline | Real-World-ML-System-MLOPS | Knowledge-Graph | AI-Security-&-Privacy | Serverless-AI/ML | AI-Datasets | AutoML-&-HPO |
 
 
 This repository is my humble endeavour to take a you through **The Best of AI** by introducing you to very many constructs, design elements, real applications, codesets, FAQs from the beautiful landscape of AI.  Bon Vaoyage!
@@ -52,7 +52,7 @@ Every destination of this tour is delicately curated to make your AI experience 
 		- **Comprehensive AI GOVERNANCE**,
 			- 'AI TRUST' 
    			- 'AI Collaboration, Sharing & Exchange' 
-             		- 'AI Security' 
+             		- 'AI Security & Privacy' 
 			- 'AI Scalability' 
   			- 'AI Inference Model Update/ Roll out' Mechanism 
 			

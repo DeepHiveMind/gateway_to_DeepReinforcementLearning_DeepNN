@@ -33,7 +33,29 @@
     -Prioritized Experience Replay (PER)
 ```
 - **[Comparison of Main DeepRL frameworks](#Comparison-of-Main-DeepRL-frameworks)**
+```
+Keras-RL (Developed by Matthias Plappert- Employed with OpenAI)
+OpenAI Gym
+Facebook Horizon
+Google Dopamine
+Google DeepMind TensorFlow Reinforcement Learning (TRFL)
+Coach (Developed by Intel Nervana Systems)
+RLLib (Highly customizable open source DeepRL framework with support for TF2.0/PyTorch 1.4, customization for Environments/Policy/Action)
+Tensorforce (Tensorforce is built on top of Google's TensorFlow framework version 2.0 by Alexander Kuhnle - currently with BluePrism)
+```
 - **[DeepRL HANDS-ON with Keras-RL & TF & OpenAI-Gym](#DeepRL-HANDS-ON-with-Keras-RL-GYM)**
+```
+ Deep Q Learning (DQN)
+ Double DQN 
+ Deep Deterministic Policy Gradient (DDPG) 
+ Continuous DQN (CDQN or NAF)
+ Cross-Entropy Method (CEM)
+ Dueling network DQN (Dueling DQN)
+ Deep SARSA
+ Asynchronous Advantage Actor-Critic (A3C)
+ Proximal Policy Optimization Algorithms (PPO)
+ ```
+- **[Interesting DeepRL framework RLlib](#Interesting-DeepRL-framework-RLlib)**
 - **[DeepRL HANDS-ON Additional](#DeepRL-HANDS-ON-additional)**
 - Also a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning. 
 
@@ -58,7 +80,7 @@ Deep RL is one of the key factor powering -
 
 - High Level Solution Constructs of Deep Reinforcement Learning through Infographics
 
-<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "900" height ="200" />
+<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "900" height ="400" />
 
 Please refer to the 📜:[ARTICLE](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) for further detailing into the basic constructs of DeepRL ecosystem. <br>
 
@@ -111,14 +133,14 @@ Deep RL Algorithms overview by Infographics
  
 - Here are the list of Most commonly used DeepRL framework  
 ```
-Keras-RL
-Tensorforce
-Facebook Horizon
+Keras-RL (Developed by Matthias Plappert- Employed with OpenAI)
 OpenAI Gym
+Facebook Horizon
 Google Dopamine
-Nervana Systems Coach
-RLLib
-DeepMind TensorFlow Reinforcement Learning (TRFL)
+Google DeepMind TensorFlow Reinforcement Learning (TRFL)
+Coach (Developed by Intel Nervana Systems)
+RLLib (Highly customizable open source DeepRL framework with support for TF2.0/PyTorch 1.4, customization for Environments/Policy/Action)
+Tensorforce (Tensorforce is built on top of Google's TensorFlow framework version 2.0 by Alexander Kuhnle - currently with BluePrism)
 
 ```
 
@@ -176,6 +198,30 @@ Please refer to repo [DeepRL HANDS-ON with Keras & TF & OpenAI-Gym](https://gith
 	 -Actor Critic Method
 	 -Deep Deterministic Policy Gradient (DDPG)
 	 -Deep Q-Learning for Atari Breakout
+
+
+## Interesting DeepRL framework RLlib
+
+Refer to [RLib frameowrk](https://docs.ray.io/en/master/rllib.html) for its USPs (Customization feature).
+
+RLlib provides ways to *customize* almost all aspects of 
+	- training, 
+	- including the environment, 
+	- neural network model, 
+	- action distribution, and 
+	- policy definitions
+
+The following infographics shows the customization flexibility offered by RLlib - 
+<img src="https://docs.ray.io/en/master/_images/rllib-components.svg" alt="Fetch Slide" width ="300" height ="200"/>
+
+The above diagram also provides a conceptual overview of data flow between different components in RLlib -
+	- We start with an *Environment*, which given an *action* produces an observation. -->
+	- Then, The observation is preprocessed by a *Preprocessor* and *Filter* (e.g. for running mean normalization) before being sent to a *neural network Model* (agent Model with Policy). -->
+	- The model output is in turn interpreted by an *ActionDistribution* to determine the next action.
+
+RLlib supports both the major DeepNN frameworks for *neural network Model* (agent Model with Policy) -
+- TensorFlow 2.0
+- PyTorch 1.4.0
 
 ## DeepRL HANDS ON additional
 

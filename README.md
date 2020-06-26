@@ -11,7 +11,7 @@ A Solemn Commitment:
 
 Welcome Onboard! 
 
-Your journey begins with **The wonderland of AI** wherein you get to relish the gigantic-yet-so-beautiful landscape of AI. Herein, you will be pampered with Infographic panoramic view of the design, and the sweeping constructs of AI. I'm sure, You'll relish the AI wonderland! 
+Your journey begins with **The wonderland of AI** wherein you get to relish the gigantic-yet-so-beautiful landscape of AI. Herein, you will be pampered with Infographic panoramic view of the design, the sweeping constructs of AI, and many more such delightful introductory elements. I'm sure, You'll relish the gateway to AI wonderland! 
 
 Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of ***actual codesets*** from varied flavour will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets! 
 

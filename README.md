@@ -139,8 +139,7 @@ Sayonara!!
 Before, you take a leave, here is a quick recap of interesting journey through Infographics. No Words! Just the Visuals!
 
 
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "300" height ="200" alt="Starcraft"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide" width = "300" height ="200"/>
-<br>
+
 <img alt="medical imaging" src="https://www.researchgate.net/profile/Nilanjan_Dey3/publication/312222298/figure/fig2/AS:476035763445761@1490507178297/Association-between-the-electromagnetic-spectrum-and-the-medical-modalities.png" width ="600" height="200"/>
 
 
@@ -153,11 +152,13 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 <img alt="CNN Network in action" src="https://www.researchgate.net/publication/314282902/figure/fig1/AS:469481303613440@1488944473917/Architecture-of-the-proposed-CNN-model-with-2-convolutional-layers.png" width="900" height="200"/>
 
 <br>
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "300" height ="200" alt="Starcraft"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide" width = "300" height ="200"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/starcraft.gif" width = "300" height ="200" alt="Starcraft"/>
+<br>
 
 <img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "400" height ="200"/> <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "500" height ="200" alt="Algorithms"/>
 
 <br>
-<img alt="nlp IE pipeline" src="nlp_architect_logo_trans" width="200" height="200" />
+<img alt="nlp IE pipeline" src="/Infographics/nlp_architect_logo_trans.png" height="80"/> <img src="https://spacy.io/architecture-bcdfffe5c0b9f221a2f6607f96ca0e4a.svg" width="820" height="400" />
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR
 Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)

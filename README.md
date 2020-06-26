@@ -2,10 +2,9 @@
 ## Deep-Learning | Deep-Reinforcement-Learning | NLP-IE-Pipeline | MLOPS-Real-World-ML-System | Knowledge-Graph | AI-Security-&-Privacy | Serverless-AI/ML | AI-Datasets | AutoML-&-HPO |
 
 
-This repository is my humble endeavour to take a you through **The Best of Enterprise AI** by introducing you to very many constructs, design elements, real applications, codesets, FAQs from the captivatingly beautiful landscape of AI.  Bon Vaoyage!
+This repository is my humble endeavour to take a you through **The Best of Enterprise AI** by introducing you to very many constructs, design elements, real life AI applications, codesets, FAQs from the captivatingly beautiful landscape of AI.  Bon Vaoyage!
 
 A Solemn Commitment:   
-
 *I, The Sailor of the Cruise- DeepHiveMind, would continue to enrich this repository in my relentless persuit of democratizing the field of AI.*
 <br>
 <br>

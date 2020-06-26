@@ -50,7 +50,8 @@ Deep RL is one of the key factor powering -
 -  Smart Deep Gaming
 -  Many more
 
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide"width = "300" height ="200"/> 
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide"width = "300" height ="200"/>
+
 <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "300" height ="200" alt="Starcraft"/>
 
 ## Introduction to DeepRL
@@ -65,7 +66,7 @@ Please refer to the 📜:[ARTICLE](https://medium.freecodecamp.org/an-introducti
 
 - Deep RL Algorithms overview by Infographics
 
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="500" alt="Algorithms"/>
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="400" alt="Algorithms"/>
 
 ###### Value Optimization Agents Algorithms
 * [Deep Q Network (DQN)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  

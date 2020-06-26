@@ -17,7 +17,6 @@ Post that, In this voyage, you will be treated with ultra-luxurious warmth of **
 
 Every destination of this tour is delicately curated to make your AI experience wonderful. This carefully-curated AI itinerary is planned by me based on my 10+ dedicated years of *rich, deep hands-on engagement* with various streams of **"Enterprise AI, ML, NLP-Generation, Knowlede Graph, Converstaional AI, DL(Deep Learning) & DRL(Deep Reinforcement Learning)"** - be it   	
 		
-		- **classical Predictive machine learning**,
 		
 		- **Cognitive AI** , powered by Deep Neural networks, such as 
 			- Computer vision, 
@@ -26,17 +25,8 @@ Every destination of this tour is delicately curated to make your AI experience 
 			- Conversational AI,
 			- Multimodal analytics
 		
-		- **Knowledge Graph**,
-			- Ontology based on RDF/OWL subject-object-predicate semantic triples 
-					- Apache JENA/ AWS NEPTUNE with SPARQL
-					- GRAKN with GRAQL
-			
-			- Semantic lexicon for 
-				- BioMedical ontology (used for Precision Medicine & Disease Network - BioGrakn)
-				- English language (used extensively by computational linguists and cognitive scientists - WordNet/ SynSet
-				- Law (legal ontologies for Law based knowledge formalization - JurWordNet/ DOLCE+)
 		
-
+		- **classical Predictive machine learning**,
 		- **Strcutured Data AI/ML - Predictive ML** , powered by Deep Neural networks, such as 
 				-Structured data classification from scratch
  				-Collaborative Filtering for Recommendations
@@ -48,15 +38,27 @@ Every destination of this tour is delicately curated to make your AI experience 
 			- Google AutoML (NAS with Reinforcement Leaning)
 			- Hyper Parameter Optimization
 			- Randmoized/Grid Serach optimization
+
+		- **Knowledge Graph**,
+			- Ontology based on RDF/OWL subject-object-predicate semantic triples 
+					- Apache JENA/ AWS NEPTUNE with SPARQL
+					- GRAKN with GRAQL
+			
+			- Semantic lexicon for 
+				- BioMedical ontology (used for Precision Medicine & Disease Network - BioGrakn)
+				- English language (used extensively by computational linguists and cognitive scientists - WordNet/ SynSet
+				- Law (legal ontologies for Law based knowledge formalization - JurWordNet/ DOLCE+)
 		
+
+		
+		- **Deep Reinforcement-learning** (self learning autonomous systems), 
+
 		- **Distributed & Parallel ML**,  
 		
 		- **AI-as-a-Service**,
 			- RESTful API
 			- gRPC API
-			
-		- **Deep reinforcement-learning** (self learning autonomous systems), 
-		
+
 		- **Custom MLOps** (the Next-Gen MLOPS),
 		
 		- **Comprehensive AI GOVERNANCE**,

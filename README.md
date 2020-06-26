@@ -100,8 +100,8 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 	- [Video SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#video-sota-model-datasets)
  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
  
- 
-	-[Computer Vision](https://github.com/DeepHiveMind/keras-io/tree/master/examples/vision)
+  -[Computer Vision](https://github.com/DeepHiveMind/keras-io/tree/master/examples/vision)
+	
       ```
         -Image classification from scratch
 	-Simple MNIST convnet
@@ -113,8 +113,9 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 	-Point cloud classification with PointNet
 	-Few-Shot learning with Reptile
 	-Visualizing what convnets learn
-	```
-	- [Natural language processing](https://github.com/DeepHiveMind/keras-io/tree/master/examples/nlp)
+        ```
+	
+  - [Natural language processing](https://github.com/DeepHiveMind/keras-io/tree/master/examples/nlp)
       ```
 	
 	-Text classification from scratch
@@ -125,7 +126,7 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 	-Text classification with Transformer
 	-BERT (from HuggingFace Transformers) for Text Extraction   
 	```
-	-[Structured Data](https://github.com/DeepHiveMind/keras-io/tree/master/examples/structured_data)
+  -[Structured Data](https://github.com/DeepHiveMind/keras-io/tree/master/examples/structured_data)
       ```
 	
 	-Structured data classification from scratch

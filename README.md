@@ -99,22 +99,21 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 	- [NLP Text Translate NMT SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#nlp-translate-nmt-sota-model-datasets)
 	- [Video SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#video-sota-model-datasets)
  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
- 
-  -[Computer Vision](https://github.com/DeepHiveMind/keras-io/tree/master/examples/vision)
+        -[Computer Vision](https://github.com/DeepHiveMind/keras-io/tree/master/examples/vision)
 	
-      ```
-        -Image classification from scratch
-	-Simple MNIST convnet
-	-Image segmentation with a U-Net-like architecture
-	-Next-frame prediction with Conv-LSTM
-	-Grad-CAM class activation visualization
-	-Model interpretability with Integrated Gradients
-	-Metric learning for image similarity search
-	-Point cloud classification with PointNet
-	-Few-Shot learning with Reptile
-	-Visualizing what convnets learn
-        ```
-	
+```
+-Image classification from scratch
+-Simple MNIST convnet
+-Image segmentation with a U-Net-like architecture
+-Next-frame prediction with Conv-LSTM
+-Grad-CAM class activation visualization
+-Model interpretability with Integrated Gradients
+-Metric learning for image similarity search
+-Point cloud classification with PointNet
+-Few-Shot learning with Reptile
+-Visualizing what convnets learn
+```
+
   - [Natural language processing](https://github.com/DeepHiveMind/keras-io/tree/master/examples/nlp)
       ```
 	

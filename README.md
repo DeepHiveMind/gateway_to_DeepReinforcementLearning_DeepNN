@@ -222,8 +222,9 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 			Deep SARSA
 			Asynchronous Advantage Actor-Critic (A3C)
 			Proximal Policy Optimization Algorithms (PPO)
-      - [Interesting DeepRL Framework RLlib](/README%20-DeepRL.md#Interesting-DeepRL-framework-RLlib)
-      - [DeepRL HANDS-ON Additional](/README%20-DeepRL.md#DeepRL-HANDS-ON-additional)
+			
+	- [Interesting DeepRL Framework RLlib](/README%20-DeepRL.md#Interesting-DeepRL-framework-RLlib)
+        - [DeepRL HANDS-ON Additional](/README%20-DeepRL.md#DeepRL-HANDS-ON-additional)
       
  - [World of NLP IE Pipeline](/README_World_of_NLP_IE_Pipeline.md)
  - [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)

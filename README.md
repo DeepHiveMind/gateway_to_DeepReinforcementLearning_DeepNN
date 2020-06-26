@@ -168,58 +168,60 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 	- [Introduction to Industry Implementation of DeepRL](/README%20-DeepRL.md#Introduction-to-Industry-Implementation-of-Deep-RL)
 	- [Introduction to High level constructs of DeepRL](/README%20-DeepRL.md#introduction-to-deeprl)
 	- [Introduction to Significant DeepRL algorithms](/README%20-DeepRL.md#significant-deep-rl-models)
-```
-
--Value Optimization Agents Algorithms
-    
-    -Deep Q Network (DQN)
-    -Double Deep Q Network (DDQN)
-    -Mixed Monte Carlo (MMC)
-    
--Policy Optimization Agents Algorithms
-    
-    -Policy Gradients (PG)
-    -Asynchronous Advantage Actor-Critic (A3C)
-    -Deep Deterministic Policy Gradients (DDPG)
-    -Proximal Policy Optimization (PPO)
- 
--General Agents Algorithms
-    -Direct Future Prediction (DFP)
- ```
-   
-   - [Introduction to Advanced DeepRL algorithms](/README%20-DeepRL.md#Advanced-Deep-RL-Models)**
-
-	- Imitation Learning Agents Algorithms
-	    -Behavioral Cloning (BC)  
-	    -Conditional Imitation Learning
-	- Hierarchical Reinforcement Learning Agents Algorithms
-	    -Hierarchical Actor Critic (HAC)
-	- Memory Types Algorithms
-	    -Hindsight Experience Replay (HER)
-	    -Prioritized Experience Replay (PER)
-
-   - [Comparison of Main DeepRL frameworks](/README%20-DeepRL.md#Comparison-of-Main-DeepRL-frameworks)
-		    
-	Keras-RL (Developed by Matthias Plappert- Employed with OpenAI)
-	OpenAI Gym
-	Facebook Horizon
-	Google Dopamine
-	Google DeepMind TensorFlow Reinforcement Learning (TRFL)
-	Coach (Developed by Intel Nervana Systems)
-	RLLib (Highly customizable open source DeepRL framework with support for TF2.0/PyTorch 1.4, customization for Environments/Policy/Action)
-	Tensorforce (Tensorforce is built on top of Google's TensorFlow framework version 2.0 by Alexander Kuhnle - currently with BluePrism)
 	
-   - [DeepRL HANDS-ON with Keras-RL & TF & OpenAI-Gym](/README%20-DeepRL.md#DeepRL-HANDS-ON-with-Keras-RL-GYM)
+			
+			-Value Optimization Agents Algorithms
+			    
+			    -Deep Q Network (DQN)
+			    -Double Deep Q Network (DDQN)
+			    -Mixed Monte Carlo (MMC)
+			    
+			-Policy Optimization Agents Algorithms
+			    
+			    -Policy Gradients (PG)
+			    -Asynchronous Advantage Actor-Critic (A3C)
+			    -Deep Deterministic Policy Gradients (DDPG)
+			    -Proximal Policy Optimization (PPO)
+			 
+			-General Agents Algorithms
+			    -Direct Future Prediction (DFP)
+		
+   
+ 	- [Introduction to Advanced DeepRL algorithms](/README%20-DeepRL.md#Advanced-Deep-RL-Models) 
+
+
+			- Imitation Learning Agents Algorithms
+			    -Behavioral Cloning (BC)  
+			    -Conditional Imitation Learning
+			- Hierarchical Reinforcement Learning Agents Algorithms
+			    -Hierarchical Actor Critic (HAC)
+			- Memory Types Algorithms
+			    -Hindsight Experience Replay (HER)
+			    -Prioritized Experience Replay (PER)
+
+	- [Comparison of Main DeepRL frameworks](/README%20-DeepRL.md#Comparison-of-Main-DeepRL-frameworks)
+
 		    
-		    Deep Q Learning (DQN)
-		    Double DQN 
-		    Deep Deterministic Policy Gradient (DDPG) 
-		    Continuous DQN (CDQN or NAF)
-		    Cross-Entropy Method (CEM)
-		    Dueling network DQN (Dueling DQN)
-		    Deep SARSA
-		    Asynchronous Advantage Actor-Critic (A3C)
-		    Proximal Policy Optimization Algorithms (PPO)
+			Keras-RL (Developed by Matthias Plappert- Employed with OpenAI)
+			OpenAI Gym
+			Facebook Horizon
+			Google Dopamine
+			Google DeepMind TensorFlow Reinforcement Learning (TRFL)
+			Coach (Developed by Intel Nervana Systems)
+			RLLib (Highly customizable open source DeepRL framework with support for TF2.0/PyTorch 1.4, customization for Environments/Policy/Action)
+			Tensorforce (Tensorforce is built on top of Google's TensorFlow framework version 2.0 by Alexander Kuhnle - currently with BluePrism)
+	
+	- [DeepRL HANDS-ON with Keras-RL & TF & OpenAI-Gym](/README%20-DeepRL.md#DeepRL-HANDS-ON-with-Keras-RL-GYM)
+		    
+			Deep Q Learning (DQN)
+			Double DQN 
+			Deep Deterministic Policy Gradient (DDPG) 
+			Continuous DQN (CDQN or NAF)
+			Cross-Entropy Method (CEM)
+			Dueling network DQN (Dueling DQN)
+			Deep SARSA
+			Asynchronous Advantage Actor-Critic (A3C)
+			Proximal Policy Optimization Algorithms (PPO)
       - [Interesting DeepRL Framework RLlib](/README%20-DeepRL.md#Interesting-DeepRL-framework-RLlib)
       - [DeepRL HANDS-ON Additional](/README%20-DeepRL.md#DeepRL-HANDS-ON-additional)
       

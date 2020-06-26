@@ -50,7 +50,7 @@ Deep RL is one of the key factor powering -
 -  Smart Deep Gaming
 -  Many more
 
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide"width = "300" height ="200"/>
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/fetch_slide.gif" alt="Fetch Slide" width = "300" height ="200"/>
 
 <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/img/carla.gif" width = "300" height ="200" alt="Starcraft"/>
 
@@ -58,15 +58,15 @@ Deep RL is one of the key factor powering -
 
 - High Level Solution Constructs of Deep Reinforcement Learning through Infographics
 
-<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" style="width: 500px;"/>
+<img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "900" height ="200" />
 
-Please refer to the 📜:[ARTICLE](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) <br><br>
+Please refer to the 📜:[ARTICLE](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) for further detailing into the basic constructs of DeepRL ecosystem. <br>
 
 ## Significant Deep RL Models
 
-- Deep RL Algorithms overview by Infographics
+Deep RL Algorithms overview by Infographics
 
-<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "600" height ="400" alt="Algorithms"/>
+<img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "900" height ="400" alt="Algorithms"/>
 
 ###### Value Optimization Agents Algorithms
 * [Deep Q Network (DQN)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  
@@ -118,7 +118,7 @@ OpenAI Gym
 Google Dopamine
 Nervana Systems Coach
 RLLib
-TRFL
+DeepMind TensorFlow Reinforcement Learning (TRFL)
 
 ```
 
@@ -135,11 +135,12 @@ Simple RL
 
 - Comparison of Most commonly used Deep RL frameworks
 
-📜 **[ARTICLE](https://winderresearch.com/a-comparison-of-reinforcement-learning-frameworks-dopamine-rllib-keras-rl-coach-trfl-tensorforce-coach-and-more/)** for the comparison-of-Reinforcement-learning-frameworks, such as 
+Refer to the 📜 **[ARTICLE](https://winderresearch.com/a-comparison-of-reinforcement-learning-frameworks-dopamine-rllib-keras-rl-coach-trfl-tensorforce-coach-and-more/)** for the comparison-of-Reinforcement-learning-frameworks, such as 
+	Dopamine / rllib / Keras-rl / coach /	trfl /	tensorforce /	coach
 
 ## Introduction to DeepRL Models supported by Keras RL framework
 
-📜 **[ARTICLE](https://github.com/keras-rl/keras-rl)** for how to implement important following Agent Models using KERAS-RL, such as
+Refer to the [Repo](https://github.com/keras-rl/keras-rl) for how to implement important following Agent Models using KERAS-RL, such as
 
 ```
  Deep Q Learning (DQN)
@@ -171,10 +172,10 @@ Please refer to [https://github.com/Deep-Mind-Hive/keras-rl/tree/master/examples
       - SARSA_cartpole.py
       
 Please refer to repo [DeepRL HANDS-ON with Keras & TF & OpenAI-Gym](https://github.com/DeepHiveMind/keras-io/blob/master/examples/README_Keras_TF2.0_Applications_Codeset.md#deep-reinforcement-learning-hands-on-with-keras-rl--tf--openai-gym) for following DeepRL model implementations:
-			
-			     -Actor Critic Method
-			     -Deep Deterministic Policy Gradient (DDPG)
-			     -Deep Q-Learning for Atari Breakout
+	
+	 -Actor Critic Method
+	 -Deep Deterministic Policy Gradient (DDPG)
+	 -Deep Q-Learning for Atari Breakout
 
 ## DeepRL HANDS ON additional
 

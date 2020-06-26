@@ -132,11 +132,9 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 			-Structured data classification from scratch
 			-Collaborative Filtering for Movie Recommendations
 			-Imbalanced classification: credit card fraud detection
-	
 	- [Timeseries](https://github.com/DeepHiveMind/keras-io/tree/master/examples/timeseries)
         
 			-Timeseries anomaly detection using an Autoencoder
-	
 	- [Generative Deep Learning](https://github.com/DeepHiveMind/keras-io/tree/master/examples/generative)
 			
 			-Variational AutoEncoder
@@ -152,8 +150,13 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
  - [World of Audio & Speech processing](/README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
  - [World of Deep Reinforcement Learning Self evolving systems](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md)
  	- [Industry Implementation of Deep RL](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#Industry-Implementation-of-Deep-RL)
-	- [Deep RL Solution Constructs](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#Deep-RL-Solution-Constructs)
-	- [Deep RL Hands-on](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#deep-dive-into-deep-rl-hands-on)
+	- [DeepRL Solution Constructs](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#Deep-RL-Solution-Constructs)
+	- [DeepRL HANDS-ON with Keras-RL & TF & OpenAI-Gym](https://github.com/DeepHiveMind/keras-io/blob/master/examples/README_Keras_TF2.0_Applications_Codeset.md#deep-reinforcement-learning-hands-on-with-keras-rl--tf--openai-gym)
+			
+			-Actor Critic Method
+			-Deep Deterministic Policy Gradient (DDPG)
+			-Deep Q-Learning for Atari Breakout
+	- [DeepRL Hands-on additional applications](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#deep-dive-into-deep-rl-hands-on)
  - [World of NLP IE Pipeline](/README_World_of_NLP_IE_Pipeline.md)
  - [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)
  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](/README_Grid_Random_Search_HyperParameterOptimization.md)

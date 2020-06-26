@@ -145,8 +145,18 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 			-Character-level text generation with LSTM
 			-PixelCNN
 			-Text Generation with miniature GPT
- 
  - [Deep NeuralNet AI Applications Additional Codesets](/README_AI_Applications_Codesets.md)
+ 			
+			-Image Object Detection SSD
+			-Image Segmentation UNET 
+			-Object Detection and Segmentation RCNN MaskRCNN 
+			-Skin Cancer Lesion detection from dermoscopic images
+			-Automated Brain Tumour Segmentation
+			-Scene Text detection from wild Images using CRNN CTPN DenseNet-OCR
+			-Custom OCR Engine
+			-Text detection from IDCard
+			-Automated Number Plate Detection
+			-Microservice Microweb framework for AIaaS
  - [World of Audio & Speech processing](/README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
  - [World of Deep Reinforcement Learning Self evolving systems](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md)
  	- [Industry Implementation of Deep RL](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md#Industry-Implementation-of-Deep-RL)

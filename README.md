@@ -33,7 +33,13 @@ Every destination of this tour is delicately curated to make your AI experience 
 				- English language (used extensively by computational linguists and cognitive scientists - WordNet/ SynSet
 				- Law (legal ontologies for Law based knowledge formalization - JurWordNet/ DOLCE+)
 		
-		
+
+		- **Strcutured Data AI/ML - Predictive ML** , powered by Deep Neural networks, such as 
+				-Structured data classification from scratch
+ 				-Collaborative Filtering for Recommendations
+  				-credit card fraud detection: Heavily Imbalanced classification
+				-Timeseries anomaly detection
+
 		- **AutoML**,
 			- AutoKeras (NAS with Bayesian Optimization)
 			- Google AutoML (NAS with Reinforcement Leaning)

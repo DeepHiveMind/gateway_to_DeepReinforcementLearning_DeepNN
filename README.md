@@ -1,5 +1,5 @@
-# Technical Nuances of The World of 
-## Deep-Learning | Deep-Reinforcement-Learning | NLP-IE-Pipeline | Real-World-ML-System-MLOPS | Knowledge-Graph | AI-Security-&-Privacy | Serverless-AI/ML | AI-Datasets | AutoML-&-HPO |
+# Technical Nuances of The World of AI
+## Deep-Learning | Deep-Reinforcement-Learning | NLP-IE-Pipeline | MLOPS-Real-World-ML-System | Knowledge-Graph | AI-Security-&-Privacy | Serverless-AI/ML | AI-Datasets | AutoML-&-HPO |
 
 
 This repository is my humble endeavour to take a you through **The Best of AI** by introducing you to very many constructs, design elements, real applications, codesets, FAQs from the beautiful landscape of AI.  Bon Vaoyage!

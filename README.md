@@ -101,6 +101,7 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
         
 	-[Computer Vision](https://github.com/DeepHiveMind/keras-io/tree/master/examples/vision)
+			
 			-Image classification from scratch
 			-Simple MNIST convnet
 			-Image segmentation with a U-Net-like architecture
@@ -112,46 +113,34 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 			-Few-Shot learning with Reptile
 			-Visualizing what convnets learn
 	- [Natural language processing](https://github.com/DeepHiveMind/keras-io/tree/master/examples/nlp)
+			
+			-Text classification from scratch
+			-Sequence to sequence learning for performing number addition
+			-Bidirectional LSTM on IMDB
+			-Character-level recurrent sequence-to-sequence model
+			-Using pre-trained word embeddings
+			-Text classification with Transformer
+			-BERT (from HuggingFace Transformers) for Text Extraction
 	-[Structured Data](https://github.com/DeepHiveMind/keras-io/tree/master/examples/structured_data)
-
-
-      
-
-```
--Text classification from scratch
--Sequence to sequence learning for performing number addition
--Bidirectional LSTM on IMDB
--Character-level recurrent sequence-to-sequence model
--Using pre-trained word embeddings
--Text classification with Transformer
--BERT (from HuggingFace Transformers) for Text Extraction   
-```
-  
-      ```
+			
+			-Structured data classification from scratch
+			-Collaborative Filtering for Movie Recommendations
+			-Imbalanced classification: credit card fraud detection
 	
-	-Structured data classification from scratch
-	-Collaborative Filtering for Movie Recommendations
-	-Imbalanced classification: credit card fraud detection
-	```
 	-[Timeseries](https://github.com/DeepHiveMind/keras-io/tree/master/examples/timeseries)
-      ```
+        
+			-Timeseries anomaly detection using an Autoencoder
 	
-	-Timeseries anomaly detection using an Autoencoder
-	```
 	-[Generative Deep Learning](https://github.com/DeepHiveMind/keras-io/tree/master/examples/generative)
-      ```
-	
-	-Variational AutoEncoder
-	-GAN overriding Model.train_step
-	-WGAN-GP overriding Model.train_step
-	-Neural style transfer
-	-Deep Dream
-	-Character-level text generation with LSTM
-	-PixelCNN
-	-Text Generation with miniature GPT
-	```
- 
- 
+			
+			-Variational AutoEncoder
+			-GAN overriding Model.train_step
+			-WGAN-GP overriding Model.train_step
+			-Neural style transfer
+			-Deep Dream
+			-Character-level text generation with LSTM
+			-PixelCNN
+			-Text Generation with miniature GPT
  
  - [Deep NeuralNet AI Applications Codesets](/README_AI_Applications_Codesets.md)
  - [World of Audio & Speech processing](/README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)

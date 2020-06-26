@@ -99,13 +99,13 @@ Deep RL Algorithms overview by Infographics
 * [Categorical Deep Q Network (C51)](https://arxiv.org/abs/1707.06887) 
 
 ###### Policy Optimization Agents Algorithms
-* [Policy Gradients (PG)](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf) | **Multi Worker Single Node**  
-* [Asynchronous Advantage Actor-Critic (A3C)](https://arxiv.org/abs/1602.01783) | **Multi Worker Single Node**  
-* [Deep Deterministic Policy Gradients (DDPG)](https://arxiv.org/abs/1509.02971) | **Multi Worker Single Node**  
+* [Policy Gradients (PG)](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf) | *Multi Worker Single Node*  
+* [Asynchronous Advantage Actor-Critic (A3C)](https://arxiv.org/abs/1602.01783) | *Multi Worker Single Node*
+* [Deep Deterministic Policy Gradients (DDPG)](https://arxiv.org/abs/1509.02971) | *Multi Worker Single Node* 
 * [Proximal Policy Optimization (PPO)](https://arxiv.org/pdf/1707.06347.pdf)
 
 ###### General Agents Algorithms
-* [Direct Future Prediction (DFP)](https://arxiv.org/abs/1611.01779) | **Multi Worker Single Node** 
+* [Direct Future Prediction (DFP)](https://arxiv.org/abs/1611.01779) | *Multi Worker Single Node* 
 
 
 ## Advanced DeepRL Models
@@ -212,7 +212,8 @@ RLlib provides ways to *customize* almost all aspects of
 	- policy definitions
 
 The following infographics shows the customization flexibility offered by RLlib - 
-<img src="https://docs.ray.io/en/master/_images/rllib-components.svg" alt="Fetch Slide" width ="300" height ="200"/>
+<br>
+<img src="https://docs.ray.io/en/master/_images/rllib-components.svg" alt="Fetch Slide" width ="600" height ="400"/>
 
 The above diagram also provides a conceptual overview of data flow between different components in RLlib -
 	- We start with an *Environment*, which given an *action* produces an observation. -->

@@ -10,7 +10,7 @@ Welcome Onboard!
 
 Your journey begins with **The wonderland of AI** wherein you get to relish the gigantic-yet-so-beautiful landscape of AI. Herein, you will be pampered with Infographic panoramic view of the design, and the sweeping constructs of AI. I'm sure, You'll relish the AI wonderland! 
 
-Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of ***actual codesets*** from varied flavour will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets! Please refer to the delicately hand crafted [exquisite bouquet of offerings](#The-vantage-view-of-Agenda). Hold on for a sec!!
+Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of ***actual codesets*** from varied flavour will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets! 
 
 Every destination of this tour is delicately curated to make your AI experience wonderful. This carefully-curated AI itinerary is planned by me based on my 10+ dedicated years of *rich, deep hands-on engagement* with various streams of **"Enterprise AI, ML, NLP-Generation, Knowlede Graph, Converstaional AI, DL(Deep Learning) & DRL(Deep Reinforcement Learning)"** - be it   	
 		
@@ -99,6 +99,55 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
 	- [NLP Text Translate NMT SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#nlp-translate-nmt-sota-model-datasets)
 	- [Video SOTA Model Datasets](/README_World_of_Datasets_for_AI.md#video-sota-model-datasets)
  - [World of Keras-Machine-Learning-Deep-Learning](https://github.com/DeepHiveMind/Keras-Machine-Learning-Deep-Learning-Tutorial)
+ 
+ 
+	-[Computer Vision](https://github.com/DeepHiveMind/keras-io/tree/master/examples/vision)
+      ```
+         -Image classification from scratch
+	-Simple MNIST convnet
+	-Image segmentation with a U-Net-like architecture
+	-Next-frame prediction with Conv-LSTM
+	-Grad-CAM class activation visualization
+	-Model interpretability with Integrated Gradients
+	-Metric learning for image similarity search
+	-Point cloud classification with PointNet
+	-Few-Shot learning with Reptile
+	-Visualizing what convnets learn
+	```
+	- [Natural language processing](https://github.com/DeepHiveMind/keras-io/tree/master/examples/nlp)
+      ```
+	-Text classification from scratch
+	-Sequence to sequence learning for performing number addition
+	-Bidirectional LSTM on IMDB
+	-Character-level recurrent sequence-to-sequence model
+	-Using pre-trained word embeddings
+	-Text classification with Transformer
+	-BERT (from HuggingFace Transformers) for Text Extraction   
+	```
+	-[Structured Data](https://github.com/DeepHiveMind/keras-io/tree/master/examples/structured_data)
+      ```
+	-Structured data classification from scratch
+	-Collaborative Filtering for Movie Recommendations
+	-Imbalanced classification: credit card fraud detection
+	```
+	-[Timeseries](https://github.com/DeepHiveMind/keras-io/tree/master/examples/timeseries)
+      ```
+	-Timeseries anomaly detection using an Autoencoder
+	```
+	-[Generative Deep Learning](https://github.com/DeepHiveMind/keras-io/tree/master/examples/generative)
+      ```
+	-Variational AutoEncoder
+	-GAN overriding Model.train_step
+	-WGAN-GP overriding Model.train_step
+	-Neural style transfer
+	-Deep Dream
+	-Character-level text generation with LSTM
+	-PixelCNN
+	-Text Generation with miniature GPT
+	```
+ 
+ 
+ 
  - [Deep NeuralNet AI Applications Codesets](/README_AI_Applications_Codesets.md)
  - [World of Audio & Speech processing](/README_Taxonomy%20of%20Speech%20%26%20Audio%20domain.md)
  - [World of Deep Reinforcement Learning Self evolving systems](/README_World_of_Deep_Reinforcement_Learning_Self_evolving_systems.md)

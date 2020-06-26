@@ -34,7 +34,7 @@
 ```
 - **[Comparison of Main DeepRL frameworks](#Comparison-of-Main-DeepRL-frameworks)**
 - **[DeepRL HANDS-ON with Keras-RL & TF & OpenAI-Gym](#DeepRL-HANDS-ON-with-Keras-RL-GYM)**
-- **[DeepRL HANDS-ON Additional](#DeepRL-HANDS-ON-additional)
+- **[DeepRL HANDS-ON Additional](#DeepRL-HANDS-ON-additional)**
 - Also a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning. 
 
 
@@ -176,6 +176,7 @@ Please refer to repo [DeepRL HANDS-ON with Keras & TF & OpenAI-Gym](https://gith
 			     -Deep Q-Learning for Atari Breakout
 
 ## DeepRL HANDS ON additional
+
 ###### Q-learning with FrozenLake
 
 - 📜 [ARTICLE](https://medium.freecodecamp.org/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe) // [FROZENLAKE IMPLEMENTATION](https://github.com/DeepHiveMind/Deep_reinforcement_learning_Course/blob/master/Q%20learning/FrozenLake/Q%20Learning%20with%20FrozenLake.ipynb)<br>

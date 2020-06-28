@@ -1,7 +1,7 @@
 # Deep Reinforcement Learning Self evolving systems
 
 
-<p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. This Repo primarily includes
+<p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. ***It can solve the most challenging AI problems. Today, the state of the art results are obtained by an AI that is based on Deep Reinforcement Learning***. This Repo primarily includes
 
 - **[Introduction to Industry Implementation of DeepRL](#Introduction-to-Industry-Implementation-of-Deep-RL)**
 - **[Introduction to High level constructs of DeepRL](#Introduction-to-DeepRL)**

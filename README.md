@@ -85,6 +85,8 @@ Please note:
 ***
 
 In this repository, sharing with you delicately hand crafted exquisite bouquet of offerings:
+*Below is the list of hyperlinks to my other Repo/Readme recepies/notebook/codesets. Just Click on hyperlinks of the respective items to delve deep into it.*
+
  - [World of AI](/README%20-%20World%20of%20AI.md)
  	- [The 1st, 2nd & 3rd Generations of AI](/README%20-%20World%20of%20AI.md#The-Generations-of-AI)
 	- [Standard Definition of AI & ML](/README%20-%20World%20of%20AI.md#Standard-Definition-of-AI-and-ML)

@@ -167,6 +167,21 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
  	
 	- [Introduction to Industry Implementation of DeepRL](/README%20-DeepRL.md#Introduction-to-Industry-Implementation-of-Deep-RL)
 	- [Introduction to High level constructs of DeepRL](/README%20-DeepRL.md#introduction-to-deeprl)
+
+			-Agent
+			-Environment
+			-Action
+			-State
+			-Reward
+			-Policy
+			-Value function
+			-Function approximator
+			-Markov decision process (MDP)
+			-Dynamic programming (DP)
+			-Monte Carlo methods
+			-Temporal Difference (TD) algorithms
+			-Model
+	
 	- [Introduction to Significant DeepRL algorithms](/README%20-DeepRL.md#significant-deep-rl-models)
 	
 			

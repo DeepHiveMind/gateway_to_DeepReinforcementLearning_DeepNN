@@ -13,7 +13,7 @@ Welcome Onboard!
 
 <br>
 
-<img alt="Space_Cruiser" src="/Infographics/banner.png" width="820" height="200" />
+<img alt="Space_Cruiser" src="/Infographics/banner.png" width="960" height="250" />
 
 
 

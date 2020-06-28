@@ -9,13 +9,11 @@ A Solemn Commitment:
 <br>
 <br>
 
-Welcome Onboard! 
 
-<br>
 
 <img alt="Space_Cruiser" src="/Infographics/banner.png" width="990" height="250" />
-
-
+<br>
+Welcome Onboard! 
 
 Your journey begins with **The wonderland of AI** wherein you get to relish the gigantic-yet-so-beautiful landscape of AI. Herein, you will be pampered with Infographic panoramic view of the design, the sweeping constructs of AI, and many more such delightful introductory elements. I'm sure, You'll relish the gateway to AI wonderland! 
 

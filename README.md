@@ -249,7 +249,36 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
         - [DeepRL HANDS-ON Additional](/README%20-DeepRL.md#DeepRL-HANDS-ON-additional)
       
  - [World of NLP IE Pipeline](/README_World_of_NLP_IE_Pipeline.md)
- - [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)
+ - [World of AutoML AutoKeras HPO](https://github.com/DeepHiveMind/AutoML_AutoKeras_HPO/edit/master/README.md)
+	- [Introduction to AutoML](#Introduction-to-AutoML)
+	- [High Level technique needed in AutoML](#High-Level-technique-needed-in-AutoML)
+	- [Comparative view of Commercial AutoML Offerings](#Comparative-view-of-Commercial-AutoML-Offerings)
+	- [Comparative view of AutoML Projects TYPES NAS HPO AutoFE](#Comparative-view-of-AutoML-Projects-TYPES-NAS-HPO-AutoFE)
+	- [World of AutoKeras (Open Source AutoML)](https://github.com/DeepHiveMind/autokeras)
+	- [Detailed Insight into the constructs of AutoML ecosystems](#Detailed-Insight-into-the-constructs-of-AutoML-ecosystems)
+
+			- Automated Feature Engineering
+			  - [Expand Reduce]
+			  - [Hierarchical Organization of Transformations]
+			  - [Meta Learning]
+			  - [Reinforcement Learning]
+			- Architecture Search
+			  - [Evolutionary Algorithms]
+			  - [Local Search]
+			  - [Meta Learning]
+			  - [Reinforcement Learning]
+			  - [Transfer Learning]
+			- Hyperparameter Optimization
+			  - [Bayesian Optimization]
+			  - [Evolutionary Algorithms]
+			  - [Lipschitz Functions]
+			  - [Local Search]
+			  - [Meta Learning]
+			  - [Particle Swarm Optimization]
+			  - [Random Search]
+			  - [Transfer Learning]
+		
+		 
  - [Hyper Parameter Optimization (HPO) in Classical ML - Grid Serach/Random Search](/README_Grid_Random_Search_HyperParameterOptimization.md)
  - [Deep Dive into AI/ML SECURITY](/README_Deep_Dive_into_AI_SECURITY.md)
  	- [Why AI/ML SECURITY is important](/README_Deep_Dive_into_AI_SECURITY.md#Why-AI-SECURITY-is-important)

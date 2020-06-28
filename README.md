@@ -308,7 +308,7 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 <img alt="AutoML" src="/Infographics/automl.png" width="820" height="400" />
 
 <br>
-<img alt="mlops" src="/Infographics/mlops_overview.png width="410" height="400" /> <img alt="automl" src="/Infographics/procedure.jpg width="410" height="400" /> 
+<img alt="mlops" src="/Infographics/mlops_overview.png" width="410" height="400" /> <img alt="automl" src="/Infographics/procedure.jpg" width="410" height="400" /> 
 
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR

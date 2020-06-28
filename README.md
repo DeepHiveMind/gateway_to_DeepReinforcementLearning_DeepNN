@@ -2,18 +2,24 @@
 ## Deep-Learning | Deep-Reinforcement-Learning | NLP-IE-Pipeline | MLOPS-Real-World-ML-System | Knowledge-Graph | AI-Security-&-Privacy | Serverless-AI/ML | AI-Datasets | AutoML-&-HPO |
 
 
-This repository is my humble endeavour to take a you through **The Best of Enterprise AI** by introducing you to very many constructs, design elements, real life AI applications, codesets, FAQs from the captivatingly beautiful landscape of AI.  Bon Vaoyage!
+This repository is my humble endeavour to take a you through **The Best of Enterprise AI** by introducing you to very many constructs, design elements, real life AI applications, codesets, FAQs from the captivatingly beautiful landscape of AI. Gear up for **the Universe called "AI"**. Bon Vaoyage!
 
 A Solemn Commitment:   
-*I, The Sailor of the Cruise- DeepHiveMind, would continue to enrich this repository in my relentless persuit of democratizing the field of AI.*
+*I, The Captain of the Space Cruiser- DeepHiveMind, would continue to enrich this repository in my relentless persuit of democratizing the field of AI.*
 <br>
 <br>
 
 Welcome Onboard! 
 
+<br>
+
+<img alt="Space_Cruiser" src="/Infographics/banner.png" width="820" height="200" />
+
+
+
 Your journey begins with **The wonderland of AI** wherein you get to relish the gigantic-yet-so-beautiful landscape of AI. Herein, you will be pampered with Infographic panoramic view of the design, the sweeping constructs of AI, and many more such delightful introductory elements. I'm sure, You'll relish the gateway to AI wonderland! 
 
-Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of ***actual codesets*** with varied flavours will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets! Then comes the next pitstop. Dress up for to be lavishly treated with amazing-awesome-powerful-&-yet-so-beautiful world of Deep Reinforcement Learming (DeepRL), Automated Machine Learning (AutoML) & MLOps. Yes, this is *global AI shift*! Let us together unleash the power of DeepRL, AutoML, MLOps, and transcend to the new era of AI!
+Post that, In this voyage, you will be treated with ultra-luxurious warmth of **The REAL world of AI applications**, wherein pleathora of ***actual codesets*** with varied flavours will welcome you in detail. Please cherish the tangy-yet-so-sweet flavour of AI application codesets! Then comes the next pitstop. Dress up for to be lavishly treated with amazing-awesome-powerful-&-yet-so-beautiful world of **Deep Reinforcement Learming (DeepRL), Automated Machine Learning (AutoML), Productionizing of ML Model (MLOps**. Yes, this is *global AI shift*! Let us together unleash the power of DeepRL, AutoML, MLOps, and transcend to the new era of AI!
 
 Every destination of this tour is delicately curated to make your AI experience wonderful. This carefully-curated AI itinerary is planned by me based on my 10+ dedicated years of *rich, deep hands-on engagement* with various streams of **"Enterprise AI, ML, NLP-Generation, Knowlede Graph, Converstaional AI, DL(Deep Learning) & DRL(Deep Reinforcement Learning)"** - be it   	
 		

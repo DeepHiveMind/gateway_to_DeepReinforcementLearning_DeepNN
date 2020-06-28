@@ -1,10 +1,40 @@
 # Deep Reinforcement Learning Self evolving systems
 
 
-<p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. ***It can solve the most challenging AI problems. Today, the state of the art results are obtained by an AI that is based on Deep Reinforcement Learning***. This Repo primarily includes
+<p> Welcome to <b> The World of Deep Reinforcement Learning- Powering Self Evolving System</b>. ***It can solve the most challenging AI problems. Today, the state of the art results are obtained by an AI that is based on Deep Reinforcement Learning***. 
+
+In recent years, the world has witnessed an acceleration of innovations in Deep Reinforcement learning (DeepRL).Such as -
+[Google’s AutoML](https://cloud.google.com/automl) is also powered by *DeepRL*. | [Beating the champion of the game Go with AlphaGo](https://deepmind.com/research/case-studies/alphago-the-story-so-far) in Y'2016 |  [OpenAI and the PPO (Proximal Policy Optimization)](https://openai.com/blog/openai-baselines-ppo/) in Y'2017 |  The resurgence of [curiosity-driven learning agents](https://eng.uber.com/go-explore/) in Y'2018 with **UberAI GoExplore** and **OpenAI RND** | Recently,  [OpenAI Five](https://openai.com/projects/five/) that beats the best Dota players in the world Y'2016-Y'2019.
+
+As more and more companies leverage DeepRL and discover new and powerful applications, they’re calling on data scientist & AI Engineers like us to create the next wave of disruptive application/solution offerings. 
+
+Combining the powerful principles of both deep learning and reinforcement learning, DeepRL is changing the face of many industries, including:
+Medicine: to determine optimal treatments for health conditions and drug therapies.| 	Robotics: to improve robotic manipulation with minimal human supervision. | 	Industrial Automation: to integrate intelligence into complex and dynamic systems. | 	Finance: increase profitability in trading. |  	
+
+ Let us take advantage of the global AI shift! Let us unleash the power of DRL!
+
+	
+***	
+This Repo primarily includes
 
 - **[Introduction to Industry Implementation of DeepRL](#Introduction-to-Industry-Implementation-of-Deep-RL)**
 - **[Introduction to High level constructs of DeepRL](#Introduction-to-DeepRL)**
+```
+Agent
+Environment
+Action
+State
+Reward
+Policy
+Value function
+Function approximator
+Markov decision process (MDP)
+Dynamic programming (DP)
+Monte Carlo methods
+Temporal Difference (TD) algorithms
+Model
+
+```
 - **[Introduction to Significant DeepRL algorithms](#Significant-Deep-RL-Models)**
 ```
 -Value Optimization Agents Algorithms
@@ -59,15 +89,20 @@ Tensorforce (Tensorforce is built on top of Google's TensorFlow framework versio
 - **[DeepRL HANDS-ON Additional](#DeepRL-HANDS-ON-additional)**
 - Also a reference to series of blog posts and videos 🆕 about Deep Reinforcement Learning. 
 
+***
 
 ## Introduction to Industry Implementation of Deep RL
 
 Deep RL is one of the key factor powering -
--  Self Evolving Control System
--  Hyperautomation
--  Google AutoML (NAS + Deep RL)
--  TRAX ([AI with Speed in Sequence Model](https://github.com/google/trax) )
--  Autocorrection, autocompletion in Email/Typing/NLP (heady mix of dynamic programming, hidden Markov models, and word embeddings) 
+- Medicine: to determine optimal treatments for health conditions and drug therapies.
+- Robotics: to improve robotic manipulation with minimal human supervision. 
+- Finance: increase profitability in trading. 
+- Industrial Automation: to integrate intelligence into complex and dynamic systems. 
+- Self Evolving Control System
+- Hyperautomation
+- Google AutoML (NAS + Deep RL)
+- TRAX ([AI with Speed in Sequence Model](https://github.com/google/trax) )
+- Autocorrection, autocompletion in Email/Typing/NLP (heady mix of dynamic programming, hidden Markov models, and word embeddings) 
 -  Autonomous Systems
 -  Smart Deep Gaming
 -  Many more
@@ -78,15 +113,47 @@ Deep RL is one of the key factor powering -
 
 ## Introduction to DeepRL
 
+#### Overview
+The main solution blocks of RL/DeepRL are 
+- the agent and 
+- the environment. 
+	
+  - The environment is the world that the agent lives in and interacts with. 
+  - At every step of interaction, the agent sees a (possibly partial) observation of the state of the world, and then decides on an action to take. 
+  - The environment changes when the agent acts on it, but may also change on its own.
+  - The agent also perceives a reward signal from the environment, a number that tells it how good or bad the current world state is. 
+  - The goal of the agent is to maximize its cumulative reward, called return. Reinforcement learning methods are ways that the agent can learn behaviors to achieve its goal.
+
+
+#### High Level Solution Constructs of DeepRL
+
 - High Level Solution Constructs of Deep Reinforcement Learning through Infographics
 
 <img src="https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/Infographics/RLDesign.png" alt="Deep Reinforcement Learning High Level Solution Constructs" width = "900" height ="400" />
+
+
+- Agent — the learner and the decision maker.
+- Environment — where the agent learns and decides what actions to perform.
+- Action — a set of actions which the agent can perform.
+- State — the state of the agent in the environment.
+- Reward — for each action selected by the agent the environment provides a reward. Usually a scalar value.
+- Policy — the decision-making function (control strategy) of the agent, which represents a mapping from situations to actions.
+- Value function — mapping from states to real numbers, where the value of a state represents the long-term reward achieved starting from that state, and executing a particular policy.
+- Function approximator — refers to the problem of inducing a function from training examples. Standard approximators include decision trees, neural networks, and nearest-neighbor methods
+- Markov decision process (MDP) — A probabilistic model of a sequential decision problem, where states can be perceived exactly, and the current state and action selected determine a probability distribution on future states. Essentially, the outcome of applying an action to a state depends only on the current action and state (and not on preceding actions or states).
+- Dynamic programming (DP) — is a class of solution methods for solving sequential decision problems with a compositional cost structure. Richard Bellman was one of the principal founders of this approach.
+- Monte Carlo methods — A class of methods for learning of value functions, which estimates the value of a state by running many trials starting at that state, then averages the total rewards received on those trials.
+- Temporal Difference (TD) algorithms — A class of learning methods, based on the idea of comparing temporally successive predictions. Possibly the single most fundamental idea in all of reinforcement learning.
+- Model — The agent’s view of the environment, which maps state-action pairs to probability distributions over states. Note that not every reinforcement learning agent uses a model of its environment
+
+
 
 Please refer to the 📜:[ARTICLE](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) for further detailing into the basic constructs of DeepRL ecosystem. <br>
 
 ## Significant Deep RL Models
 
 Deep RL Algorithms overview by Infographics
+***useful taxonomy of algorithms in modern RL**
 
 <img src="https://github.com/Deep-Mind-Hive/coach/blob/master/docs_raw/source/_static/img/algorithms.png" width = "900" height ="400" alt="Algorithms"/>
 

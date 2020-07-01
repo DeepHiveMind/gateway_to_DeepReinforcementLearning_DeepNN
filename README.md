@@ -85,7 +85,7 @@ Every destination of this tour is delicately curated to make your AI experience 
 ***
 Please note: 
  - ***This page serve as the Index page.***
- - Please click on hyperlinks of the respective items to delve deep into it, i.e, land to respective Repo/info-file.
+ - Please click on hyperlinks of the respective items to delve deep into it, i.e, ***Click to land at my Repos/info-files for deep dive***.
  - Please keep checking your **compass (this index page)** for to seamlessly steer your way to the next milestone of this wonderful journey.
 ***
 

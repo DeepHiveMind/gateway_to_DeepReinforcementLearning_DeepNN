@@ -351,6 +351,6 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 
 During KubeCon 2017, Vicki Cheung and Jonas Schneider delivered a keynote explaining how OpenAI manage to handle training at very large scale with Kubernetes, it is worth listening to: 
 
-<a href="https://www.youtube.com/watch?v=v4N3Krzb8Eg">![OpenAI](./thumbnail.png)</a>
+<a href="https://www.youtube.com/watch?v=v4N3Krzb8Eg">![OpenAI](https://github.com/DeepHiveMind/Kubeflow-AI-Labs/blob/master/0-intro/thumbnail.png)</a>
 
 #### Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)

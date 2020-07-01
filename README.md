@@ -284,6 +284,33 @@ In this repository, sharing with you delicately hand crafted exquisite bouquet o
  	- [Why AI/ML SECURITY is important](/README_Deep_Dive_into_AI_SECURITY.md#Why-AI-SECURITY-is-important)
 	- [Real World AI/ML System Comprehensive SOC Solution](/README_Deep_Dive_into_AI_SECURITY.md#Real-World-AI-Comprehensive-SOC-Solution)
  - [Real World ML System Powered by MLOPS](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps)
+ 
+	 - [INSPIRATION for MLOPS](#INSPIRATION_for_MLOPS)
+	     - [WHY DO WE NEED MLOPS?](#WHY-DO-WE-NEED-MLOPS)
+			- [EVOLUTION JOURNEY IN AI MATURITY CURVE](#EVOLUTION-IN-AI-MATURITY-JOURNEY)
+			- [INDUSTRY SURVEY](#INDUSTRY-SURVEY)
+			- [HIDDEN TECH DEBT IN REAL WORLD ML SYSTEM](#HIDDEN-TECH-DEBT-IN-REAL-WORLD-ML-SYSTEM)
+	- [MLOPS VS DATAOPS VS AIOPS VS PLATFORMOPS](#MLOPS-VS-DATAOPS-VS-AIOPS-VS-PLATFORMOPS)
+	- [STATE OF MACHINE LEARNING OPERATIONS IN Y2019](#STATE-OF-MACHINE-LEARNING-OPERATIONS-IN-Y2019)
+	- [MLOPS Reference Architecture](#MLOPS-Reference-Architecture)
+	- [High level constructs of MLOPS](#High-level-constructs-of-Real-World-MLOPS)
+	- [Detail References to the Constructs and Tools of MLOPS](#Detail-References-to-the-Constructs-and-Tools-of-MLOPS)
+	- [MLOPS Architecture based on KUBEFLOW](#MLOPS-Architecture-based-on-KUBEFLOW)
+		- [Train and Serve TensorFlow Models at Scale with KUBERNETES and KUBEFLOW](#Train-and-Serve-TensorFlow-Models-at-Scale-with-Kubernetes-and-Kubeflow)
+			-[Docker & Containerizatioin of AI Modules](https://github.com/DeepHiveMind/Kubeflow-AI-Labs/tree/master/1-docker)
+			-[Kubernetes K8S for AI](https://github.com/DeepHiveMind/Kubeflow-AI-Labs/tree/master/2-kubernetes)
+			-[Helm Charts on K8S for AI complex deployment](https://github.com/DeepHiveMind/Kubeflow-AI-Labs/tree/master/3-helm)
+			-[Kubeflow for AI MLOPS](https://github.com/DeepHiveMind/Kubeflow-AI-Labs/tree/master/4-kubeflow)
+			-[JupyterHub on K8S- AI Build Notebook](https://github.com/DeepHiveMind/Kubeflow-AI-Labs/tree/master/5-jupyterhub)
+			-[TFJob- K8S custom kind for AI Training on GPU/CPU/TPU](https://github.com/DeepHiveMind/Kubeflow-AI-Labs/tree/master/6-tfjob) 
+			-[Distributed Tensorflow](https://github.com/DeepHiveMind/Kubeflow-AI-Labs/tree/master/7-distributed-tensorflow)
+			-[Hyperparameters Sweep with Helm](https://github.com/DeepHiveMind/Kubeflow-AI-Labs/tree/master/8-hyperparam-sweep)
+			-[AI Model Serving for prediction/scoring](https://github.com/DeepHiveMind/Kubeflow-AI-Labs/tree/master/9-serving)
+
+
+- [Deep Dive into AI/ML SECURITY](#Deep-Dive-into-AI-SECURITY)
+ 
+ 
  - [AI Hub](/README_AI_Hub.md)
  - [FAQ Interview on DL/ML/AI](/README_FAQ_Interview_DL_ML_AI.md)
  - [References to the Constructs and Tools of AI/ML](#References-to-the-Constructs-and-Tools-of-AI-ML)

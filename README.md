@@ -344,8 +344,13 @@ Before, you take a leave, here is a quick recap of interesting journey through I
 
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR
-Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)
  
 [<img src="https://www.gstatic.com/aihub/lockup.svg" width ="200" height="200" />](https://aihub.cloud.google.com/)
 
+#### OpenAI: Building the Infrastructure that Powers the Future of AI 
 
+During KubeCon 2017, Vicki Cheung and Jonas Schneider delivered a keynote explaining how OpenAI manage to handle training at very large scale with Kubernetes, it is worth listening to: 
+
+<a href="https://www.youtube.com/watch?v=v4N3Krzb8Eg">![OpenAI](./thumbnail.png)</a>
+
+#### Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)

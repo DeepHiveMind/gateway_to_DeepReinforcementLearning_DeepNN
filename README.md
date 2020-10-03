@@ -331,12 +331,17 @@ Click below items for safe ladning on the planets of the respective items.
 |[🤖 AutoML](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README_Neural%20Architecture%20Search.md)| [📡 Functions as a service](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README_Function%20as%20a%20Service%20Frameworks.md) | [🔠 Industry-strength NLP](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README_Industrial%20Strength%20NLP.md) | [💰 Commercial Platforms](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README_Commercial%20Platforms.md) | 
 
 ## A Quick Recap through Infographics
+<br/>
 
 Hola! 
 You have arrived at your destination. Hope you chrished the journey. 
 
+<br/>
+
 Hurray!
 You are now Black belt Data Scientist.
+
+<br/>
 
 Sayonara!!
 Before, you take a leave, here is a quick recap of interesting journey through Infographics. No Words! Just the Visuals!

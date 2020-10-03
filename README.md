@@ -333,18 +333,15 @@ Click below items for safe ladning on the planets of the respective items.
 ## A Quick Recap through Infographics
 <br/>
 
-Hola! 
-You have arrived at your destination. Hope you chrished the journey. 
+***Hola!*** You have arrived at your destination. Hope you chrished the journey. 
 
 <br/>
 
-Hurray!
-You are now Black belt Data Scientist.
+***Hurray!*** You are now Black belt Data Scientist.
 
 <br/>
 
-Sayonara!!
-Before, you take a leave, here is a quick recap of interesting journey through Infographics. No Words! Just the Visuals!
+***Sayonara!!*** Before, you take a leave, here is a quick recap of interesting journey through Infographics. No Words! Just the Visuals!
 
 
 
@@ -389,3 +386,14 @@ During KubeCon 2017, Vicki Cheung and Jonas Schneider delivered a keynote explai
 <a href="https://www.youtube.com/watch?v=v4N3Krzb8Eg">![OpenAI](https://github.com/DeepHiveMind/Kubeflow-AI-Labs/blob/master/0-intro/thumbnail.png)</a>
 
 #### Please refer to [Additional references for learning and career transitioning to the world of 'DL,RL,DRL,NLP,ML,OCR'](#Additional-Reference)
+
+## Contact info
+
+Feel free to contact me to discuss any issues, questions, or comments.
+
+My contact info can be found on my [GitHub page](https://github.com/DeepHiveMind).
+
+## License
+
+*I, The DeepHiveMind, am providing code and resources in this repository to you under custom Copyright & license (Copyright 2020 DeepHiveMind & Creative Commons Legal Code CC0 1.0 Universal). Please Refer to the [Copyright 2020 DeepHiveMind License](#https://github.com/DeepHiveMind/HyperScale_Distributed_Smart_Secured_Enterprise-Grade-Product-Design/blob/main/LICENSE) for further details as to this. Thanks!
+

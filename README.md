@@ -331,27 +331,6 @@ Click below items for safe ladning on the planets of the respective items.
 |[🤖 AutoML](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README_Neural%20Architecture%20Search.md)| [📡 Functions as a service](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README_Function%20as%20a%20Service%20Frameworks.md) | [🔠 Industry-strength NLP](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README_Industrial%20Strength%20NLP.md) | [💰 Commercial Platforms](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps/blob/master/README_Commercial%20Platforms.md) | 
 
 
-## A quick recap of the some of the Cognitive models shared in this Repo
-
-Click below items for happy ladning on & surfing some of the very many Cognitive models shared by in the DeepHiveMind repo.
-
-***
-Please pay attention to the announcement: 
-**Some of these Models repos shared hereiwth me (DeepHiveMind) are delicately curated and handcrafted.**
-** There are many other Repos which I have shared in this project beyond what is listed out below. Takes to my other repos/info-files.**
-***
-
-| | | | |
-|-|-|-|-|
-| [🧵 Combining Cityscapes and Mapillary to train SSD using Supervise.ly](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/ssd)|
-[💸 Object Detection and Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation) |
-[💸 FaceMask-Adaptivity-Detection_Covid19](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/faceMask_adaptivity_detection_Covid19) |
-[💸 Skin lesion detection from dermoscopic images](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Skin_Cancer_Lesion_Segmentation_%26_Detection) |
-[💸 Automated_Brain_Tumour_Segmentation](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Automated_Brain_Tumour_Segmentation) |
-[💸 Skin lesion detection from dermoscopic images](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Skin_Cancer_Lesion_Segmentation_%26_Detection) |
-[💸 Skin lesion detection from dermoscopic images](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Skin_Cancer_Lesion_Segmentation_%26_Detection) |
-
-
 
 ## A Quick Recap through Infographics
 <br/>
@@ -396,6 +375,28 @@ Please pay attention to the announcement:
 
 <br>
 <img src="/Infographics/DSWorkflow.JPG" width="820" height="400" />
+
+
+## DeepHiveMind Cognitive AI Model Hub 
+
+A quick recap of the some of the Cognitive models shared in this Repo
+
+Please pay attention to the announcement: 
+- **Some of these Models repos shared hereiwth me (DeepHiveMind) are delicately curated and handcrafted.**
+
+- ** There are many other Repos which I have shared in this project beyond what is listed out below. Takes to my other repos/info-files.**
+
+Click below items for happy ladning on & surfing some of the very many Cognitive models shared by in the DeepHiveMind repo.
+
+| |
+|-|
+| [🧠 Combining Cityscapes and Mapillary to train SSD using Supervise.ly](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/ssd)|
+[🧠 Object Detection and Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation) |
+[🧠 FaceMask-Adaptivity-Detection_Covid19](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/faceMask_adaptivity_detection_Covid19) |
+[🧠 Skin lesion detection from dermoscopic images](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Skin_Cancer_Lesion_Segmentation_%26_Detection) |
+[🧠 Automated_Brain_Tumour_Segmentation](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Automated_Brain_Tumour_Segmentation) |
+[🧠 Skin lesion detection from dermoscopic images](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Skin_Cancer_Lesion_Segmentation_%26_Detection) |
+[🧠 Skin lesion detection from dermoscopic images](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Skin_Cancer_Lesion_Segmentation_%26_Detection) |
 
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR

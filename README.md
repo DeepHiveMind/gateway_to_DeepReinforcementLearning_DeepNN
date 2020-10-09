@@ -383,8 +383,7 @@ A quick recap of the some of the Cognitive models shared in this Repo
 
 Please pay attention to the announcement: 
 - **Some of these Models repos shared hereiwth me (DeepHiveMind) are delicately curated and handcrafted.**
-
-- ** There are many other Repos which I have shared in this project beyond what is listed out below. Takes to my other repos/info-files.**
+- **There are many other Repos which I have shared in this project beyond what is listed out below. Takes to my other repos/info-files.**
 
 Click below items for happy ladning on & surfing some of the very many Cognitive models shared by in the DeepHiveMind repo.
 
@@ -395,9 +394,16 @@ Click below items for happy ladning on & surfing some of the very many Cognitive
 [🧠 FaceMask-Adaptivity-Detection_Covid19](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/faceMask_adaptivity_detection_Covid19) |
 [🧠 Skin lesion detection from dermoscopic images](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Skin_Cancer_Lesion_Segmentation_%26_Detection) |
 [🧠 Automated_Brain_Tumour_Segmentation](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Automated_Brain_Tumour_Segmentation) |
-[🧠 Skin lesion detection from dermoscopic images](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Skin_Cancer_Lesion_Segmentation_%26_Detection) |
-[🧠 Skin lesion detection from dermoscopic images](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/tree/master/Skin_Cancer_Lesion_Segmentation_%26_Detection) |
-
+[🧠 Scene Text Detection from wild Images](https://github.com/DeepHiveMind/Text_Detection_Images_IDCard_CTPN/tree/master/ctpn) |
+[🧠 Road scene segmentation on Cityscapes with Tensorflow and UNet](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/unet_training) |
+[🧠 Custom OCR Engine and Model](https://github.com/DeepHiveMind/Text_Detection_Images_IDCard_CTPN/tree/master/densent_ocr) |
+[🧠 Automated Plate number & Plate State recognition ANPR using OCR Engine](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/anpr) |
+[🧠 Microsocpy Medical Healthcare Segmenting Nuclei in Microscopy Images](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation/samples/nucleus) |
+[🧠 NLP - Bidirectional_lstm_IMDB movie review sentiment classification](https://github.com/DeepHiveMind/keras-io/blob/master/examples/nlp/bidirectional_lstm_imdb.py) |
+[🧠 class activation heatmap for an image classification model](https://github.com/DeepHiveMind/keras-io/blob/master/examples/vision/grad_cam.py) |
+[🧠 A simple DCGAN Model](https://github.com/DeepHiveMind/keras-io/blob/master/examples/generative/dcgan_overriding_train_step.py) |
+[🧠 Neural Style Transfer](https://github.com/DeepHiveMind/keras-io/blob/master/examples/generative/neural_style_transfer.py) |
+[🧠 Timeseries Anomaly Detection using DeepNN](https://github.com/DeepHiveMind/keras-io/tree/master/examples/timeseries) |
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR
  

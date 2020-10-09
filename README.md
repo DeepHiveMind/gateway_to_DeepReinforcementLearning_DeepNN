@@ -404,6 +404,9 @@ Click below items for happy ladning on & surfing some of the very many Cognitive
 [🧠 A simple DCGAN Model](https://github.com/DeepHiveMind/keras-io/blob/master/examples/generative/dcgan_overriding_train_step.py) |
 [🧠 Neural Style Transfer](https://github.com/DeepHiveMind/keras-io/blob/master/examples/generative/neural_style_transfer.py) |
 [🧠 Timeseries Anomaly Detection using DeepNN](https://github.com/DeepHiveMind/keras-io/tree/master/examples/timeseries) |
+[🧠 ASR Speech Model](https://github.com/PaddlePaddle/DeepSpeech#trying-live-demo-with-your-own-voice) |
+[🧠 Neural Image Captioning](https://github.com/soloist97/Show-And-Tell-Keras) |
+[🧠 Bio Ontology Knowledge-Graph](https://github.com/DeepHiveMind/biograkn) |
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR
  

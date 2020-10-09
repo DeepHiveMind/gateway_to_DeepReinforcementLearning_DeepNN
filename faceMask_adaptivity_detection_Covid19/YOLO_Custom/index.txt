@@ -1,0 +1,9 @@
+'obj.names': Contains name of the classes
+ 'obj.data': Contains path variables
+ 'train.txt': Paths of training images
+ 'test.txt': Paths of test images
+ 'yolov3-tiny_obj_test.cfg': Test Configuration file for tiny yolo
+ 'yolov3-tiny_obj_train.cfg': Train Configuration file for tiny yolo
+ 'images': Contains images and annotation files, sample training images and annotation files are added here
+ 'yolov3_train.cfg': Train Configuration file for yolo
+ 'yolov3_test.cfg' : Test Configuration file for yolo

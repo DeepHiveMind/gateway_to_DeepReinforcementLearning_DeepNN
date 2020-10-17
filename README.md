@@ -399,6 +399,11 @@ Click below items for happy ladning on & surfing some of the very many Cognitive
 [🧠 Custom OCR Engine and Model](https://github.com/DeepHiveMind/Text_Detection_Images_IDCard_CTPN/tree/master/densent_ocr) |
 [🧠 Automated Plate number & Plate State recognition ANPR using OCR Engine](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/anpr) |
 [🧠 Microsocpy Medical Healthcare Segmenting Nuclei in Microscopy Images](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation/samples/nucleus) |
+[🧠 Language_Detection-in-OCR_Image_AI](https://github.com/DeepHiveMind/Language_Detection-in-OCR_Image_AI) |
+[🧠 License-Plate-Detection_Image_Video_AI-as-a-Service](https://github.com/DeepHiveMind/License-Plate-Detection_Image_Video_AI-as-a-Service) |
+[🧠 LicensePlateDetector-deployment-flask-master](https://github.com/DeepHiveMind/License-Plate-Detection_Image_Video_AI-as-a-Service) |
+[🧠 Face_Emotion_Detection_AI_Model](https://github.com/DeepHiveMind/Face_Emotion_Detection_AI_Model) |
+[🧠 Language_Detection-in-OCR_Image_AI](https://github.com/DeepHiveMind/Language_Detection-in-OCR_Image_AI) |
 [🧠 NLP - Bidirectional_lstm_IMDB movie review sentiment classification](https://github.com/DeepHiveMind/keras-io/blob/master/examples/nlp/bidirectional_lstm_imdb.py) |
 [🧠 class activation heatmap for an image classification model](https://github.com/DeepHiveMind/keras-io/blob/master/examples/vision/grad_cam.py) |
 [🧠 A simple DCGAN Model](https://github.com/DeepHiveMind/keras-io/blob/master/examples/generative/dcgan_overriding_train_step.py) |
@@ -407,6 +412,7 @@ Click below items for happy ladning on & surfing some of the very many Cognitive
 [🧠 ASR Speech Model](https://github.com/PaddlePaddle/DeepSpeech#trying-live-demo-with-your-own-voice) |
 [🧠 Neural Image Captioning](https://github.com/soloist97/Show-And-Tell-Keras) |
 [🧠 Bio Ontology Knowledge-Graph](https://github.com/DeepHiveMind/biograkn) |
+[🧠 Azure 'Serverless' Pipeline for Video_AI with Video Transcription and Key_Topic detection](https://github.com/DeepHiveMind/Azure-Serverless-Video_AI_Transcription_Key_Topic-Pipeline_WebApp) |
 
 ## Additional references to DL,RL,DRL,NLP,ML,OCR
  

@@ -413,6 +413,7 @@ Click below items for happy ladning on & surfing some of the very many Cognitive
 [🧠 Neural Image Captioning](https://github.com/soloist97/Show-And-Tell-Keras) |
 [🧠 Bio Ontology Knowledge-Graph](https://github.com/DeepHiveMind/biograkn) |
 [🧠 Video Action Recognition AI](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/blob/master/miscellaneous_models_ipynb/action_recognition_with_tf_hub.ipynb) |
+[🧠 AI_powered_PII-Protection-and-Anonymization_Image&Text_Service](https://github.com/DeepHiveMind/AI_powered_PII-Protection-and-Anonymization_Image-Text_Service) |
 [🧠 Azure 'Serverless' Pipeline for Video_AI with Video Transcription and Key_Topic detection](https://github.com/DeepHiveMind/Azure-Serverless-Video_AI_Transcription_Key_Topic-Pipeline_WebApp) |
 
  
